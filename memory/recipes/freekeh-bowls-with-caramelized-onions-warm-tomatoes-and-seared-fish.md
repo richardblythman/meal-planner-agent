@@ -21,7 +21,6 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 - ½ cup (7.5g) chopped fresh cilantro (1.5 × 5g)
 - ¾ teaspoon ground coriander (1.5 × ½ tsp)
 - 6 sea bass fillets (510g total, 3 × 170g Tesco packs, 2 fillets per pack)
-- ¾ small head radicchio, finely shredded (225g, 1.5 × 150g)
 - 2 avocados, peeled, pitted, and diced (320g)
 - 1.5 recipes Lemon Tahini Sauce
 - Dukkah
@@ -34,7 +33,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 3. Heat the remaining 1.5 tablespoons (23 ml) oil in a wide skillet over medium-high heat until shimmering. Pat the fish completely dry with paper towels and season on both sides with coriander, salt, and pepper. Add the fish to the skillet (work in batches if needed) and sear for 2 to 3 minutes per side.
 
-4. To serve, divide the quinoa and radicchio among bowls. Top with a fish fillet, caramelized onions and tomatoes, and avocado. Drizzle with Lemon Tahini Sauce and sprinkle with dukkah.
+4. To serve, divide the quinoa among bowls. Top with a fish fillet, caramelized onions and tomatoes, and avocado. Drizzle with Lemon Tahini Sauce and sprinkle with dukkah.
 
 ## Metadata
 
@@ -69,5 +68,5 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 - Fish fillets can be prepped and seared up to 2 hours ahead, refrigerated, and gently reheated
 - The caramelized onions and tomato mixture (Foster Sauce) keeps for 3-4 days refrigerated and reheats well
 - Quinoa can be made 1-2 days ahead and refrigerated
-- For meal prep: assemble grain and radicchio in containers; keep fish, sauce, avocado, and dukkah separate until serving
+- For meal prep: assemble grain in containers; keep fish, sauce, avocado, and dukkah separate until serving
 - Leftovers keep 2-3 days in an airtight container; reheat quinoa and fish gently (microwave or skillet), serve cold or warm

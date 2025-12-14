@@ -35,7 +35,6 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 - 380 g riced broccoli (1 × 380g pack from Tesco)
 - 500 g bok choy (2 × 250g packs from Tesco)
 - 2 cloves garlic, minced
-- 1 cup (40 g) shredded radicchio
 - 4 scallions, thinly sliced (approximately 40 g)
 - Kimchi (to taste)
 - Bean sprouts (to taste)
@@ -50,7 +49,7 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 
 3. Heat the remaining 1 tablespoon (15 ml) oil in the same skillet, add the bok choy, and toss to coat. Add the garlic and a pinch of salt, and sauté, tossing occasionally, until just wilted. Stir in the remaining ½ tablespoon (7 ml) coconut aminos and cook 1 minute longer.
 
-4. To serve, add the bok choy and radicchio to the bowls with the broccoli. Top with beef, scallions, kimchi, and bean sprouts, drizzle with Miso-Ginger Sauce, and sprinkle with sesame seeds.
+4. To serve, add the bok choy to the bowls with the broccoli. Top with beef, scallions, kimchi, and bean sprouts, drizzle with Miso-Ginger Sauce, and sprinkle with sesame seeds.
 
 ## Nutrition per Serving
 

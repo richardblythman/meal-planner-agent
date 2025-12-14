@@ -59,7 +59,6 @@
 - Baby spinach: 200g (6-7 packed cups)
 - English cucumber: 1 medium
 - Avocados: 4 total (2 from salmon bowls + 2 from freekeh bowls)
-- Radicchio: 225g (finely shredded)
 - Bok choy: 500g baby bok choy (2 × 250g packs from Tesco)
 - Shiitake mushrooms: 200g (2 × 100g packs from Tesco)
 - Garlic: 7 cloves total (minced for various dishes)
