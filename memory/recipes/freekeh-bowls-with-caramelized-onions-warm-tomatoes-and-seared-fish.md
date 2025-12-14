@@ -22,7 +22,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 - ¾ teaspoon ground coriander (1.5 × ½ tsp)
 - 6 sea bass fillets (510g total, 3 × 170g Tesco packs, 2 fillets per pack)
 - ¾ small head radicchio, finely shredded (225g, 1.5 × 150g)
-- 3 avocados, peeled, pitted, and diced (480g, 1.5 × 320g)
+- 2 avocados, peeled, pitted, and diced (320g)
 - 1.5 recipes Lemon Tahini Sauce
 - Dukkah
 
