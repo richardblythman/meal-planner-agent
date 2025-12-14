@@ -26,13 +26,14 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 
 ## Ingredients
 
+- 1 cup (185 g) white rice, uncooked
 - 2½ tablespoons (37 ml) avocado or extra-virgin olive oil, divided
-- 1 pound (455 g) ground beef
+- 1 pound (455 g) ground beef (1 × 450g pack from Tesco)
 - Kosher salt and freshly ground black pepper
 - 1½ tablespoons (23 ml) coconut aminos, divided
 - ¼ cup (12 g) chopped Thai basil
-- 16 ounces (455 g) riced broccoli
-- 1 large (or 2 medium) bok choy (approximately 455 g)
+- 16 ounces (380 g) riced broccoli (1 × 380g pack from Tesco)
+- 1 large (or 2 medium) bok choy (2 × 250g packs from Tesco, total 500 g)
 - 2 cloves garlic, minced
 - 1 cup (40 g) shredded radicchio
 - 4 scallions, thinly sliced (approximately 40 g)
@@ -55,32 +56,32 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 415 |
-| Protein | 38g |
-| Carbs | 15g |
+| Calories | 630 |
+| Protein | 40g |
+| Carbs | 71g |
 | Fat (Total) | 24g |
 | Saturated Fat | 8.2g |
 | Unsaturated Fat | 12g |
 | Fiber | 3.2g |
 | Sodium | 385mg |
-| Potassium | 625mg |
-| Calcium | 95mg |
-| Iron | 3.1mg |
-| Magnesium | 48mg |
-| Phosphorus | 285mg |
+| Potassium | 645mg |
+| Calcium | 98mg |
+| Iron | 3.5mg |
+| Magnesium | 55mg |
+| Phosphorus | 312mg |
 | Zinc | 5.8mg |
-| Copper | 0.12mg |
-| Manganese | 0.28mg |
-| Selenium | 24µg |
+| Copper | 0.14mg |
+| Manganese | 0.38mg |
+| Selenium | 26µg |
 | Vitamin A | 1520 IU |
 | Vitamin C | 85mg |
 | Vitamin E | 2.1mg |
 | Vitamin K | 125µg |
-| Thiamin (B1) | 0.12mg |
+| Thiamin (B1) | 0.24mg |
 | Riboflavin (B2) | 0.28mg |
-| Niacin (B3) | 6.2mg |
-| Vitamin B6 | 0.48mg |
-| Folate | 95µg |
+| Niacin (B3) | 6.8mg |
+| Vitamin B6 | 0.51mg |
+| Folate | 110µg |
 
 ## Notes
 
@@ -97,20 +98,23 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 - Kimchi and bean sprouts add probiotics and fresh crunch
 - Works well as a complete dinner bowl with all components
 
+- **Rice Preparation**: Cook 1 cup uncooked white rice according to package directions (typically 1:2 rice to water ratio, about 15-20 minutes). This makes approximately 3 cups cooked rice for serving alongside the bowls.
 - Leftovers keep 2-3 days in the refrigerator
 - Store in airtight containers; reheat gently to maintain vegetable texture
 - Can prepare broccoli rice in advance and store for up to 3 days
 - Ground beef can be cooked ahead and refrigerated for quick assembly
+- Rice can be cooked in advance and reheated or served at room temperature
 - Pairs well with the Miso-Ginger Sauce for additional umami and depth
 
 ## Nutritional Highlights
 
-- **High Protein**: 38g per serving (85% of daily value) supports muscle maintenance and recovery
-- **Low Carb**: Only 15g per serving with primarily vegetable-based carbohydrates
-- **Healthy Fats**: Primarily from avocado oil with healthy monounsaturated and polyunsaturated fats
+- **High Protein**: 40g per serving supports muscle maintenance and recovery from beef
+- **Balanced Macros**: 71g carbs from white rice provides sustained energy; 24g healthy fats from avocado oil
+- **Complete Meal**: Combination of protein (beef), complex carbs (rice), and vegetables creates a well-rounded dinner
 - **Rich in Vitamin K**: 125µg per serving (156% DV) from cruciferous vegetables supports bone health and blood clotting
 - **High in Vitamin C**: 85mg per serving (142% DV) supports collagen formation and immune function
-- **Excellent Iron Content**: 3.1mg per serving (17% DV) easily absorbed from beef
+- **Good Iron Content**: 3.5mg per serving (20% DV) easily absorbed from beef, enhanced by vitamin C
 - **High Zinc**: 5.8mg per serving (53% DV) from beef supports immune function and protein synthesis
+- **B Vitamins**: White rice provides thiamin, niacin, and folate for energy metabolism
 - **Anti-inflammatory**: Thai basil, garlic, and broccoli compounds provide antioxidant benefits
-- **Nutrient-Dense**: Maximizes micronutrient intake with minimal calorie density
+- **Complete Dinner Bowl**: All components in one dish—protein, carbs, vegetables, and healthy fats
