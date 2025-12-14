@@ -75,6 +75,7 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 | Selenium | 26µg |
 | Vitamin A | 1520 IU |
 | Vitamin C | 85mg |
+| Vitamin D | 15 IU |
 | Vitamin E | 2.1mg |
 | Vitamin K | 125µg |
 | Thiamin (B1) | 0.24mg |

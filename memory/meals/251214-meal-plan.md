@@ -138,6 +138,7 @@
 | Sodium | 1,207mg | 302mg | Moderate; accounts for cooking ingredients |
 | Vitamin A | 4,330 IU | 1,083 IU | Good; from leafy greens and vegetables |
 | Vitamin C | 135mg | 34mg | Good; from vegetables and greens |
+| Vitamin D | 8,320 IU | 2,080 IU | Excellent; salmon and white fish are outstanding sources |
 | Vitamin E | 5.6mg | 1.4mg | Moderate; from oils and nuts |
 | Vitamin K | 168µg | 42µg | Excellent; from cruciferous vegetables and leafy greens |
 

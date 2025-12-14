@@ -101,6 +101,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 | Potassium | 1050mg |
 | Vitamin C | 22mg |
 | Vitamin A | 380 IU |
+| Vitamin D | 660 IU |
 
 **Nutritional Breakdown Notes:**
 - Sauce contribution: ~60 calories, 8g protein (Greek yogurt), minimal carbs

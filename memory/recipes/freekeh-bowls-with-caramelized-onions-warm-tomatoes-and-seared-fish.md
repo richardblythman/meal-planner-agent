@@ -59,6 +59,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 | Calcium | 57mg |
 | Iron | 1.7mg |
 | Sodium | 207mg |
+| Vitamin D | 450 IU |
 
 ## Notes
 
