@@ -28,12 +28,12 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 
 - 1 cup (185 g) white rice, uncooked
 - 2½ tablespoons (37 ml) avocado or extra-virgin olive oil, divided
-- 1 pound (455 g) ground beef (1 × 450g pack from Tesco)
+- 450 g ground beef (1 × 450g pack from Tesco)
 - Kosher salt and freshly ground black pepper
 - 1½ tablespoons (23 ml) coconut aminos, divided
 - ¼ cup (12 g) chopped Thai basil
-- 16 ounces (380 g) riced broccoli (1 × 380g pack from Tesco)
-- 1 large (or 2 medium) bok choy (2 × 250g packs from Tesco, total 500 g)
+- 380 g riced broccoli (1 × 380g pack from Tesco)
+- 500 g bok choy (2 × 250g packs from Tesco)
 - 2 cloves garlic, minced
 - 1 cup (40 g) shredded radicchio
 - 4 scallions, thinly sliced (approximately 40 g)
