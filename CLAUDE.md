@@ -42,7 +42,9 @@ meal-planning-agent/
 ├── .claude/
 │   └── commands/              # Custom Claude Code commands for meal planning workflows
 ├── memory/
-│   ├── recipes.md            # Your recipe knowledge base with nutrition and timing
+│   ├── recipes/              # Individual recipe files with nutrition and timing
+│   │   ├── [recipe-name].md  # Individual recipe files
+│   │   └── ...
 │   ├── symptom_log.md        # Bristol scale entries with timing and context
 │   └── nutritional_targets.md # Your nutritional goals (to be defined)
 └── CLAUDE.md                 # This file - Claude Code's operational guide
@@ -52,7 +54,7 @@ meal-planning-agent/
 
 - **`.claude/commands/`**: Natural language instruction files that automate specific workflows (e.g., `/plan_weekly_meals`, `/generate_shopping_list`, `/analyze_symptoms`)
 
-- **`memory/recipes.md`**: Your recipe knowledge base. Manually edited to add new recipes. Structure includes ingredients, serving size, time estimate, meal tags (breakfast/lunch/dinner), and nutritional info per serving.
+- **`memory/recipes/`**: Your recipe knowledge base organized as individual markdown files. Each recipe includes ingredients, serving size, time estimate, meal tags (breakfast/lunch/dinner), and nutritional info per serving.
 
 - **`memory/symptom_log.md`**: Your Bristol scale logs with timestamps and associated meals eaten in the preceding 24-48 hours. You log this manually; the agent uses it for analysis.
 
@@ -102,8 +104,8 @@ meal-planning-agent/
 
 ### Adding Recipes
 
-1. Use `/add_recipe` command to format a new recipe consistently, OR
-2. Manually edit `memory/recipes.md` following the established format
+1. Use `/add_recipe` command to format a new recipe consistently as a separate file in `memory/recipes/`, OR
+2. Manually add new recipe files to `memory/recipes/` following the established format
 
 **Recipe metadata to include**:
 - Ingredients list with quantities
@@ -206,9 +208,9 @@ The agent communicates in a professional, evidence-based tone similar to a dieti
 
 ### Memory & Knowledge Base Structure
 
-- **`recipes.md`**: Source of truth for available meals. Each recipe includes full nutritional breakdown per serving.
-- **`symptom_log.md`**: Timeline of digestive observations. Newest entries at top, with consistent formatting.
-- **`nutritional_targets.md`**: Your personal goals. Initially empty; fill in as you research. Can include daily minimums, weekly targets, or ranges.
+- **`memory/recipes/`**: Source of truth for available meals. Each recipe has its own markdown file with full nutritional breakdown per serving.
+- **`memory/symptom_log.md`**: Timeline of digestive observations. Newest entries at top, with consistent formatting.
+- **`memory/nutritional_targets.md`**: Your personal goals. Initially empty; fill in as you research. Can include daily minimums, weekly targets, or ranges.
 
 ### Integration Points
 
@@ -242,7 +244,7 @@ When other agents are built:
 
 ### Knowledge Base
 
-- **`memory/recipes.md`**: All recipes with full nutritional data. Add recipes here; agent references for planning and shopping.
+- **`memory/recipes/`**: Recipe directory containing individual recipe files with full nutritional data. Add recipes here as separate `.md` files; agent references for planning and shopping.
 - **`memory/symptom_log.md`**: Your Bristol scale entries. Update regularly for pattern analysis to be meaningful.
 - **`memory/nutritional_targets.md`**: Your personal nutritional goals. Starts empty; add as you research.
 
@@ -261,8 +263,8 @@ When other agents are built:
 **Frequency**: Every few weeks to monthly, as you discover new meals.
 
 **Process**:
-1. Use `/add_recipe` for consistent formatting, OR
-2. Manually add to `memory/recipes.md` following the established structure
+1. Use `/add_recipe` for consistent formatting as a new file in `memory/recipes/`, OR
+2. Manually add new `.md` files to `memory/recipes/` following the established structure
 3. Include full nutritional breakdown per serving (look up in USDA databases or nutrition apps)
 4. Estimate prep time realistically (include active + passive time)
 5. Tag by meal type and note if it works as leftovers
@@ -322,20 +324,20 @@ When other agents are built:
 - Log results in `symptom_log.md` with conclusions
 
 **Scenario: "I want to add a lot of new recipes"**
-- Use `/add_recipe` command for each one (ensures consistent formatting)
-- Or manually add them in batches to `memory/recipes.md` following the structure
+- Use `/add_recipe` command for each one (ensures consistent formatting as separate files)
+- Or manually add new `.md` files to `memory/recipes/` following the structure
 - Commit with message like "Add 8 new lunch recipes"
 
 **Scenario: "My nutritional target is X, but my meals fall short"**
 - Use `/plan_weekly_meals` to identify which nutrients are low
-- Search `recipes.md` for alternatives rich in that nutrient
+- Search `memory/recipes/` for alternatives rich in that nutrient
 - Swap one meal for a higher option, or use agent to suggest complementary additions
 
 ### Debugging Agent Behavior
 
 If the agent's suggestions seem off:
 
-1. **Check recipe data**: Verify nutrition facts in `recipes.md` are accurate
+1. **Check recipe data**: Verify nutrition facts in `memory/recipes/` files are accurate
 2. **Check targets**: If nutritional goals aren't defined in `nutritional_targets.md`, the agent can't assess balance
 3. **Check meal selection format**: Ensure you've provided meals in the expected format (agent may miss poorly formatted entries)
 4. **Check symptom log consistency**: If you want pattern analysis, ensure `symptom_log.md` has several weeks of consistent entries
