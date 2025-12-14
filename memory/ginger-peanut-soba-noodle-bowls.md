@@ -2,9 +2,15 @@
 
 I went through a phase about a year ago when I wanted nothing for lunch but instant ramen noodles. I had recently written about a hack for bringing more flavor to the noodles by simmering sliced ginger in the water, and another for stirring in a spoonful of peanut butter at the end. On their own, each was blissfully good. But together, they made my noodles irresistibly amazing and I could not stop eating them. This is a much more wholesome version loaded with juicy strips of chicken and a good mix of vegetables, no weird spice packets necessary. The starchiness of the noodles and creaminess of the peanut butter thicken the broth quite a bit, so it's not quite soupy, yet not as thick as a sauce. And there's just enough of it to gloss over each bite of vegetables, chicken, and soba noodles.
 
+## Scaling Notes
+
+**Scaling**: 2x for dinner + lunch leftovers
+**Original Servings**: 4 | **Adjusted Servings**: 8
+**Note**: Ingredient quantities adjusted for supermarket packaging (2 whole wheat noodle packets from Tesco, 4 chicken breasts from 705g pack)
+
 ## Metadata
 
-- **Servings**: 4
+- **Servings**: 8 (4 dinner + 4 lunch leftovers)
 - **Prep Time**: 20 minutes
 - **Cook Time**: 35 minutes
 - **Difficulty**: 3/5
@@ -14,19 +20,19 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 ## Ingredients
 
-- 3 cups (705 ml) chicken stock
-- 2 tablespoons (12g) chopped fresh ginger
-- 250g whole wheat noodles (1 packet)
-- 1/4 cup (65g) smooth peanut butter
-- 3 tablespoons (45ml) avocado or extra-virgin olive oil, divided
-- 2 boneless, skinless chicken breasts (approx 340g total), pounded to 1/2 inch (1.3 cm) thick
+- 6 cups (1410 ml) chicken stock
+- 4 tablespoons (24g) chopped fresh ginger
+- 500g whole wheat noodles (2 packets from Tesco)
+- 1/2 cup (130g) smooth peanut butter
+- 6 tablespoons (90ml) avocado or extra-virgin olive oil, divided
+- 4 boneless, skinless chicken breasts (approx 680g total, from 705g Tesco pack), pounded to 1/2 inch (1.3 cm) thick
 - Kosher salt and freshly ground black pepper
-- 4 ounces (115g) shiitake mushrooms, sliced
-- 2 cloves (6g) garlic, minced
-- 4 heads (280g) baby bok choy, trimmed and halved lengthwise
-- 1/4 teaspoon (0.5g) red pepper flakes
-- 1/2 cup (55g) shredded carrot
-- 1 tablespoon (9g) sesame seeds
+- 8 ounces (230g) shiitake mushrooms, sliced
+- 4 cloves (12g) garlic, minced
+- 8 heads (560g) baby bok choy, trimmed and halved lengthwise
+- 1/2 teaspoon (1g) red pepper flakes
+- 1 cup (110g) shredded carrot
+- 2 tablespoons (18g) sesame seeds
 
 ## Instructions
 
@@ -84,6 +90,12 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - For vegetarian version, substitute tofu or tempeh for chicken
 - Sesame seeds provide calcium and add nutty flavor and crunch
 
+**Cooking notes for doubled recipe (8 servings)**:
+- Use a larger saucepan for simmering stock and noodles (6 cups)
+- You may need to cook the 4 chicken breasts in 2 batches or use a larger skillet to avoid crowding
+- Increase cooking times slightly for mushrooms and bok choy (stir more frequently as there's more volume)
+- Recipe provides ~4 bowls for dinner + ~4 lunch portions the next day
+
 ## Nutritional Highlights
 
 - **High Protein**: 39g per serving supports muscle maintenance and satiety
@@ -94,39 +106,6 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - **Vitamin A**: 2100 IU from carrots and bok choy supports vision and immune function
 - **B Vitamins**: Excellent source of niacin (B3) and B6 for energy metabolism
 - **Antioxidants**: Ginger, garlic, and shiitake mushrooms provide anti-inflammatory compounds
-
-## Recipe Scaling
-
-### Double Recipe (8 servings)
-To make 8 servings (great for dinner + next-day lunch):
-
-| Ingredient | Original (4 servings) | Doubled (8 servings) |
-|---|---|---|
-| Chicken stock | 3 cups (705ml) | 6 cups (1410ml) |
-| Fresh ginger | 2 tbsp (12g) | 4 tbsp (24g) |
-| Whole wheat noodles | 250g (1 packet) | 500g (2 packets) |
-| Smooth peanut butter | 1/4 cup (65g) | 1/2 cup (130g) |
-| Avocado or olive oil | 3 tbsp (45ml) | 6 tbsp (90ml) |
-| Chicken breasts | 2 breasts (340g) | 4 breasts (680g) |
-| Shiitake mushrooms | 4 oz (115g) | 8 oz (230g) |
-| Garlic | 2 cloves (6g) | 4 cloves (12g) |
-| Baby bok choy | 4 heads (280g) | 8 heads (560g) |
-| Red pepper flakes | 1/4 tsp (0.5g) | 1/2 tsp (1g) |
-| Shredded carrot | 1/2 cup (55g) | 1 cup (110g) |
-| Sesame seeds | 1 tbsp (9g) | 2 tbsp (18g) |
-
-**Nutrition per serving (doubled recipe remains the same)**:
-- Calories: 628
-- Protein: 39g
-- Carbs: 77g
-- Fiber: 11g
-- Fat: 24g
-
-**Cooking notes for doubled recipe**:
-- Use a larger saucepan for simmering stock and noodles
-- You may need to cook the 4 chicken breasts in 2 batches or use a larger skillet to avoid crowding
-- Increase cooking times slightly for mushrooms and bok choy (stir more frequently as there's more volume)
-- Recipe will provide 8 bowls for dinner + 4-5 lunch portions (depending on appetite)
 
 ## Unit Conversions & Substitutions
 
