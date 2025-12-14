@@ -35,7 +35,6 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - 4 cloves (12g) garlic, minced
 - 500g baby bok choy (2 x 250g packs from Tesco), trimmed and halved lengthwise
 - 1/2 teaspoon (1g) red pepper flakes
-- 1 cup (110g) shredded carrot
 - 2 tablespoons (18g) sesame seeds
 
 ## Instructions
@@ -48,32 +47,32 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 4. Add the remaining 1 tablespoon (15 ml) oil to the skillet along with the bok choy, salt, and red pepper flakes, and stir to coat. Cook, stirring occasionally, until wilted.
 
-5. Slice the chicken into strips. To serve, divide the whole wheat noodles among bowls and top with chicken, mushrooms, bok choy, and carrots. Pour the reserved peanut sauce over the top and sprinkle with sesame seeds.
+5. Slice the chicken into strips. To serve, divide the whole wheat noodles among bowls and top with chicken, mushrooms, and bok choy. Pour the reserved peanut sauce over the top and sprinkle with sesame seeds.
 
 ## Nutrition per Serving
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 633 |
+| Calories | 619 |
 | Protein | 40g |
-| Carbs | 76g |
+| Carbs | 74g |
 | Fat (Total) | 24g |
 | Saturated Fat | 3.6g |
-| Fiber | 11g |
+| Fiber | 10g |
 | Sodium | 615mg |
-| Potassium | 810mg |
-| Calcium | 168mg |
+| Potassium | 805mg |
+| Calcium | 165mg |
 | Iron | 4.1mg |
-| Magnesium | 108mg |
+| Magnesium | 107mg |
 | Phosphorus | 404mg |
 | Zinc | 3.3mg |
 | Copper | 0.85mg |
 | Manganese | 1.4mg |
 | Selenium | 28µg |
-| Vitamin A | 2050 IU |
-| Vitamin C | 31mg |
+| Vitamin A | 1850 IU |
+| Vitamin C | 28mg |
 | Vitamin E | 3.5mg |
-| Vitamin K | 44µg |
+| Vitamin K | 43µg |
 | Thiamin (B1) | 0.36mg |
 | Riboflavin (B2) | 0.43mg |
 | Niacin (B3) | 12mg |
@@ -106,8 +105,8 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - **High Fiber**: 11g per serving from whole wheat noodles supports digestion and sustained energy
 - **Complex Carbs**: Whole wheat noodles provide sustained energy and excellent source of B vitamins
 - **Healthy Fats**: Primarily from peanut butter, avocado oil, and sesame seeds
-- **Rich in Iron**: 4.2mg per serving (23% DV), important for energy and oxygen transport
-- **Vitamin A**: 2100 IU from carrots and bok choy supports vision and immune function
+- **Rich in Iron**: 4.1mg per serving (23% DV), important for energy and oxygen transport
+- **Vitamin A**: 1850 IU from bok choy supports vision and immune function
 - **B Vitamins**: Excellent source of niacin (B3) and B6 for energy metabolism
 - **Antioxidants**: Ginger, garlic, and shiitake mushrooms provide anti-inflammatory compounds
 
