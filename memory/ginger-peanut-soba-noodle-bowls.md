@@ -6,7 +6,11 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 **Scaling**: 2x for dinner + lunch leftovers
 **Original Servings**: 4 | **Adjusted Servings**: 8
-**Note**: Ingredient quantities adjusted for supermarket packaging (2 whole wheat noodle packets from Tesco, 4 chicken breasts from 705g pack)
+**Note**: Ingredient quantities adjusted for Tesco supermarket packaging:
+- Whole wheat noodles: 2 x 250g packets = 500g
+- Chicken breasts: 4 breasts from 705g pack
+- Shiitake mushrooms: 2 x 100g packs = 200g
+- Baby bok choy: 2 x 250g packs = 500g
 
 ## Metadata
 
@@ -27,9 +31,9 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - 6 tablespoons (90ml) avocado or extra-virgin olive oil, divided
 - 4 boneless, skinless chicken breasts (705g from Tesco pack), pounded to 1/2 inch (1.3 cm) thick
 - Kosher salt and freshly ground black pepper
-- 8 ounces (230g) shiitake mushrooms, sliced
+- 200g shiitake mushrooms (2 x 100g packs from Tesco), sliced
 - 4 cloves (12g) garlic, minced
-- 8 heads (560g) baby bok choy, trimmed and halved lengthwise
+- 500g baby bok choy (2 x 250g packs from Tesco), trimmed and halved lengthwise
 - 1/2 teaspoon (1g) red pepper flakes
 - 1 cup (110g) shredded carrot
 - 2 tablespoons (18g) sesame seeds
@@ -50,31 +54,31 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 637 |
+| Calories | 633 |
 | Protein | 40g |
-| Carbs | 77g |
+| Carbs | 76g |
 | Fat (Total) | 24g |
 | Saturated Fat | 3.6g |
 | Fiber | 11g |
-| Sodium | 620mg |
-| Potassium | 820mg |
-| Calcium | 170mg |
-| Iron | 4.2mg |
-| Magnesium | 110mg |
-| Phosphorus | 405mg |
+| Sodium | 615mg |
+| Potassium | 810mg |
+| Calcium | 168mg |
+| Iron | 4.1mg |
+| Magnesium | 108mg |
+| Phosphorus | 404mg |
 | Zinc | 3.3mg |
-| Copper | 0.86mg |
+| Copper | 0.85mg |
 | Manganese | 1.4mg |
 | Selenium | 28µg |
-| Vitamin A | 2100 IU |
-| Vitamin C | 32mg |
+| Vitamin A | 2050 IU |
+| Vitamin C | 31mg |
 | Vitamin E | 3.5mg |
-| Vitamin K | 45µg |
+| Vitamin K | 44µg |
 | Thiamin (B1) | 0.36mg |
 | Riboflavin (B2) | 0.43mg |
 | Niacin (B3) | 12mg |
 | Vitamin B6 | 0.86mg |
-| Folate | 48µg |
+| Folate | 47µg |
 
 ## Notes
 
