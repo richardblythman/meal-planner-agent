@@ -341,8 +341,30 @@ Recipe Summary:
 - Difficulty: 2/5
 - Cuisine: American
 - Tags: dessert, quick, weeknight
+- Scaling Applied: No
 
 The recipe is ready to use for meal planning and shopping lists!
+```
+
+**Alternative Output (with Scaling)**:
+```
+✓ Recipe added successfully!
+
+File: kb/recipes/salmon-bowl.md
+
+Recipe Summary:
+- Title: Almond-Quinoa & Salmon Bowl
+- Servings: 4 (2 dinner + 2 lunch leftovers)
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Difficulty: 2/5
+- Cuisine: Fusion
+- Tags: lunch, dinner, quick, protein-heavy
+- Scaling Applied: 2x for dinner + lunch leftovers
+- Supermarket Adjustments: Salmon fillets scaled to 4-pack (440g total at 110g each)
+
+The recipe is ready to use for meal planning and shopping lists!
+See the "Scaling Notes" section in the recipe for details on adjustments made.
 ```
 
 ---
