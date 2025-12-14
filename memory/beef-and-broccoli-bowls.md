@@ -22,7 +22,7 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 - **Difficulty**: 3/5
 - **Cuisine**: Asian Fusion
 - **Tags**: dinner
-- **Source**: Butter Bowls cookbook
+- **Source**: Buddha Bowls book
 
 ## Ingredients
 
