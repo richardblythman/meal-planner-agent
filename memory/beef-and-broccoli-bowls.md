@@ -98,7 +98,6 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 - Kimchi and bean sprouts add probiotics and fresh crunch
 - Works well as a complete dinner bowl with all components
 
-- **Rice Preparation**: Cook 1 cup uncooked white rice according to package directions (typically 1:2 rice to water ratio, about 15-20 minutes). This makes approximately 3 cups cooked rice for serving alongside the bowls.
 - Leftovers keep 2-3 days in the refrigerator
 - Store in airtight containers; reheat gently to maintain vegetable texture
 - Can prepare broccoli rice in advance and store for up to 3 days
