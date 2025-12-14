@@ -56,7 +56,7 @@
 ### Vegetables
 - Baby potatoes: 500g (halved for roasting)
 - Red onion: 1 large (450g) + 1 large (300g) = 1.35 kg total
-- Baby spinach: 360g (12 packed cups)
+- Baby spinach: 200g (6-7 packed cups)
 - English cucumber: 1 medium
 - Avocados: 5 total (2 from salmon bowls + 3 from freekeh bowls)
 - Radicchio: 225g (finely shredded)
