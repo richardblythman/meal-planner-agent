@@ -2,6 +2,18 @@
 
 These bowls are not that beef and broccoli. They are so far from it, yet at the same time pull hard on the underlying ingredients, umami-rich, savory flavors, and comfort we associate with that saucy take-out dish. This version is wholesome, nourishing, and packed with lots of green vegetables and herbs. It starts with an underrated and underutilized favorite: broccoli stems. Here, they're processed into rice-like grains and quickly sautéed for a tender bite with a mild-mannered flavor.
 
+## Supermarket Packaging Notes
+
+**Scaling**: 1x for dinner + lunch leftovers the next day
+**Servings**: 4 (2 dinner + 2 lunch leftovers)
+
+**Supermarket Adjustments** (Tesco):
+- Ground beef: 1 × 450g pack from Tesco (recipe calls for 455g)
+- Riced broccoli: 1 × 380g pack from Tesco (recipe calls for 455g - slight reduction noted but minimal impact on nutrition)
+- Bok choy: 2 × 250g packs from Tesco (total 500g for 1 large bok choy + extra)
+
+*Note*: The slight reduction in broccoli (from 455g to 380g) has minimal nutritional impact (~16g reduction) but uses standard supermarket packaging. If you prefer the full amount, you can purchase a second small broccoli and use the remainder for another meal.
+
 ## Metadata
 
 - **Servings**: 4
