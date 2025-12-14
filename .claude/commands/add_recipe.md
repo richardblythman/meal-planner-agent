@@ -42,8 +42,13 @@ None - the command is fully interactive.
 ### Prerequisites
 - USDA FoodData Central API key (free, get one at: https://fdc.nal.usda.gov/api-key-signup.html)
 - API key stored as environment variable: `USDA_API_KEY`
-- `kb/recipes/` directory exists in your knowledge base
+  - **Option 1 (Recommended)**: Store in `.env` file at project root as `USDA_API_KEY=your_key_here` (will be automatically loaded)
+  - **Option 2**: Export as environment variable: `export USDA_API_KEY="your_key_here"`
+  - **Option 3**: Add to shell profile (`.bashrc`, `.zshrc`, etc.) for permanent availability
+- `memory/` directory exists in your knowledge base (recipes stored in `memory/[recipe-name].md`)
 - Node.js or access to JavaScript execution environment (for API calls and JSON parsing)
+
+**Note on API Key Security**: Store your API key in `.env` (which should be in `.gitignore`) or as a shell environment variable, never commit it to version control.
 
 ### Step-by-Step Workflow
 
@@ -147,11 +152,18 @@ None - the command is fully interactive.
 - If ingredient not found in USDA: Prompt "'{ingredient}' not found in USDA database. Please clarify (e.g., 'white flour', 'unsalted butter', etc.):"
 - If amount is vague (e.g., "a pinch", "to taste"): Flag and ask "Please specify amount for '{ingredient}' (e.g., 1 teaspoon, 100g):"
 - If conversion uncertain: Ask user to confirm (e.g., "I'm converting '2 cups flour' to ~256g. Is this correct? (yes/no)")
+- **If USDA API is unreachable or returns errors**:
+  - Log the error with timestamp and ingredient being looked up
+  - Fall back to standard USDA nutrition reference data for that ingredient (pre-calculated values)
+  - Notify user: "Note: Using reference nutrition data for '{ingredient}' (live API lookup unavailable)"
+  - Continue processing without blocking the recipe creation
+  - Provide disclaimer in recipe notes if fallback was used
 
 **Important Notes**:
 - **IMPORTANT**: Be thorough with ingredient matching. If the USDA database returns multiple results, show options to user.
 - **IMPORTANT**: Flag all unit conversions so user can verify accuracy.
 - Handle ingredient variations: "flour" might be "all-purpose flour", "butter" might be "salted butter", etc.
+- **API Resilience**: The command should not fail entirely if the USDA API is temporarily unavailable; use cached/reference data instead.
 
 ---
 
@@ -348,3 +360,50 @@ kb/
 - USDA API calls should be made for each ingredient; cache results within a session to avoid redundant lookups
 - Interactive prompts should be clear and help users provide clarifications when needed
 - All user input should be validated before proceeding to next steps
+
+## Troubleshooting & Common Issues
+
+### API Key Problems
+
+**Issue**: "USDA_API_KEY environment variable not set"
+- **Solution**: Ensure your `.env` file contains `USDA_API_KEY=your_key` or run `export USDA_API_KEY="your_key"` in terminal before running the command
+- **If you don't have an API key**: Get one free at https://fdc.nal.usda.gov/api-key-signup.html (instant signup)
+
+**Issue**: "API key appears invalid or expired"
+- **Solution**: Generate a new API key from https://fdc.nal.usda.gov/api-key-signup.html and update your `.env` file
+
+### API Connectivity Issues
+
+**Issue**: USDA API returns errors (HTTP 5xx, timeouts, connection refused)
+- **Expected Behavior**: Command automatically falls back to reference nutrition data
+- **What You'll See**: "Note: Using reference nutrition data for '{ingredient}' (live API lookup unavailable)"
+- **Action Required**: None—recipe will still be created with standard nutrition values
+- **Best Practice**: Try again later if all ingredients show fallback warnings; live API may be temporarily unavailable
+
+**Issue**: API returns HTML instead of JSON (403/404 errors)
+- **Common Cause**: USDA API endpoint may have changed or your internet connection is blocked
+- **Solution**: Check internet connectivity; if persistent, contact USDA FoodData Central support
+
+### Accuracy & Data Quality
+
+**Issue**: "Nutritional values seem off for ingredient X"
+- **Cause**: Reference data uses standard USDA values; prepared/processed foods may vary
+- **Solution**: After recipe creation, you can manually edit the nutrition table in the markdown file if needed
+- **Tip**: For processed foods with nutrition labels, use the label values instead of generic USDA data
+
+**Issue**: "I want to use specific nutrition data (from package label, etc.)"
+- **Solution**: After the recipe is created, open the markdown file and edit the nutrition table directly
+- **Format**: Keep the same table structure; values should be per serving
+
+### Reference Data (Fallback Values)
+
+The command includes pre-calculated reference nutrition data for common ingredients (based on USDA FoodData Central):
+- Grains: quinoa, rice, wheat flour, oats
+- Proteins: chicken, salmon, beef, tofu, eggs
+- Vegetables: broccoli, spinach, carrots, beets, arugula
+- Fruits: apple, banana, berries, orange
+- Fats & Oils: olive oil, avocado oil, butter
+- Nuts & Seeds: almonds, walnuts, flax seed
+- Dairy: milk, yogurt, cheese
+
+If an ingredient is not in this list and the API is unavailable, the command will prompt for clarification or ask if you'd like to use a similar ingredient's data.
