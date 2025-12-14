@@ -190,12 +190,50 @@ None - the command is fully interactive.
 
 ---
 
-#### Step 6: Collect Missing Metadata
+#### Step 6: Collect Scaling & Substitution Preferences
+**Purpose**: Determine how the recipe scales for multiple servings (e.g., dinner + lunch leftovers) and adjust ingredient quantities to match supermarket packaging.
+
+**Actions**:
+1. Ask user: "How would you like to scale this recipe for multiple occasions (e.g., dinner + lunch the next day)? For example, '2x for dinner + lunch leftovers'. [optional, press Enter to skip]:"
+   - User may respond with:
+     - A multiplier: "2x" (double the recipe)
+     - Specific occasion mapping: "1.5x for dinner + next day lunch"
+     - Skip (Enter) if no scaling needed
+
+2. If scaling provided:
+   - Recalculate all ingredient quantities by the scaling factor
+   - Recalculate servings count accordingly
+   - Update the recipe's serving size description to reflect the scaling intent (e.g., "Serves 6 (3 dinner + 3 lunch leftovers)")
+
+3. Ask user: "Do you want to adjust ingredient quantities to match supermarket packaging? (e.g., salmon fillets come in 4-pack at 110g each) [yes/no, optional]:"
+   - If yes: For each ingredient, offer:
+     - "For [ingredient name]: Current amount is [X]. Supermarket option: [option]. Use supermarket quantity? (yes/no):"
+     - Allow user to input custom supermarket packaging options
+     - Update ingredient quantities based on available packaging
+
+4. Store final adjusted quantities and scaling rationale
+
+**Validation**:
+- Scaling factor is numeric and > 0 if provided
+- Adjusted quantities are realistic (not absurdly large or small)
+- Scaling rationale is recorded for future reference
+
+**Error Handling**:
+- If scaling factor not numeric: Re-prompt "Please enter scaling factor (e.g., 1.5, 2, 0.5):"
+- If adjustment results in unrealistic quantities: Warn user and ask to confirm
+
+**Important Notes**:
+- **IMPORTANT**: This step helps recipes be more practical for real-world shopping and meal planning. Users often need to scale recipes to their household size and work with supermarket packaging constraints.
+- Store the original recipe quantities for reference, and note the scaling applied.
+
+---
+
+#### Step 6.5: Collect Missing Metadata
 **Purpose**: Gather any metadata not extracted from the recipe text.
 
 **Actions**:
 1. For each metadata field, check if it was extracted in Step 3:
-   - Servings (already confirmed in Step 5)
+   - Servings (already confirmed in Step 5 and possibly adjusted in Step 6)
    - Prep time (minutes, e.g., "15 min")
    - Cook time (minutes, e.g., "30 min")
    - Difficulty (1-5 scale: 1=very easy, 5=very hard)
