@@ -25,7 +25,7 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - 500g whole wheat noodles (2 packets from Tesco)
 - 1/2 cup (130g) smooth peanut butter
 - 6 tablespoons (90ml) avocado or extra-virgin olive oil, divided
-- 4 boneless, skinless chicken breasts (approx 680g total, from 705g Tesco pack), pounded to 1/2 inch (1.3 cm) thick
+- 4 boneless, skinless chicken breasts (705g from Tesco pack), pounded to 1/2 inch (1.3 cm) thick
 - Kosher salt and freshly ground black pepper
 - 8 ounces (230g) shiitake mushrooms, sliced
 - 4 cloves (12g) garlic, minced
@@ -50,30 +50,30 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 628 |
-| Protein | 39g |
+| Calories | 637 |
+| Protein | 40g |
 | Carbs | 77g |
 | Fat (Total) | 24g |
-| Saturated Fat | 3.5g |
+| Saturated Fat | 3.6g |
 | Fiber | 11g |
 | Sodium | 620mg |
 | Potassium | 820mg |
 | Calcium | 170mg |
 | Iron | 4.2mg |
 | Magnesium | 110mg |
-| Phosphorus | 400mg |
-| Zinc | 3.2mg |
-| Copper | 0.85mg |
+| Phosphorus | 405mg |
+| Zinc | 3.3mg |
+| Copper | 0.86mg |
 | Manganese | 1.4mg |
 | Selenium | 28µg |
 | Vitamin A | 2100 IU |
 | Vitamin C | 32mg |
 | Vitamin E | 3.5mg |
 | Vitamin K | 45µg |
-| Thiamin (B1) | 0.35mg |
-| Riboflavin (B2) | 0.42mg |
+| Thiamin (B1) | 0.36mg |
+| Riboflavin (B2) | 0.43mg |
 | Niacin (B3) | 12mg |
-| Vitamin B6 | 0.85mg |
+| Vitamin B6 | 0.86mg |
 | Folate | 48µg |
 
 ## Notes
@@ -98,7 +98,7 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 ## Nutritional Highlights
 
-- **High Protein**: 39g per serving supports muscle maintenance and satiety
+- **High Protein**: 40g per serving supports muscle maintenance and satiety
 - **High Fiber**: 11g per serving from whole wheat noodles supports digestion and sustained energy
 - **Complex Carbs**: Whole wheat noodles provide sustained energy and excellent source of B vitamins
 - **Healthy Fats**: Primarily from peanut butter, avocado oil, and sesame seeds
