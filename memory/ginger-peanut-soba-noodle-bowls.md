@@ -95,6 +95,39 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - **B Vitamins**: Excellent source of niacin (B3) and B6 for energy metabolism
 - **Antioxidants**: Ginger, garlic, and shiitake mushrooms provide anti-inflammatory compounds
 
+## Recipe Scaling
+
+### Double Recipe (8 servings)
+To make 8 servings (great for dinner + next-day lunch):
+
+| Ingredient | Original (4 servings) | Doubled (8 servings) |
+|---|---|---|
+| Chicken stock | 3 cups (705ml) | 6 cups (1410ml) |
+| Fresh ginger | 2 tbsp (12g) | 4 tbsp (24g) |
+| Whole wheat noodles | 250g (1 packet) | 500g (2 packets) |
+| Smooth peanut butter | 1/4 cup (65g) | 1/2 cup (130g) |
+| Avocado or olive oil | 3 tbsp (45ml) | 6 tbsp (90ml) |
+| Chicken breasts | 2 breasts (340g) | 4 breasts (680g) |
+| Shiitake mushrooms | 4 oz (115g) | 8 oz (230g) |
+| Garlic | 2 cloves (6g) | 4 cloves (12g) |
+| Baby bok choy | 4 heads (280g) | 8 heads (560g) |
+| Red pepper flakes | 1/4 tsp (0.5g) | 1/2 tsp (1g) |
+| Shredded carrot | 1/2 cup (55g) | 1 cup (110g) |
+| Sesame seeds | 1 tbsp (9g) | 2 tbsp (18g) |
+
+**Nutrition per serving (doubled recipe remains the same)**:
+- Calories: 628
+- Protein: 39g
+- Carbs: 77g
+- Fiber: 11g
+- Fat: 24g
+
+**Cooking notes for doubled recipe**:
+- Use a larger saucepan for simmering stock and noodles
+- You may need to cook the 4 chicken breasts in 2 batches or use a larger skillet to avoid crowding
+- Increase cooking times slightly for mushrooms and bok choy (stir more frequently as there's more volume)
+- Recipe will provide 8 bowls for dinner + 4-5 lunch portions (depending on appetite)
+
 ## Unit Conversions & Substitutions
 
 - **Noodles**: 250g whole wheat noodles packet (from Tesco) replaces 225g buckwheat soba
