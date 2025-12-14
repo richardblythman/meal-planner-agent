@@ -190,12 +190,50 @@ None - the command is fully interactive.
 
 ---
 
-#### Step 6: Collect Missing Metadata
+#### Step 6: Collect Scaling & Substitution Preferences
+**Purpose**: Determine how the recipe scales for multiple servings (e.g., dinner + lunch leftovers) and adjust ingredient quantities to match supermarket packaging.
+
+**Actions**:
+1. Ask user: "How would you like to scale this recipe for multiple occasions (e.g., dinner + lunch the next day)? For example, '2x for dinner + lunch leftovers'. [optional, press Enter to skip]:"
+   - User may respond with:
+     - A multiplier: "2x" (double the recipe)
+     - Specific occasion mapping: "1.5x for dinner + next day lunch"
+     - Skip (Enter) if no scaling needed
+
+2. If scaling provided:
+   - Recalculate all ingredient quantities by the scaling factor
+   - Recalculate servings count accordingly
+   - Update the recipe's serving size description to reflect the scaling intent (e.g., "Serves 6 (3 dinner + 3 lunch leftovers)")
+
+3. Ask user: "Do you want to adjust ingredient quantities to match supermarket packaging? (e.g., salmon fillets come in 4-pack at 110g each) [yes/no, optional]:"
+   - If yes: For each ingredient, offer:
+     - "For [ingredient name]: Current amount is [X]. Supermarket option: [option]. Use supermarket quantity? (yes/no):"
+     - Allow user to input custom supermarket packaging options
+     - Update ingredient quantities based on available packaging
+
+4. Store final adjusted quantities and scaling rationale
+
+**Validation**:
+- Scaling factor is numeric and > 0 if provided
+- Adjusted quantities are realistic (not absurdly large or small)
+- Scaling rationale is recorded for future reference
+
+**Error Handling**:
+- If scaling factor not numeric: Re-prompt "Please enter scaling factor (e.g., 1.5, 2, 0.5):"
+- If adjustment results in unrealistic quantities: Warn user and ask to confirm
+
+**Important Notes**:
+- **IMPORTANT**: This step helps recipes be more practical for real-world shopping and meal planning. Users often need to scale recipes to their household size and work with supermarket packaging constraints.
+- Store the original recipe quantities for reference, and note the scaling applied.
+
+---
+
+#### Step 6.5: Collect Missing Metadata
 **Purpose**: Gather any metadata not extracted from the recipe text.
 
 **Actions**:
 1. For each metadata field, check if it was extracted in Step 3:
-   - Servings (already confirmed in Step 5)
+   - Servings (already confirmed in Step 5 and possibly adjusted in Step 6)
    - Prep time (minutes, e.g., "15 min")
    - Cook time (minutes, e.g., "30 min")
    - Difficulty (1-5 scale: 1=very easy, 5=very hard)
@@ -228,7 +266,7 @@ None - the command is fully interactive.
 ---
 
 #### Step 7: Create Standardized Markdown File
-**Purpose**: Generate the final recipe markdown file with consistent formatting.
+**Purpose**: Generate the final recipe markdown file with consistent formatting, including scaling and supermarket packaging adjustments.
 
 **Actions**:
 1. Generate filename: Convert recipe title to lowercase, replace spaces with hyphens, remove special characters
@@ -237,7 +275,8 @@ None - the command is fully interactive.
 3. Structure the markdown with these sections in order:
    - **Title** (# header)
    - **Story/Intro** (optional, if present)
-   - **Ingredients** (bulleted list with standardized formatting)
+   - **Scaling Notes** (optional, if scaling was applied in Step 6)
+   - **Ingredients** (bulleted list with standardized formatting, reflecting any scaling or packaging adjustments)
    - **Instructions** (numbered list)
    - **Metadata** (Servings, Prep Time, Cook Time, Difficulty, Cuisine Type, Dietary Restrictions, Tags, Source)
    - **Nutrition Information** (per serving, table or structured format)
@@ -245,39 +284,26 @@ None - the command is fully interactive.
 4. Format details:
    - Title: `# Recipe Title`
    - Story: Plain text paragraph(s)
+   - Scaling Notes (if applicable):
+     ```
+     **Scaling**: 2x for dinner + lunch leftovers
+     **Original Servings**: 2 | **Adjusted Servings**: 4
+     **Note**: Ingredient quantities adjusted for supermarket packaging (e.g., salmon fillets purchased as 4-pack at 110g each)
+     ```
    - Ingredients: `- [amount] [unit] [ingredient name]`
      - Include flagged conversions as comments: `- 256g flour (converted from 2 cups)`
+     - Include supermarket packaging notes: `- 440g salmon fillets (4 x 110g from 4-pack)`
    - Instructions: Numbered steps, one per line
    - Metadata: Key-value format or structured
-   - Nutrition: Table format with values rounded to 2 sig figs
-     ```
-     | Nutrient | Per Serving |
-     |----------|-------------|
-     | Calories | 240 |
-     | Protein | 8.2g |
-     | Carbs | 32g |
-     | Fat (Total) | 8.5g |
-     | Saturated Fat | 3.2g |
-     | Unsaturated Fat | 4.8g |
-     | Fiber | 2.1g |
-     | Vitamin A | 450 IU |
-     | Vitamin B12 | 0.5 µg |
-     | Vitamin C | 5.2mg |
-     | Vitamin D | 0 IU |
-     | Vitamin E | 1.2mg |
-     | Vitamin K | 8.5 µg |
-     | Calcium | 120mg |
-     | Iron | 1.8mg |
-     | Sodium | 280mg |
-     | Potassium | 350mg |
-     | Magnesium | 45mg |
-     ```
+   - Nutrition: Table format with values rounded to 2 sig figs (same as before)
 
 5. Write file to disk
 
 **Validation**:
 - File created successfully at `kb/recipes/[filename]`
 - File contains all required sections
+- Scaling notes are clear and complete if applied
+- Ingredient adjustments reflect supermarket choices
 - Markdown is properly formatted
 - No missing nutritional data
 
@@ -289,6 +315,7 @@ None - the command is fully interactive.
 - **IMPORTANT**: File should be ready to use immediately—no additional formatting needed by user.
 - All nutritional values should be clearly labeled with units (g, mg, IU, µg).
 - Include flagged unit conversions as comments so user can verify.
+- Scaling notes help future meal planning: if you use this recipe again, you'll see the scaling approach and supermarket constraints that informed the original amounts.
 
 ---
 
@@ -314,8 +341,30 @@ Recipe Summary:
 - Difficulty: 2/5
 - Cuisine: American
 - Tags: dessert, quick, weeknight
+- Scaling Applied: No
 
 The recipe is ready to use for meal planning and shopping lists!
+```
+
+**Alternative Output (with Scaling)**:
+```
+✓ Recipe added successfully!
+
+File: kb/recipes/salmon-bowl.md
+
+Recipe Summary:
+- Title: Almond-Quinoa & Salmon Bowl
+- Servings: 4 (2 dinner + 2 lunch leftovers)
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Difficulty: 2/5
+- Cuisine: Fusion
+- Tags: lunch, dinner, quick, protein-heavy
+- Scaling Applied: 2x for dinner + lunch leftovers
+- Supermarket Adjustments: Salmon fillets scaled to 4-pack (440g total at 110g each)
+
+The recipe is ready to use for meal planning and shopping lists!
+See the "Scaling Notes" section in the recipe for details on adjustments made.
 ```
 
 ---
