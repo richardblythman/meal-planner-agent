@@ -7,16 +7,16 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 - **Servings**: 4
 - **Prep Time**: 20 minutes
 - **Cook Time**: 35 minutes
-- **Difficulty**: 2/5
+- **Difficulty**: 3/5
 - **Cuisine**: Asian Fusion
-- **Tags**: dinner, lunch, high-protein, gluten-free, chicken
+- **Tags**: dinner, lunch, high-protein, chicken, whole-grain
 - **Source**: Original recipe from cooking content
 
 ## Ingredients
 
 - 3 cups (705 ml) chicken stock
 - 2 tablespoons (12g) chopped fresh ginger
-- 8 ounces (225g) buckwheat soba noodles
+- 250g whole wheat noodles (1 packet)
 - 1/4 cup (65g) smooth peanut butter
 - 3 tablespoons (45ml) avocado or extra-virgin olive oil, divided
 - 2 boneless, skinless chicken breasts (approx 340g total), pounded to 1/2 inch (1.3 cm) thick
@@ -30,7 +30,7 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 ## Instructions
 
-1. Combine the stock and ginger in a medium saucepan and simmer over low heat for 15 minutes. Add the soba noodles and cook according to the package instructions. Drain the noodles and reserve the stock. Stir the peanut butter into the remaining stock until well combined; set aside.
+1. Combine the stock and ginger in a medium saucepan and simmer over low heat for 15 minutes. Add the whole wheat noodles and cook according to the package instructions. Drain the noodles and reserve the stock. Stir the peanut butter into the remaining stock until well combined; set aside.
 
 2. Meanwhile, heat 1 tablespoon (15 ml) of the oil in a large skillet over medium-high heat. Generously season the chicken with salt and pepper on both sides. Add the chicken to the pan and cook, undisturbed, until the bottom is well browned, about 5 minutes. Flip the chicken. Sear the other side until well browned and cooked through, another 4 to 5 minutes. Transfer the chicken to a cutting board and set aside.
 
@@ -38,18 +38,18 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 4. Add the remaining 1 tablespoon (15 ml) oil to the skillet along with the bok choy, salt, and red pepper flakes, and stir to coat. Cook, stirring occasionally, until wilted.
 
-5. Slice the chicken into strips. To serve, divide the soba noodles among bowls and top with chicken, mushrooms, bok choy, and carrots. Pour the reserved peanut sauce over the top and sprinkle with sesame seeds.
+5. Slice the chicken into strips. To serve, divide the whole wheat noodles among bowls and top with chicken, mushrooms, bok choy, and carrots. Pour the reserved peanut sauce over the top and sprinkle with sesame seeds.
 
 ## Nutrition per Serving
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 580 |
-| Protein | 35g |
-| Carbs | 53g |
+| Calories | 628 |
+| Protein | 39g |
+| Carbs | 77g |
 | Fat (Total) | 24g |
 | Saturated Fat | 3.5g |
-| Fiber | 5.5g |
+| Fiber | 11g |
 | Sodium | 620mg |
 | Potassium | 820mg |
 | Calcium | 170mg |
@@ -73,8 +73,8 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 ## Notes
 
 - This is a high-protein, nutrient-dense bowl with excellent balance of macros and micronutrients
-- The buckwheat soba noodles are naturally gluten-free (verify package for pure buckwheat)
-- Excellent source of protein (35g per serving), iron, and B vitamins
+- Whole wheat noodles provide extra fiber (11g per serving) and additional protein
+- Excellent source of protein (39g per serving), iron, and B vitamins
 - Rich in antioxidants from ginger, garlic, and vegetables
 - The peanut butter adds healthy fats and makes the sauce creamy without dairy
 - Works well as dinner with leftovers for lunch the next day
@@ -86,16 +86,20 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 
 ## Nutritional Highlights
 
-- **High Protein**: 35g per serving supports muscle maintenance and satiety
-- **Complex Carbs**: Buckwheat noodles provide sustained energy with lower glycemic impact than wheat
+- **High Protein**: 39g per serving supports muscle maintenance and satiety
+- **High Fiber**: 11g per serving from whole wheat noodles supports digestion and sustained energy
+- **Complex Carbs**: Whole wheat noodles provide sustained energy and excellent source of B vitamins
 - **Healthy Fats**: Primarily from peanut butter, avocado oil, and sesame seeds
 - **Rich in Iron**: 4.2mg per serving (23% DV), important for energy and oxygen transport
 - **Vitamin A**: 2100 IU from carrots and bok choy supports vision and immune function
 - **B Vitamins**: Excellent source of niacin (B3) and B6 for energy metabolism
 - **Antioxidants**: Ginger, garlic, and shiitake mushrooms provide anti-inflammatory compounds
 
-## Unit Conversions Made
+## Unit Conversions & Substitutions
 
+- **Noodles**: 250g whole wheat noodles packet (from Tesco) replaces 225g buckwheat soba
+  - Provides +48 kcal, +4g protein, +24g carbs, +4.9g fiber per serving vs. soba
+  - Slightly higher carb content but significantly more fiber
 - Chicken breasts: 2 breasts estimated at 170g each (340g total) - standard boneless skinless breast
 - Baby bok choy: 4 heads estimated at 70g each (280g total) - standard baby bok choy head
 - Avocado oil: 3 tablespoons = 45ml ≈ 41g (using density ~0.91 g/ml)
