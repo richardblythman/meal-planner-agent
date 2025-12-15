@@ -63,11 +63,30 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 3. Cook, tossing occasionally, until wilted (2-3 minutes)
 4. Drain any excess moisture
 
+### Prepare Eggs
+
+#### Option 1: Hard-Boiled (for meal prep or next-day serving)
+1. Bring a pot of water to a rolling boil
+2. Carefully lower eggs into boiling water
+3. Cook for 11-12 minutes for fully set yolks
+4. Transfer to ice-cold water bath for 2-3 minutes to stop cooking
+5. Peel gently and halve or keep whole for assembly
+6. *Best for storing in fridge 3-4 days; safe to eat the next day cold or reheated*
+
+#### Option 2: Soft-Boiled (for fresh serving)
+1. Bring a pot of water to a rolling boil
+2. Carefully lower eggs into boiling water
+3. Cook for 6-7 minutes for a runny yolk with set whites (6.5 min is sweet spot)
+4. Transfer to ice-cold water bath for 1-2 minutes to stop cooking just enough
+5. Serve immediately in an egg cup and cut off the top, or peel gently for assembly
+6. *Best enjoyed fresh—runny yolks degrade quickly if stored*
+
 ### Assemble Bowls
 1. Divide roasted potatoes, onions, and wilted spinach among serving bowls
-2. Top with baked salmon fillet, hard-boiled eggs (halved or whole), cucumber slices, and avocado
+2. Top with baked salmon fillet, eggs (halved or whole), cucumber slices, and avocado
 3. Drizzle generously with Lemon Yogurt Sauce
 4. Garnish with fresh dill and additional salt and pepper to taste
+5. *For soft-boiled eggs: serve immediately so the runny yolk is still warm and runny*
 
 ## Metadata
 
