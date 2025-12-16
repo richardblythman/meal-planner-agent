@@ -45,6 +45,12 @@ meal-planning-agent/
 │   ├── recipes/              # Individual recipe files with nutrition and timing
 │   │   ├── [recipe-name].md  # Individual recipe files
 │   │   └── ...
+│   ├── weeks/                # Weekly meal planning data organized by week
+│   │   ├── [MMDDYY]/         # Week directory (start date, e.g., 251214 for Dec 14, 2025)
+│   │   │   ├── meals.md      # Weekly meal plan
+│   │   │   ├── nutrition.md  # Nutritional analysis for the week
+│   │   │   └── shopping-list.md # Shopping list for the week
+│   │   └── ...
 │   ├── symptom_log.md        # Bristol scale entries with timing and context
 │   └── nutritional_targets.md # Your nutritional goals (to be defined)
 └── CLAUDE.md                 # This file - Claude Code's operational guide
@@ -55,6 +61,11 @@ meal-planning-agent/
 - **`.claude/commands/`**: Natural language instruction files that automate specific workflows (e.g., `/plan_weekly_meals`, `/generate_shopping_list`, `/analyze_symptoms`)
 
 - **`memory/recipes/`**: Your recipe knowledge base organized as individual markdown files. Each recipe includes ingredients, serving size, time estimate, meal tags (breakfast/lunch/dinner), and nutritional info per serving.
+
+- **`memory/weeks/`**: Weekly meal planning data organized by week. Each week has its own directory (named by start date in MMDDYY format) containing three separate markdown files:
+  - **`meals.md`**: The weekly meal plan with day-by-day breakdown and recipe links
+  - **`nutrition.md`**: Nutritional analysis including macros, micros, daily averages, and preparation notes
+  - **`shopping-list.md`**: Consolidated shopping list organized by grocery category
 
 - **`memory/symptom_log.md`**: Your Bristol scale logs with timestamps and associated meals eaten in the preceding 24-48 hours. You log this manually; the agent uses it for analysis.
 
@@ -245,6 +256,10 @@ When other agents are built:
 ### Knowledge Base
 
 - **`memory/recipes/`**: Recipe directory containing individual recipe files with full nutritional data. Add recipes here as separate `.md` files; agent references for planning and shopping.
+- **`memory/weeks/[MMDDYY]/`**: Weekly planning data directory containing:
+  - `meals.md`: Weekly meal plan with day-by-day breakdown
+  - `nutrition.md`: Nutritional analysis and preparation notes
+  - `shopping-list.md`: Organized shopping list for the week
 - **`memory/symptom_log.md`**: Your Bristol scale entries. Update regularly for pattern analysis to be meaningful.
 - **`memory/nutritional_targets.md`**: Your personal nutritional goals. Starts empty; add as you research.
 
