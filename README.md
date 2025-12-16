@@ -64,10 +64,32 @@ All recipes in one place: [`memory/recipes/`](memory/recipes/)
 
 ---
 
-## 📝 Coming Up
+## 💬 Example Prompts
 
-- [ ] Review nutritional breakdown
-- [ ] Place online grocery order
-- [ ] Prep ingredients or start meal prep
-- [ ] Log digestive observations (if applicable)
+Here are some things you can ask the agent:
+
+**Meal Planning:**
+- "Plan my meals for the week starting December 21. I'll be cooking 4 days."
+- "I want to add a new recipe to my database. Here's a recipe for..."
+- "Show me the nutritional breakdown for this week's meals"
+
+**Shopping & Prep:**
+- "Generate a shopping list for my selected meals"
+- "What ingredients do I need for next week?"
+- "Organize the shopping list by how I shop (Tesco categories)"
+
+**Health & Analysis:**
+- "Analyze my Bristol scale entries from the past month - what patterns do you see?"
+- "I think eggs might be triggering my symptoms. Can you design an elimination diet?"
+- "Compare my meal plan nutrition against my targets"
+
+**Recipe Management:**
+- "Add these 3 new recipes to my library"
+- "Show me all dinner recipes I have that are quick (under 30 min)"
+- "Scale this recipe for 2x (dinner + lunch leftovers)"
+
+**Investigation:**
+- "What meals did I eat before my symptoms on December 10?"
+- "Are there common ingredients across meals that precede my digestive issues?"
+- "Suggest foods to test based on my symptom patterns"
 
