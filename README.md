@@ -1,15 +1,8 @@
 # 🍽️ Meal Planner Agent Dashboard
 
----
+The Meal Planning Agent is your personal nutrition assistant that helps you plan balanced meals, track nutritional intake, manage shopping lists, and investigate potential food-related digestive issues.
 
-### Quick Links
-
-- 📖 **[Full System Prompt](CLAUDE.md)** – How the agent works, design decisions, and conventions
-- 🔧 **[Available Commands](.claude/commands/README.md)** – Learn about all available commands and how to use them
-  - `/plan_weekly_meals` – Automate meal planning with shopping lists
-  - `/add_recipe` – Add recipes with automated nutritional analysis
-  - `/create_agent_command` – Design new workflow automation commands
-  - `/create_claude_md` – Generate system prompts for agents
+📖 **[Full System Prompt](CLAUDE.md)** | 🔧 **[Available Commands](.claude/commands/README.md)**
 
 ---
 
@@ -78,12 +71,3 @@ All recipes in one place: [`memory/recipes/`](memory/recipes/)
 - [ ] Prep ingredients or start meal prep
 - [ ] Log digestive observations (if applicable)
 
----
-
-## 🤖 About the Meal Planning Agent
-
-The Meal Planning Agent is your personal nutrition assistant that helps you plan balanced meals, track nutritional intake, manage shopping lists, and investigate potential food-related digestive issues.
-
-For complete information about the agent, see:
-- 📖 **[Full System Prompt](CLAUDE.md)** – Detailed information about how the agent works
-- 🔧 **[Available Commands](.claude/commands/README.md)** – Learn about all available commands
