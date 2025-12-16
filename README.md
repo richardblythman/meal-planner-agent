@@ -78,3 +78,12 @@ All recipes in one place: [`memory/recipes/`](memory/recipes/)
 - [ ] Prep ingredients or start meal prep
 - [ ] Log digestive observations (if applicable)
 
+---
+
+## 🤖 About the Meal Planning Agent
+
+The Meal Planning Agent is your personal nutrition assistant that helps you plan balanced meals, track nutritional intake, manage shopping lists, and investigate potential food-related digestive issues.
+
+For complete information about the agent, see:
+- 📖 **[Full System Prompt](CLAUDE.md)** – Detailed information about how the agent works
+- 🔧 **[Available Commands](.claude/commands/README.md)** – Learn about all available commands
