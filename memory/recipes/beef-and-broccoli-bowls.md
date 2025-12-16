@@ -51,6 +51,38 @@ These bowls are not that beef and broccoli. They are so far from it, yet at the 
 
 4. To serve, add the bok choy to the bowls with the broccoli. Top with beef, scallions, kimchi, and bean sprouts, drizzle with Miso-Ginger Sauce, and sprinkle with sesame seeds.
 
+## Miso-Ginger Sauce
+
+**Overview**: An ultra-savory, umami-rich sauce made with white miso paste and cashews. Even a small spoonful brings a dish to life. The creamy texture comes from blended cashews, while fresh ginger adds aromatic depth.
+
+**Makes**: About ¾ cup (180 ml)
+
+### Ingredients
+
+- ¼ cup (36 g) raw unsalted cashews, soaked in water overnight and drained
+- ¼ cup (60 ml) rice vinegar
+- 2 tablespoons (30 g) white miso paste
+- 2 tablespoons (30 ml) water
+- 1 tablespoon (6 g) chopped fresh ginger
+- 1½ teaspoons (7.5 ml) toasted sesame oil
+- 1 teaspoon (6 g) honey
+- 1 clove garlic, chopped
+- Freshly ground black pepper
+
+### Instructions
+
+1. Place all the ingredients in the bowl of a food processor or blender.
+2. Process continuously until the sauce is smooth, 2 to 3 minutes.
+3. Thin with additional water, as desired.
+4. Serve immediately or store in a covered container in the refrigerator until ready to use.
+
+### Notes
+
+- The sauce can be stored in an airtight container in the refrigerator for up to 4 days
+- White miso is fermented soybeans with an umami-rich, ultra-savory flavor
+- Cashews must be soaked overnight to blend smoothly
+- Thin with water to reach desired consistency for drizzling over bowls
+
 ## Nutrition per Serving
 
 | Nutrient | Per Serving |
