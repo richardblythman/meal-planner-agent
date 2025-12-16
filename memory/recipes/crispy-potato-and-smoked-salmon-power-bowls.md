@@ -21,7 +21,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 - 500g baby potatoes (halved, for roasting)
 - 1 large red onion, cut into large pieces
 - 4 tablespoons (60 ml) avocado oil, divided
-- 12 packed cups (360 g) baby spinach
+- 200g baby spinach (approximately 6-7 packed cups)
 - 6 salmon fillets (660g total at ~110g each), seasoned for baking
 - 8 large eggs, hard-boiled
 - 1 English cucumber, halved and thinly sliced
@@ -101,6 +101,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 | Potassium | 1050mg |
 | Vitamin C | 22mg |
 | Vitamin A | 380 IU |
+| Vitamin D | 660 IU |
 
 **Nutritional Breakdown Notes:**
 - Sauce contribution: ~60 calories, 8g protein (Greek yogurt), minimal carbs

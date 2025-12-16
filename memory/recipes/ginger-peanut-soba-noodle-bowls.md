@@ -71,6 +71,7 @@ I went through a phase about a year ago when I wanted nothing for lunch but inst
 | Selenium | 28µg |
 | Vitamin A | 1850 IU |
 | Vitamin C | 28mg |
+| Vitamin D | 35 IU |
 | Vitamin E | 3.5mg |
 | Vitamin K | 43µg |
 | Thiamin (B1) | 0.36mg |
