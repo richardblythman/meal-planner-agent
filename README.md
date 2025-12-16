@@ -6,10 +6,10 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 
 ### Commands
 
-- `/plan_weekly_meals` – Plan meals for the week, generate shopping list and nutritional analysis
-- `/add_recipe` – Add new recipes with automated nutritional information
-- `/create_agent_command` – Design and build new workflow automation commands
-- `/create_claude_md` – Generate system prompts for agents
+- [`/plan_weekly_meals`](.claude/commands/plan_weekly_meals.md) – Plan meals for the week, generate shopping list and nutritional analysis
+- [`/add_recipe`](.claude/commands/add_recipe.md) – Add new recipes with automated nutritional information
+- [`/create_agent_command`](.claude/commands/create_agent_command.md) – Design and build new workflow automation commands
+- [`/create_claude_md`](.claude/commands/create_claude_md.md) – Generate system prompts for agents
 
 ---
 
