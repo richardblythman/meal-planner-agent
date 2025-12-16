@@ -68,28 +68,33 @@ All recipes in one place: [`memory/recipes/`](memory/recipes/)
 
 Here are some things you can ask the agent:
 
-**Meal Planning:**
-- "Plan my meals for the week starting December 21. I'll be cooking 4 days."
-- "I want to add a new recipe to my database. Here's a recipe for..."
-- "Show me the nutritional breakdown for this week's meals"
+**Recipe Help:**
+- "Can you explain step 3 of the Beef and Broccoli Bowls recipe?"
+- "How would I soft-boil the eggs instead of hard-boiling them in this recipe?"
+- "What's a good substitute for Thai basil in this bowl?"
+- "Can I make this recipe gluten-free? What would I swap?"
 
-**Shopping & Prep:**
-- "Generate a shopping list for my selected meals"
-- "What ingredients do I need for next week?"
-- "Organize the shopping list by how I shop (Tesco categories)"
+**Recipe Modifications:**
+- "How can I 1.5x the Salmon Bowl recipe?"
+- "What changes if I want to make this vegetarian?"
+- "Can you suggest a lighter version of this recipe?"
+- "How would scaling this recipe affect the nutritional content?"
 
-**Health & Analysis:**
-- "Analyze my Bristol scale entries from the past month - what patterns do you see?"
-- "I think eggs might be triggering my symptoms. Can you design an elimination diet?"
-- "Compare my meal plan nutrition against my targets"
+**Meal Planning Insights:**
+- "Looking at this week's meals, what nutrients am I low on?"
+- "Do I have good variety in my planned meals?"
+- "Are these meals balanced for my nutritional targets?"
+- "Which of these recipes take the least prep time?"
 
-**Recipe Management:**
-- "Add these 3 new recipes to my library"
-- "Show me all dinner recipes I have that are quick (under 30 min)"
-- "Scale this recipe for 2x (dinner + lunch leftovers)"
+**Health & Digestive Investigation:**
+- "Looking at my Bristol scale log from November, what patterns do you notice?"
+- "I had symptoms on the 10th and 15th - what meals do those have in common?"
+- "Based on my symptom timing, should I investigate dairy, wheat, or something else?"
+- "Help me design a structured elimination diet to test if eggs are an issue"
 
-**Investigation:**
-- "What meals did I eat before my symptoms on December 10?"
-- "Are there common ingredients across meals that precede my digestive issues?"
-- "Suggest foods to test based on my symptom patterns"
+**Cooking & Prep:**
+- "I only have 30 minutes tonight - which of my recipes can I make quickly?"
+- "Can I prep any of next week's meals on Sunday?"
+- "How long will leftovers from this recipe keep in the fridge?"
+- "What's the best way to reheat this bowl?"
 
