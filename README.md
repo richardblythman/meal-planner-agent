@@ -39,13 +39,18 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 ## 🛒 Shopping & Logistics
 
 ### Shopping List
-> 📋 [View consolidated shopping list →](memory/weeks/251214/shopping-list.md)
+> 📋 [Full consolidated shopping list →](memory/weeks/251214/shopping-list.md)
 
-**What to buy:**
-- Proteins (beef, salmon, sea bass)
-- Fresh vegetables (bok choy, avocados, mushrooms, etc.)
-- Grains & pantry staples
-- Specialty items (kimchi, miso, dukkah)
+#### Quick Overview
+
+| Category | Items |
+|----------|-------|
+| **🥩 Proteins** | Ground beef, salmon, sea bass, chicken breasts, eggs |
+| **🥬 Vegetables** | Potatoes, red onion, spinach, bok choy, mushrooms, avocados, tomatoes, ginger, garlic |
+| **🌾 Grains** | White rice, quinoa, whole wheat noodles |
+| **🧂 Pantry** | Coconut aminos, sesame seeds, peanut butter, spices |
+| **🌿 Herbs** | Thai basil, cilantro, dill, scallions |
+| **✨ Specialty** | Kimchi, dukkah, miso, tahini |
 
 ---
 
