@@ -3,6 +3,8 @@
 ## Overview
 With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gilded in a lemony sauce, this recipe brings together some quintessential New York brunch foods in a single bowl. And while not commonly paired together as they are here, each one plays off the other in such a harmonious and delicious way. This is a bowl I would happily start my morning with, any day of the week, and particularly if I had company or was hosting weekend brunch.
 
+![Crispy Potato and Smoked Salmon Power Bowls](../untitled%20folder/crispy-potato-salmon.png)
+
 ## Scaling Notes
 **Scaling Applied**: 2x for dinner + lunch leftovers
 **Original Servings**: 4 | **Adjusted Servings**: 8 (4 dinner + 4 lunch leftovers)
