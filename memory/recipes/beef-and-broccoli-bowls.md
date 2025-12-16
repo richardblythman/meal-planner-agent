@@ -1,8 +1,8 @@
 # Beef and Broccoli Bowls
 
-![Beef and Broccoli Bowls](images/beef-brocolli.png)
-
 These bowls are not that beef and broccoli. They are so far from it, yet at the same time pull hard on the underlying ingredients, umami-rich, savory flavors, and comfort we associate with that saucy take-out dish. This version is wholesome, nourishing, and packed with lots of green vegetables and herbs. It starts with an underrated and underutilized favorite: broccoli stems. Here, they're processed into rice-like grains and quickly sautéed for a tender bite with a mild-mannered flavor.
+
+![Beef and Broccoli Bowls](images/beef-brocolli.png)
 
 ## Supermarket Packaging Notes
 
