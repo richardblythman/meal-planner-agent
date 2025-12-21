@@ -29,8 +29,8 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 
 | Day | Dinner | Lunch (Next Day) |
 |---|---|---|
-| **Monday** | [Beef and Broccoli Bowls](memory/recipes/beef-and-broccoli-bowls.md) | Leftovers |
-| **Tuesday** | [Crispy Potato & Smoked Salmon Power Bowls](memory/recipes/crispy-potato-and-smoked-salmon-power-bowls.md) | Leftovers |
+| **Monday** | [Crispy Potato & Smoked Salmon Power Bowls](memory/recipes/crispy-potato-and-smoked-salmon-power-bowls.md) | Leftovers |
+| **Tuesday** | [Beef and Broccoli Bowls](memory/recipes/beef-and-broccoli-bowls.md) | Leftovers |
 | **Wednesday** | [Freekeh Bowls with Caramelized Onions, Warm Tomatoes & Fish](memory/recipes/freekeh-bowls-with-caramelized-onions-warm-tomatoes-and-seared-fish.md) | Leftovers |
 | **Thursday** | [Ginger Peanut Soba Noodle Bowls](memory/recipes/ginger-peanut-soba-noodle-bowls.md) | Leftovers |
 
