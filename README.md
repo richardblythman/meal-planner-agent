@@ -61,7 +61,7 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 
 ### Recipe Directory
 
-All recipes in one place: [`memory/recipes/`](memory/recipes/)
+All recipes in one place: [`memory/recipes/`](memory/recipes/README.md)
 
 **This Week's Recipes:**
 - 🍗 [Beef and Broccoli Bowls](memory/recipes/beef-and-broccoli-bowls.md)
