@@ -9,20 +9,20 @@
 ## Meal Plan
 
 ### Day 1 - Monday
-**Dinner:** Beef and Broccoli Bowls (4 servings)
-*Link:* `../../recipes/beef-and-broccoli-bowls.md`
+**Dinner:** Crispy Potato and Smoked Salmon Power Bowls (8 servings)
+*Link:* `../../recipes/crispy-potato-and-smoked-salmon-power-bowls.md`
 
 ### Day 1 Lunch (Tuesday)
-**Leftovers:** Beef and Broccoli Bowls from Day 1 Dinner
+**Leftovers:** Crispy Potato and Smoked Salmon Power Bowls from Day 1 Dinner
 
 ---
 
 ### Day 2 - Tuesday
-**Dinner:** Crispy Potato and Smoked Salmon Power Bowls (8 servings)
-*Link:* `../../recipes/crispy-potato-and-smoked-salmon-power-bowls.md`
+**Dinner:** Beef and Broccoli Bowls (4 servings)
+*Link:* `../../recipes/beef-and-broccoli-bowls.md`
 
 ### Day 2 Lunch (Wednesday)
-**Leftovers:** Crispy Potato and Smoked Salmon Power Bowls from Day 2 Dinner
+**Leftovers:** Beef and Broccoli Bowls from Day 2 Dinner
 
 ---
 
