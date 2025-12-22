@@ -33,6 +33,7 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 | **Tuesday** | [Crispy Potato & Smoked Salmon Power Bowls](memory/recipes/crispy-potato-and-smoked-salmon-power-bowls.md) | Leftovers |
 | **Wednesday** | [Freekeh Bowls with Caramelized Onions, Warm Tomatoes & Fish](memory/recipes/freekeh-bowls-with-caramelized-onions-warm-tomatoes-and-seared-fish.md) | Leftovers |
 | **Thursday** | [Ginger Peanut Soba Noodle Bowls](memory/recipes/ginger-peanut-soba-noodle-bowls.md) | Leftovers |
+| **Sunday** | [Ginger Peanut Soba Noodle Bowls (Leftovers)](memory/recipes/ginger-peanut-soba-noodle-bowls.md) | — |
 
 ---
 
