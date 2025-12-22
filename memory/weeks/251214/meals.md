@@ -45,6 +45,10 @@
 ---
 
 ### Day 5 - Sunday
+**Lunch:** Japanese Umami Bowl - Restaurant (Chicken or Tofu option)
+*Details:* Lemony rice, charred broccoli salad, umami mushrooms, pickled cucumber, julienne carrot, coriander & scallion with toasted sesame dressing, nori furikake & miso chilli rāyu
+
+### Day 5 - Sunday
 **Dinner:** Ginger Peanut Soba Noodle Bowls Leftovers (from Thursday)
 *Link:* `../../recipes/ginger-peanut-soba-noodle-bowls.md`
 
