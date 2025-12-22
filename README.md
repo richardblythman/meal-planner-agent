@@ -19,7 +19,7 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 |---|---|
 | **Week Starting** | Sunday, December 14, 2025 |
 | **Cooking Days** | 4 (Monday – Thursday) |
-| **Total Meals** | 8 (4 dinners + 4 lunch leftovers) |
+| **Total Meals** | 10 (4 homemade dinners + 4 lunch leftovers + 2 restaurant meals) |
 
 ---
 
