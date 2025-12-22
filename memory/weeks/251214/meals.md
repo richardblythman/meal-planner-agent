@@ -44,6 +44,12 @@
 
 ---
 
+### Day 5 - Sunday
+**Dinner:** Ginger Peanut Soba Noodle Bowls Leftovers (from Thursday)
+*Link:* `../../recipes/ginger-peanut-soba-noodle-bowls.md`
+
+---
+
 ## Recipe Links for Reference
 
 - [Beef and Broccoli Bowls](../../recipes/beef-and-broccoli-bowls.md)
