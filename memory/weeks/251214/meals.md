@@ -44,6 +44,10 @@
 
 ---
 
+### Day 5 - Saturday
+**Dinner:** Fish and Chips - Restaurant
+*Details:* Crispy fish and golden fries
+
 ### Day 5 - Sunday
 **Lunch:** Japanese Umami Bowl - Restaurant (Chicken or Tofu option)
 *Details:* Lemony rice, charred broccoli salad, umami mushrooms, pickled cucumber, julienne carrot, coriander & scallion with toasted sesame dressing, nori furikake & miso chilli rāyu
