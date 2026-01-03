@@ -93,7 +93,7 @@ Comparing the cost of AG1 subscription vs. buying individual supplements.
 |--------|--------------|--------------|
 | AG1 Subscription | €87 | - |
 | DIY Essential | €42-58 | Save €29-45/month |
-| DIY Comprehensive | €95-143 | Similar or more |
+| DIY Comprehensive | €80-123 | Save €0-7/month or similar |
 
 ## Recommendation
 
