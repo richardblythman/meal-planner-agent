@@ -63,9 +63,11 @@ Comparing the cost of AG1 subscription vs. buying individual supplements.
 | Magnesium Bisglycinate | €15.87 | Already taking |
 | Vitamin D3 + K2 | ~€8-12 | AG1 missing this! |
 | B-Complex | ~€8-15 | Covers all B vitamins |
-| Vitamin C (500mg) | ~€5-8 | |
 | Zinc (15mg) | ~€5-8 | |
-| **TOTAL** | **~€42-58/month** | |
+| **TOTAL** | **~€37-50/month** | |
+
+**Removed from essential:**
+- Vitamin C - get from food (1 kiwi/day = 71% RDA, plus meals)
 
 ### Option 2: Comprehensive (closer to AG1)
 
