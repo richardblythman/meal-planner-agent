@@ -10,8 +10,7 @@ Track all vitamins and supplements with dosage, brand, and pricing information.
 
 ## Monthly Cost Summary
 
-**Total Daily Cost**: €0.53
-**Estimated Monthly Cost**: €15.90
+**Total Monthly Cost**: €15.87
 
 ---
 
