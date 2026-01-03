@@ -76,16 +76,16 @@ Comparing the cost of AG1 subscription vs. buying individual supplements.
 | Magnesium Bisglycinate | €15.87 | Already taking |
 | Vitamin D3 + K2 | ~€8-12 | |
 | B-Complex | ~€8-15 | |
-| Vitamin C (500mg) | ~€5-8 | |
 | Zinc (15mg) | ~€5-8 | |
 | Greens powder (basic) | ~€15-25 | Spirulina, chlorella blend |
 | Probiotic | ~€15-25 | |
 | Ashwagandha | ~€10-15 | |
-| **TOTAL** | **~€80-123/month** | |
+| **TOTAL** | **~€75-115/month** | |
 
-**Removed from comprehensive:**
-- Vitamin E - get from food (almonds, avocado, olive oil)
-- Selenium - your fish-heavy meals already cover this
+**Removed from both stacks (get from food):**
+- Vitamin C - 1 kiwi/day = 71% RDA, plus meals
+- Vitamin E - almonds, avocado, olive oil
+- Selenium - fish-heavy meals cover this
 
 ---
 
