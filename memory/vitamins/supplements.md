@@ -4,14 +4,14 @@ Track all vitamins and supplements with dosage, brand, and pricing information.
 
 ## Current Supplements
 
-| Supplement | Form | Dosage | Frequency | Price | Servings | Cost/Day | Notes |
-|------------|------|--------|-----------|-------|----------|----------|-------|
-| Magnesium | Bisglycinate | 125mg | 1 capsule/day | €23.80 | 90 | €0.26 | 3 bottles purchased (€71.40 total) |
+| Supplement | Form | Dosage | Frequency | Price | Servings | Cost/Day | Link | Notes |
+|------------|------|--------|-----------|-------|----------|----------|------|-------|
+| Magnesium | Bisglycinate | 250mg (2x125mg) | 2 capsules/day | €23.80 | 90 | €0.53 | [Women's Best](https://ie.womensbest.com/products/magnesium-glycinate) | 3 bottles purchased (€71.40 total) |
 
 ## Monthly Cost Summary
 
-**Total Daily Cost**: €0.26
-**Estimated Monthly Cost**: €7.80
+**Total Daily Cost**: €0.53
+**Estimated Monthly Cost**: €15.90
 
 ---
 
