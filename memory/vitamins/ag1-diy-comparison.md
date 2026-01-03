@@ -76,12 +76,14 @@ Comparing the cost of AG1 subscription vs. buying individual supplements.
 | B-Complex | ~€8-15 | |
 | Vitamin C (500mg) | ~€5-8 | |
 | Zinc (15mg) | ~€5-8 | |
-| Vitamin E | ~€8-12 | |
-| Selenium | ~€5-8 | |
 | Greens powder (basic) | ~€15-25 | Spirulina, chlorella blend |
 | Probiotic | ~€15-25 | |
 | Ashwagandha | ~€10-15 | |
-| **TOTAL** | **~€95-143/month** | |
+| **TOTAL** | **~€80-123/month** | |
+
+**Removed from comprehensive:**
+- Vitamin E - get from food (almonds, avocado, olive oil)
+- Selenium - your fish-heavy meals already cover this
 
 ---
 
