@@ -19,7 +19,7 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 |---|---|
 | **Week Starting** | Sunday, December 14, 2025 |
 | **Cooking Days** | 4 (Monday – Thursday) |
-| **Total Meals** | 8 (4 dinners + 4 lunch leftovers) |
+| **Total Meals** | 10 (4 homemade dinners + 4 lunch leftovers + 2 restaurant meals) |
 
 ---
 
@@ -33,6 +33,7 @@ The Meal Planning Agent is your personal nutrition assistant that helps you plan
 | **Tuesday** | [Beef and Broccoli Bowls](memory/recipes/beef-and-broccoli-bowls.md) | Leftovers |
 | **Wednesday** | [Freekeh Bowls with Caramelized Onions, Warm Tomatoes & Fish](memory/recipes/freekeh-bowls-with-caramelized-onions-warm-tomatoes-and-seared-fish.md) | Leftovers |
 | **Thursday** | [Ginger Peanut Soba Noodle Bowls](memory/recipes/ginger-peanut-soba-noodle-bowls.md) | Leftovers |
+| **Saturday** | Fish and Chips 🍟 (Restaurant) | – |
 | **Sunday** | [Ginger Peanut Soba Noodle Bowls (Leftovers)](memory/recipes/ginger-peanut-soba-noodle-bowls.md) | Japanese Umami Bowl 🍚 |
 
 ---
