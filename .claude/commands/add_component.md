@@ -62,16 +62,33 @@ None - the command is interactive.
 
 ---
 
-#### Step 2: Fetch Product Information
-**Purpose**: Extract product details from the webpage.
+#### Step 2: Fetch Product Information Using Puppeteer
+**Purpose**: Extract product details from the webpage using Puppeteer MCP server.
 
 **Actions**:
-1. Fetch the product page
-2. Extract:
-   - Product name
+1. Use `mcp__puppeteer__puppeteer_navigate` to navigate to the product URL
+2. Use `mcp__puppeteer__puppeteer_screenshot` to capture the page for visual reference
+3. Use `mcp__puppeteer__puppeteer_evaluate` to extract product data from the page DOM:
+   - Product name (typically in h1 or product title element)
    - Unit size (e.g., 2kg, 500g, 4-pack)
-   - Ingredients list
-   - Nutrition information (per 100g or per serving as available)
+   - Ingredients list (look for "Ingredients" section)
+   - Nutrition information table (per 100g or per serving as available)
+
+**Example Puppeteer evaluate script**:
+```javascript
+// Extract product information from page
+({
+  name: document.querySelector('h1')?.textContent?.trim(),
+  ingredients: document.querySelector('[class*="ingredient"]')?.textContent?.trim(),
+  nutrition: Array.from(document.querySelectorAll('table tr')).map(row => ({
+    label: row.cells[0]?.textContent?.trim(),
+    per100g: row.cells[1]?.textContent?.trim(),
+    perServing: row.cells[2]?.textContent?.trim()
+  }))
+})
+```
+
+**Note**: The exact selectors will vary by grocery website. Adapt the evaluate script based on the page structure observed in the screenshot.
 
 **Validation**:
 - Product name found
@@ -80,6 +97,7 @@ None - the command is interactive.
 **Error Handling**:
 - If product name not found: Prompt "What is the product name?"
 - If nutrition data not found: Prompt user to enter manually
+- If Puppeteer fails to load page: Check URL and retry, or fall back to manual entry
 
 ---
 
