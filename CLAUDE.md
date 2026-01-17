@@ -42,9 +42,14 @@ meal-planning-agent/
 ├── .claude/
 │   └── commands/              # Custom Claude Code commands for meal planning workflows
 ├── memory/
-│   ├── recipes/              # Individual recipe files with nutrition and timing
+│   ├── recipes/              # Full recipes with multiple ingredients and steps
 │   │   ├── [recipe-name].md  # Individual recipe files
 │   │   └── ...
+│   ├── components/           # Mix-and-match building blocks for ad-hoc meals
+│   │   ├── proteins/         # Chicken breast, salmon, ground beef, etc.
+│   │   ├── vegetables/       # Broccoli, peas, carrots, etc.
+│   │   ├── starches/         # Rice, potatoes, pasta, etc.
+│   │   └── sauces/           # Teriyaki, pesto, etc. (optional additions)
 │   ├── weeks/                # Weekly meal planning data organized by week
 │   │   ├── [MMDDYY]/         # Week directory (start date, e.g., 251214 for Dec 14, 2025)
 │   │   │   ├── meals.md      # Weekly meal plan
@@ -60,7 +65,15 @@ meal-planning-agent/
 
 - **`.claude/commands/`**: Natural language instruction files that automate specific workflows (e.g., `/plan_weekly_meals`, `/generate_shopping_list`, `/analyze_symptoms`)
 
-- **`memory/recipes/`**: Your recipe knowledge base organized as individual markdown files. Each recipe includes ingredients, serving size, time estimate, meal tags (breakfast/lunch/dinner), and nutritional info per serving.
+- **`memory/recipes/`**: Full recipes with multiple ingredients and preparation steps. Use for structured meals like stir fries, curries, casseroles, etc.
+
+- **`memory/components/`**: Individual food items you mix-and-match for ad-hoc meals. Organized by type:
+  - **`proteins/`**: Chicken breast, salmon, ground beef, tofu, etc.
+  - **`vegetables/`**: Broccoli, peas, carrots, green beans, etc.
+  - **`starches/`**: Rice, potatoes, pasta, quinoa, etc.
+  - **`sauces/`**: Optional flavor additions (teriyaki, pesto, etc.)
+
+  Use components when you cook "one protein + one veg" style meals that vary week to week.
 
 - **`memory/weeks/`**: Weekly meal planning data organized by week. Each week has its own directory (named by start date in MMDDYY format) containing three separate markdown files:
   - **`meals.md`**: The weekly meal plan with day-by-day breakdown and recipe links
@@ -188,6 +201,43 @@ Week of [DATE]
 Monday: [Recipe Name] (dinner) → [Recipe Name] (lunch leftovers)
 Tuesday: [Recipe Name] (breakfast), [Recipe Name] (lunch), [Recipe Name] (dinner)
 ...
+```
+
+**For component-based meals** (ad-hoc protein + veg combinations):
+```
+Wednesday: chicken breast + broccoli + rice (dinner)
+Thursday: salmon + peas (dinner)
+```
+
+The agent sums nutrition from individual components to calculate the meal total.
+
+### Component Documentation
+
+Components are documented in markdown with consistent structure:
+
+```markdown
+# Component Name
+
+**Category**: Protein | Vegetable | Starch | Sauce
+**Prep Time**: X minutes
+**Cook Time**: X minutes
+**Serving Size**: Xg (cooked)
+
+## Nutrition per Serving
+- Calories: XXX
+- Protein: Xg
+- Carbs: Xg
+- Fat: Xg
+- [Key micronutrients as relevant]
+
+## Common Cooking Methods
+- Method 1 (time/temp)
+- Method 2
+
+## Notes
+- Best paired with: [suggestions]
+- Storage/leftovers info
+- Batch cooking tips
 ```
 
 ### Symptom Log Format
