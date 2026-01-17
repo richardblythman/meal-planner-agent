@@ -89,38 +89,24 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 4. Season with additional salt and pepper to taste
 5. *For soft-boiled eggs: serve immediately so the runny yolk is still warm and runny*
 
-## Metadata
-
-| Field | Value |
-|-------|-------|
-| **Servings** | 8 (4 dinner + 4 lunch leftovers) |
-| **Prep Time** | 20 minutes |
-| **Cook Time** | 40 minutes (includes roasting, baking, and cooking spinach) |
-| **Total Time** | 60 minutes |
-| **Difficulty** | 2/5 (straightforward; main technique is coordinating oven temps) |
-| **Cuisine** | American (New York Brunch) |
-| **Dietary** | Gluten-Free, High-Protein |
-| **Tags** | breakfast, brunch, lunch, dinner, salmon, power bowl, meal prep friendly |
-| **Source** | Cookbook (brunch-focused) |
-
-## Nutrition Information (Per Serving with Sauce)
+## Nutrition Information (Per Serving)
 
 *Includes all components: potatoes, onion, spinach, baked salmon, egg, cucumber, avocado, and Lemon Yogurt Sauce*
 
 | Nutrient | Per Serving |
-|----------|------------|
+|----------|-------------|
 | Calories | 510 |
-| Protein | 42.0g |
-| Carbohydrates | 32.0g |
-| Fat | 28.0g |
-| Fiber | 6.5g |
+| Protein | 42g |
+| Carbohydrates | 32g |
+| Fat (Total) | 28g |
 | Saturated Fat | 6.0g |
+| Fiber | 6.5g |
 | Calcium | 165mg |
 | Iron | 3.2mg |
 | Magnesium | 98mg |
 | Potassium | 1050mg |
-| Vitamin C | 22mg |
 | Vitamin A | 380 IU |
+| Vitamin C | 22mg |
 | Vitamin D | 660 IU |
 
 **Nutritional Breakdown Notes:**
@@ -133,29 +119,17 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 ## Storage & Meal Prep Notes
 
 ### Leftovers & Reheating
-- **Bowl components storage**: Keep components separate in airtight containers for 3-4 days
+- **Component storage**: Keep components separate in airtight containers for 3-4 days
   - Roasted potatoes and onions: 4 days, reheat in oven or microwave
   - Baked salmon: 3-4 days, can be reheated gently or eaten cold
   - Hard-boiled eggs: 5 days
   - Wilted spinach: 3 days (best eaten fresh but reheats well)
   - Fresh vegetables (cucumber, avocado): Best used fresh; add on day of serving
-
 - **Sauce storage**: 3-4 days in refrigerator
 
 ### Meal Prep Strategy
 1. **Day 1 (Dinner)**: Prepare all components fresh; serve warm with sauce
 2. **Day 2 (Lunch)**: Reheat potatoes and salmon gently; wilted spinach can be reheated or served cold; assemble with fresh cucumber and avocado
-
-### Scaling Down
-To make 4 servings (original recipe):
-- Halve all ingredient quantities
-- Reduce cooking times by 5-10 minutes
-- Makes an excellent quick dinner or leisurely brunch
-
-### Suggested Pairings
-- Pairs excellently with fresh citrus (grapefruit or orange segments) for additional brightness
-- Could add sautéed mushrooms for umami depth
-- Works well with microgreens or arugula instead of spinach for peppery contrast
 
 ## Notes
 - This recipe bridges breakfast and dinner—equally at home for weekend brunch or as a high-protein dinner
@@ -164,9 +138,13 @@ To make 4 servings (original recipe):
 - Baby potatoes cook faster than fingerling and have a tender, creamy interior when roasted
 - The Lemon Yogurt Sauce is key to the dish—it ties all components together with brightness and creaminess
 - For 6-serving variation, use 3 salmon fillets and 6 eggs with proportional vegetables
+- **Scaling down**: To make 4 servings (original recipe), halve all ingredient quantities and reduce cooking times by 5-10 minutes
+- Pairs excellently with fresh citrus (grapefruit or orange segments) for additional brightness
+- Could add sautéed mushrooms for umami depth
+- Works well with microgreens or arugula instead of spinach for peppery contrast
 
 ---
 
-**Originally from**: Cookbook (brunch-focused)
+**Source**: Cookbook (brunch-focused)
 **Adapted for**: Meal prep and dinner conversion with baked salmon and hard-boiled eggs
 **Date Added**: December 2024
