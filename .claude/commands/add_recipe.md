@@ -1,19 +1,19 @@
 # Add Recipe
 
 ## Overview
-Automate the capture and standardization of recipes from various sources. Paste raw recipe text, and this command will parse it, automatically estimate nutritional content using USDA FoodData Central, and create a standardized markdown file ready for meal planning and shopping lists.
+Automate the capture and standardization of recipes from various sources. Paste raw recipe text, and this command will parse it, link ingredients to component files, calculate nutritional information from those components, and create a standardized markdown file ready for meal planning and shopping lists.
 
 **Template**: Always use `templates/recipe.md` as the formatting reference. The output recipe must follow this template structure exactly.
 
 ## Purpose & Value
 
 ### Workflow Being Automated
-Collecting recipes from books, websites, and other sources currently requires manual data entry and formatting. This command extracts recipe information from pasted text, standardizes the format using the recipe template, links ingredients to component files, and automatically calculates nutritional information per serving using USDA data—eliminating manual nutrition lookups and formatting inconsistencies.
+Collecting recipes from books, websites, and other sources currently requires manual data entry and formatting. This command extracts recipe information from pasted text, standardizes the format using the recipe template, links ingredients to component files, and automatically calculates nutritional information per serving from the linked components—eliminating manual formatting inconsistencies.
 
 ### Time/Effort Savings
-- Eliminate manual nutrition research and calculation
 - Consistent formatting across all recipes (via template)
 - Automatic ingredient parsing, unit conversion, and component linking
+- Nutrition calculated automatically from component files
 - Ready-to-use recipes for meal planning and shopping lists immediately
 
 ### Target Users
@@ -42,41 +42,30 @@ None - the command is fully interactive.
 ## Procedural Requirements
 
 ### Prerequisites
-- USDA FoodData Central API key (free, get one at: https://fdc.nal.usda.gov/api-key-signup.html)
-- API key stored as environment variable: `USDA_API_KEY`
-  - **Option 1 (Recommended)**: Store in `.env` file at project root as `USDA_API_KEY=your_key_here` (will be automatically loaded)
-  - **Option 2**: Export as environment variable: `export USDA_API_KEY="your_key_here"`
-  - **Option 3**: Add to shell profile (`.bashrc`, `.zshrc`, etc.) for permanent availability
 - `memory/recipes/` directory exists (recipes stored in `memory/recipes/[recipe-name].md`)
-- `memory/components/` directory exists with component files for ingredient linking
+- `memory/components/` directory exists with component files containing nutritional data
 - `templates/recipe.md` exists as the formatting reference
-
-**Note on API Key Security**: Store your API key in `.env` (which should be in `.gitignore`) or as a shell environment variable, never commit it to version control.
 
 ### Step-by-Step Workflow
 
 #### Step 1: Initialize & Verify Prerequisites
-**Purpose**: Ensure API key is configured, directories exist, and template is available.
+**Purpose**: Ensure directories exist and template is available.
 
 **Actions**:
-1. Check if `USDA_API_KEY` environment variable is set
-2. Verify `memory/recipes/` directory exists; create if needed
-3. Verify `memory/components/` directory exists with subdirectories (proteins, vegetables, starches, sauces, fruits)
-4. Read `templates/recipe.md` to confirm template structure
-5. Display greeting and instructions
+1. Verify `memory/recipes/` directory exists; create if needed
+2. Verify `memory/components/` directory exists with subdirectories (proteins, vegetables, starches, sauces, fruits, dairy)
+3. Read `templates/recipe.md` to confirm template structure
+4. Display greeting and instructions
 
 **Validation**:
-- API key is accessible
 - Directories are writable
 - Template file exists and is readable
 
 **Error Handling**:
-- If API key not found: Prompt user with instructions to set `USDA_API_KEY` environment variable and re-run
 - If directories don't exist: Create them automatically
 - If template missing: Error and instruct user to create `templates/recipe.md`
 
 **Important Notes**:
-- **IMPORTANT**: The USDA API key must be set before proceeding. Store it as an environment variable for security.
 - **IMPORTANT**: Always read `templates/recipe.md` first to ensure output follows the exact template structure.
 
 ---
@@ -123,7 +112,7 @@ None - the command is fully interactive.
 **Error Handling**:
 - If title not found: Prompt "What is the recipe title?"
 - If servings not extracted: Will prompt in Step 5
-- If prep/cook times not extracted: Will prompt in Step 5
+- If prep/cook times not extracted: Will prompt in Step 6
 - If ingredients section unclear: Flag and ask for clarification
 
 **Important Notes**:
@@ -132,8 +121,8 @@ None - the command is fully interactive.
 
 ---
 
-#### Step 4: Normalize & Look Up Ingredients with USDA
-**Purpose**: Convert ingredients to standard units and fetch nutritional data.
+#### Step 4: Parse Ingredient Quantities
+**Purpose**: Extract quantities and units from each ingredient for component matching and nutrition calculation.
 
 **Actions**:
 1. For each ingredient extracted:
@@ -141,37 +130,23 @@ None - the command is fully interactive.
    b. If amount uses non-metric units (cups, tablespoons, etc.):
       - Convert to grams using standard conversion factors
       - **FLAG the conversion** to user (e.g., "Converting '2 cups flour' to 256g")
-   c. Query USDA FoodData Central API using the ingredient name
-   d. If exact match found: Record nutritional data for that amount
-   e. If no match or multiple results: Prompt user to confirm which ingredient to use
+   c. Store parsed quantity for nutrition calculation
 
-2. Collect nutritional data per ingredient:
-   - Calories, protein, carbs, fat (total), saturated fat, unsaturated fat, fiber
-   - Major vitamins: A, B12, C, D, E, K
-   - Major minerals: calcium, iron, sodium, potassium, magnesium
-   - All values rounded to 2 significant figures
+2. Handle vague quantities:
+   - "a pinch", "to taste" → Flag and ask for approximate amount or mark as negligible
+   - "1 large", "2 medium" → Use standard sizes (large egg = 50g, medium onion = 110g, etc.)
 
 **Validation**:
-- All ingredients successfully matched to USDA entries
 - Amounts are clear and convertible to grams
-- Nutritional data retrieved for each ingredient
+- All ingredients have parseable quantities
 
 **Error Handling**:
-- If ingredient not found in USDA: Prompt "'{ingredient}' not found in USDA database. Please clarify (e.g., 'white flour', 'unsalted butter', etc.):"
-- If amount is vague (e.g., "a pinch", "to taste"): Flag and ask "Please specify amount for '{ingredient}' (e.g., 1 teaspoon, 100g):"
+- If amount is vague (e.g., "a pinch", "to taste"): Flag and ask "Please specify amount for '{ingredient}' (e.g., 1 teaspoon, 100g):" or offer to mark as negligible
 - If conversion uncertain: Ask user to confirm (e.g., "I'm converting '2 cups flour' to ~256g. Is this correct? (yes/no)")
-- **If USDA API is unreachable or returns errors**:
-  - Log the error with timestamp and ingredient being looked up
-  - Fall back to standard USDA nutrition reference data for that ingredient (pre-calculated values)
-  - Notify user: "Note: Using reference nutrition data for '{ingredient}' (live API lookup unavailable)"
-  - Continue processing without blocking the recipe creation
-  - Provide disclaimer in recipe notes if fallback was used
 
 **Important Notes**:
-- **IMPORTANT**: Be thorough with ingredient matching. If the USDA database returns multiple results, show options to user.
 - **IMPORTANT**: Flag all unit conversions so user can verify accuracy.
 - Handle ingredient variations: "flour" might be "all-purpose flour", "butter" might be "salted butter", etc.
-- **API Resilience**: The command should not fail entirely if the USDA API is temporarily unavailable; use cached/reference data instead.
 
 ---
 
@@ -185,9 +160,10 @@ None - the command is fully interactive.
    - `starches/` - list all `.md` files
    - `fruits/` - list all `.md` files
    - `sauces/` - list all `.md` files
+   - `dairy/` - list all `.md` files
 
 2. For each ingredient from Step 3, determine if it's:
-   - A **significant ingredient** (protein, vegetable, starch, fruit) that SHOULD have a component
+   - A **significant ingredient** (protein, vegetable, starch, fruit, dairy) that SHOULD have a component
    - A **pantry staple** (oil, salt, pepper, spices, water, vinegar, etc.) that does NOT need a component
 
 3. For significant ingredients, search for a matching component file:
@@ -218,7 +194,7 @@ None - the command is fully interactive.
    ```
    Would you like to:
    (1) Create the missing components now (I'll guide you through each one)
-   (2) Continue without these components (they won't be linked)
+   (2) Continue without these components (they won't be linked, nutrition will be incomplete)
    (3) Stop and create components manually first
    ```
 
@@ -227,13 +203,14 @@ None - the command is fully interactive.
      - Category confirmation (e.g., "Is 'Greek yogurt' a protein or dairy? [proteins/dairy]:")
      - Supermarket link (optional)
      - Serving size
-     - Basic nutrition info (or offer to look up via USDA)
+     - Nutrition info per serving (calories, protein, carbs, fat, fiber at minimum)
    - Create component file using `templates/component.md`
-   - Confirm creation: "Created: memory/components/proteins/greek-yogurt.md"
+   - Confirm creation: "Created: memory/components/dairy/greek-yogurt.md"
 
 7. If user chooses (2):
    - Mark those ingredients as unlinked in the recipe
    - Add a note in the recipe: `*(component not yet created)*`
+   - Warn that nutrition will be incomplete
 
 8. If user chooses (3):
    - Pause the workflow
@@ -253,6 +230,7 @@ None - the command is fully interactive.
 **Important Notes**:
 - **IMPORTANT**: This step ensures all significant ingredients have components BEFORE linking, making the linking step straightforward.
 - **IMPORTANT**: Always show the user what's missing and let them decide how to proceed.
+- **IMPORTANT**: Components must have nutrition data for the recipe nutrition calculation to work.
 
 **Pantry Staples (no component needed):**
 The following common items should be automatically skipped - they don't need component files:
@@ -297,26 +275,44 @@ If unsure whether an ingredient is a pantry staple, ask the user.
 
 ---
 
-#### Step 5: Calculate Total Nutrition & Divide by Servings
-**Purpose**: Sum nutritional content across all ingredients and calculate per-serving values.
+#### Step 5: Calculate Nutrition from Components
+**Purpose**: Sum nutritional content from linked component files and calculate per-serving values.
 
 **Actions**:
-1. Sum all nutritional values from Step 4 across all ingredients
-2. Extract or prompt for servings count:
+1. For each linked component:
+   a. Read the component file from `memory/components/[category]/[name].md`
+   b. Extract nutrition data per serving and serving size
+   c. Calculate nutrition for the amount used in the recipe:
+      - If recipe uses 200g and component serving is 100g, multiply nutrition by 2
+      - Handle unit conversions as needed
+
+2. Sum all nutritional values across all linked components:
+   - Calories, protein, carbs, fat (total), saturated fat, fiber
+   - Sodium, potassium, calcium, iron, magnesium (if available)
+   - Vitamins A, C, D (if available)
+
+3. Extract or prompt for servings count:
    - If servings was extracted in Step 3: Use that value
    - Otherwise: Prompt "How many servings does this recipe make?"
-3. Divide all totals by servings count
-4. Round all values to 2 significant figures
+
+4. Divide all totals by servings count
+
+5. Round all values to 2 significant figures
 
 **Validation**:
 - Servings count is a positive integer
-- All nutritional values divided correctly
+- All nutritional values calculated and divided correctly
+- Components with missing nutrition data are flagged
 
 **Error Handling**:
 - If servings is 0 or invalid: Prompt "Please enter valid servings (positive number):"
+- If component missing nutrition data: Warn user and note in recipe that nutrition is incomplete
+- If ingredient has no component: Skip in nutrition calculation, note as incomplete
 
 **Important Notes**:
 - **IMPORTANT**: All nutritional values in final output are PER SERVING, not total.
+- **IMPORTANT**: Nutrition accuracy depends on component files having complete data.
+- If some components lack nutrition data, note this in the recipe's nutrition section.
 
 ---
 
@@ -410,7 +406,7 @@ If unsure whether an ingredient is a pantry staple, ask the user.
    - **Metadata** (table format: Servings, Prep Time, Cook Time, Total Time, Difficulty, Cuisine, Dietary, Tags, Source)
    - **Ingredients** (with component links and optional grouping)
    - **Instructions** (numbered list with optional grouping)
-   - **Nutrition Information** (per serving, table format)
+   - **Nutrition Information** (per serving, table format - calculated from components)
    - **Storage & Meal Prep Notes** (optional, for meal-prep-friendly recipes)
    - **Notes** (tips, pairings, modifications)
    - **Footer** (Source, Adapted for, Date Added)
@@ -444,7 +440,7 @@ If unsure whether an ingredient is a pantry staple, ask the user.
 - Component link paths are correct: `../components/[category]/[name].md`
 - Scaling notes are clear and complete if applied
 - Markdown is properly formatted
-- No missing nutritional data
+- Nutrition calculated from linked components
 
 **Error Handling**:
 - If filename collision: Append timestamp or number (e.g., "chocolate-chip-cookies-2.md")
@@ -456,6 +452,7 @@ If unsure whether an ingredient is a pantry staple, ask the user.
 - All nutritional values should be clearly labeled with units (g, mg, IU, µg).
 - Include flagged unit conversions as comments so user can verify.
 - Scaling notes help future meal planning: if you use this recipe again, you'll see the scaling approach and supermarket constraints that informed the original amounts.
+- If any components lacked nutrition data, add a note: "* Nutrition incomplete - some components missing data"
 
 ---
 
@@ -466,7 +463,8 @@ If unsure whether an ingredient is a pantry staple, ask the user.
 1. Display success message with file location
 2. Show brief summary of what was created
 3. List any new components created
-4. Provide next steps
+4. Note if nutrition is incomplete due to missing component data
+5. Provide next steps
 
 **Output Format**:
 ```
@@ -486,6 +484,7 @@ Recipe Summary:
 - Scaling Applied: No
 - Components Linked: 5 (flour, butter, eggs, chocolate chips, sugar)
 - New Components Created: 0
+- Nutrition: Complete (calculated from components)
 
 The recipe is ready to use for meal planning and shopping lists!
 ```
@@ -509,6 +508,7 @@ Recipe Summary:
 - Supermarket Adjustments: Salmon fillets scaled to 4-pack (440g total at 110g each)
 - Components Linked: 6 (salmon, quinoa, almonds, spinach, avocado, lemon)
 - New Components Created: 1 (memory/components/proteins/almonds.md)
+- Nutrition: Complete (calculated from components)
 
 The recipe is ready to use for meal planning and shopping lists!
 See the "Scaling Notes" section in the recipe for details on adjustments made.
@@ -524,11 +524,12 @@ templates/
 └── recipe.md              # Template for recipe formatting (MUST be read first)
 
 memory/
-└── components/            # Searched for ingredient linking
+└── components/            # Read for ingredient linking AND nutrition data
     ├── proteins/
     ├── vegetables/
     ├── starches/
     ├── fruits/
+    ├── dairy/
     └── sauces/
 ```
 
@@ -557,10 +558,9 @@ memory/
 ### Success Criteria
 - [ ] Template `templates/recipe.md` is read before generating output
 - [ ] Recipe text is parsed correctly (title, ingredients, instructions, metadata extracted)
-- [ ] All ingredients found in USDA database (or user clarified unclear ingredients)
 - [ ] All significant ingredients linked to components (or marked as pantry staples)
 - [ ] Component links use correct relative paths: `../components/[category]/[name].md`
-- [ ] Nutritional values calculated and divided by servings correctly
+- [ ] Nutritional values calculated from component files and divided by servings correctly
 - [ ] Markdown file created at `memory/recipes/[recipe-name].md`
 - [ ] File structure matches `templates/recipe.md` exactly
 - [ ] All nutritional values shown per serving with 2 significant figures
@@ -577,53 +577,42 @@ memory/
 
 ### Notes for Implementation
 - This command should handle raw text input flexibly, accommodating variations in recipe formatting from different sources
-- USDA API calls should be made for each ingredient; cache results within a session to avoid redundant lookups
+- Nutrition is calculated by reading component files - no external API needed
 - Interactive prompts should be clear and help users provide clarifications when needed
 - All user input should be validated before proceeding to next steps
 
 ## Troubleshooting & Common Issues
 
-### API Key Problems
+### Missing Component Nutrition Data
 
-**Issue**: "USDA_API_KEY environment variable not set"
-- **Solution**: Ensure your `.env` file contains `USDA_API_KEY=your_key` or run `export USDA_API_KEY="your_key"` in terminal before running the command
-- **If you don't have an API key**: Get one free at https://fdc.nal.usda.gov/api-key-signup.html (instant signup)
+**Issue**: "Nutrition incomplete - component missing data"
+- **Cause**: A linked component file doesn't have complete nutrition information
+- **Solution**: Edit the component file at `memory/components/[category]/[name].md` to add nutrition data
+- **Format**: Ensure the component has a Nutrition section with at minimum: Calories, Protein, Carbs, Fat
 
-**Issue**: "API key appears invalid or expired"
-- **Solution**: Generate a new API key from https://fdc.nal.usda.gov/api-key-signup.html and update your `.env` file
+**Issue**: "Cannot calculate nutrition for ingredient X"
+- **Cause**: No component exists for this ingredient
+- **Solution**: Create a component file for the ingredient, or mark it as a pantry staple if it's negligible nutritionally
 
-### API Connectivity Issues
+### Component Matching Issues
 
-**Issue**: USDA API returns errors (HTTP 5xx, timeouts, connection refused)
-- **Expected Behavior**: Command automatically falls back to reference nutrition data
-- **What You'll See**: "Note: Using reference nutrition data for '{ingredient}' (live API lookup unavailable)"
-- **Action Required**: None—recipe will still be created with standard nutrition values
-- **Best Practice**: Try again later if all ingredients show fallback warnings; live API may be temporarily unavailable
+**Issue**: "Ingredient not matched to component"
+- **Cause**: Component file name doesn't match ingredient name
+- **Solution**: Either rename the component file or manually specify the match during the workflow
+- **Tip**: Component files use kebab-case (e.g., `chicken-breast.md`), recipe ingredients may use different naming
 
-**Issue**: API returns HTML instead of JSON (403/404 errors)
-- **Common Cause**: USDA API endpoint may have changed or your internet connection is blocked
-- **Solution**: Check internet connectivity; if persistent, contact USDA FoodData Central support
+**Issue**: "Multiple possible component matches"
+- **Solution**: The workflow will ask you to confirm which component to use
 
 ### Accuracy & Data Quality
 
-**Issue**: "Nutritional values seem off for ingredient X"
-- **Cause**: Reference data uses standard USDA values; prepared/processed foods may vary
-- **Solution**: After recipe creation, you can manually edit the nutrition table in the markdown file if needed
-- **Tip**: For processed foods with nutrition labels, use the label values instead of generic USDA data
+**Issue**: "Nutritional values seem off"
+- **Cause**: Component files may have incorrect data, or serving sizes don't match what's used in the recipe
+- **Solution**:
+  1. Check the component file's serving size matches what you're using
+  2. Verify the component's nutrition data is accurate
+  3. Manually edit the recipe's nutrition table if needed after creation
 
-**Issue**: "I want to use specific nutrition data (from package label, etc.)"
+**Issue**: "I want to override the calculated nutrition"
 - **Solution**: After the recipe is created, open the markdown file and edit the nutrition table directly
 - **Format**: Keep the same table structure; values should be per serving
-
-### Reference Data (Fallback Values)
-
-The command includes pre-calculated reference nutrition data for common ingredients (based on USDA FoodData Central):
-- Grains: quinoa, rice, wheat flour, oats
-- Proteins: chicken, salmon, beef, tofu, eggs
-- Vegetables: broccoli, spinach, carrots, beets, arugula
-- Fruits: apple, banana, berries, orange
-- Fats & Oils: olive oil, avocado oil, butter
-- Nuts & Seeds: almonds, walnuts, flax seed
-- Dairy: milk, yogurt, cheese
-
-If an ingredient is not in this list and the API is unavailable, the command will prompt for clarification or ask if you'd like to use a similar ingredient's data.
