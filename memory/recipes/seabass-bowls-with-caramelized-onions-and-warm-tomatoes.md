@@ -28,11 +28,11 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 ### Base
 - 247g [quinoa](../components/starches/quinoa.md) (1.5 × 165g; converted from cracked freekeh)
-- 3.75 cups (885 ml) water *(no component - pantry staple)*
-- Kosher salt and freshly ground black pepper *(no component - pantry staple)*
+- 3.75 cups (885 ml) water
+- Kosher salt and freshly ground black pepper
 
 ### Foster Sauce
-- 56 ml avocado or extra-virgin olive oil, divided (1.5 × 37 ml) *(no component - pantry staple)*
+- 56 ml avocado or extra-virgin olive oil, divided (1.5 × 37 ml)
 - 1 large [red onion](../components/vegetables/red-onion.md), thinly sliced (450g, 1.5 × 300g)
 - 450g grape tomatoes, halved (1.5 × 300g) *(component not yet created)*
 - 3 cloves garlic, minced (9g, 1.5 × 6g) *(no component - pantry staple)*
