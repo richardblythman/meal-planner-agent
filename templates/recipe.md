@@ -34,14 +34,14 @@ Brief story or description of the recipe - what makes it special, where it comes
 ## Ingredients
 
 ### [Section Name] (optional grouping)
-- [Amount] [ingredient name](../components/[category]/[component-name].md) ([conversion note if applicable])
-- [Amount] [ingredient name](../components/[category]/[component-name].md)
+- [Amount] [ingredient name](../memory/components/[category]/[component-name].md) ([conversion note if applicable])
+- [Amount] [ingredient name](../memory/components/[category]/[component-name].md)
 - [Amount] [ingredient name] *(no component - common pantry item)*
 
 ### [Another Section] (e.g., "For the Sauce")
-- [Amount] [ingredient name](../components/[category]/[component-name].md)
+- [Amount] [ingredient name](../memory/components/[category]/[component-name].md)
 
-**Example with real components:**
+**Example with real components (paths relative from recipe file in memory/recipes/):**
 - 6 [salmon fillets](../components/proteins/salmon-fillets.md) (660g total)
 - 500g [baby potatoes](../components/starches/baby-potatoes.md), halved
 - 200g [baby spinach](../components/vegetables/spinach.md)
@@ -57,7 +57,18 @@ Brief story or description of the recipe - what makes it special, where it comes
 - `fruits/` - banana, kiwi, etc.
 - `sauces/` - teriyaki, pesto, etc.
 
-*Link to components for nutritional tracking. Common pantry items (oil, salt, spices) don't need components.*
+**Pantry staples (no component needed):**
+- Oils (olive, avocado, sesame, etc.)
+- Salt, pepper, spices, dried herbs
+- Garlic, ginger, shallots
+- Vinegar, lemon/lime juice
+- Soy sauce, fish sauce, coconut aminos
+- Sugar, honey, maple syrup
+- Fresh herbs (when used as garnish)
+- Water, stock/broth, cooking wine
+- Flour/cornstarch (for thickening)
+
+*Link significant ingredients to components for nutritional tracking. Pantry staples don't need components.*
 
 ## Instructions
 

@@ -40,7 +40,7 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 - 1 tablespoon avocado oil *(pantry staple)*
 
 ### Rice
-- 225g (1¼ cups) [basmati rice](../components/starches/basmati-rice.md), rinsed
+- 225g (1¼ cups) [long grain rice](../components/starches/long-grain-rice.md), rinsed
 - 400ml water *(pantry staple)*
 - Pinch of salt *(pantry staple)*
 
