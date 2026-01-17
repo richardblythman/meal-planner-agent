@@ -58,6 +58,9 @@ meal-planning-agent/
 │   │   └── ...
 │   ├── symptom_log.md        # Bristol scale entries with timing and context
 │   └── nutritional_targets.md # Your nutritional goals (to be defined)
+├── templates/                 # Markdown templates for consistent formatting
+│   ├── recipe.md             # Template for new recipes
+│   └── component.md          # Template for new components (to be created)
 └── CLAUDE.md                 # This file - Claude Code's operational guide
 ```
 
@@ -83,6 +86,12 @@ meal-planning-agent/
 - **`memory/symptom_log.md`**: Your Bristol scale logs with timestamps and associated meals eaten in the preceding 24-48 hours. You log this manually; the agent uses it for analysis.
 
 - **`memory/nutritional_targets.md`**: Your personal nutritional targets (calories, protein, carbs, fats, micronutrients, etc.). Starts empty; you'll populate this as you research your needs.
+
+- **`templates/`**: Markdown templates for consistent formatting when creating new content:
+  - **`recipe.md`**: Template for new recipes. Includes sections for metadata, ingredients (with links to components), instructions, nutrition, and meal prep notes.
+  - **`component.md`**: Template for new components (proteins, vegetables, starches, etc.).
+
+  When adding new recipes or components, copy the relevant template and fill in the details.
 
 ## Agent Capabilities
 
@@ -320,6 +329,11 @@ When other agents are built:
 - **`.claude/commands/analyze_symptoms.md`**: Spec for correlating Bristol scale with meals and identifying patterns.
 - **`.claude/commands/design_elimination_diet.md`**: Spec for planning structured elimination diets.
 - **`.claude/commands/add_recipe.md`**: Spec for consistent recipe formatting and addition.
+
+### Templates
+
+- **`templates/recipe.md`**: Standard template for new recipes. Ingredients should link to component files (e.g., `[salmon fillets](../components/proteins/salmon-fillets.md)`).
+- **`templates/component.md`**: Standard template for new components (proteins, vegetables, starches, sauces).
 
 ## Agent Development Guidelines
 

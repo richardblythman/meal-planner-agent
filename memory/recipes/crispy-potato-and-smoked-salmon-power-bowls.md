@@ -28,7 +28,6 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 - 8 large eggs, hard-boiled
 - 1 English cucumber, halved and thinly sliced
 - 2 medium avocados, peeled, pitted, and diced
-- Fresh dill for garnish
 - Kosher salt and freshly ground black pepper to taste
 
 ### Lemon Yogurt Sauce
