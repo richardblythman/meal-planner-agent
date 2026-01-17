@@ -203,6 +203,43 @@ Tuesday: [Recipe Name] (breakfast), [Recipe Name] (lunch), [Recipe Name] (dinner
 ...
 ```
 
+**For component-based meals** (ad-hoc protein + veg combinations):
+```
+Wednesday: chicken breast + broccoli + rice (dinner)
+Thursday: salmon + peas (dinner)
+```
+
+The agent sums nutrition from individual components to calculate the meal total.
+
+### Component Documentation
+
+Components are documented in markdown with consistent structure:
+
+```markdown
+# Component Name
+
+**Category**: Protein | Vegetable | Starch | Sauce
+**Prep Time**: X minutes
+**Cook Time**: X minutes
+**Serving Size**: Xg (cooked)
+
+## Nutrition per Serving
+- Calories: XXX
+- Protein: Xg
+- Carbs: Xg
+- Fat: Xg
+- [Key micronutrients as relevant]
+
+## Common Cooking Methods
+- Method 1 (time/temp)
+- Method 2
+
+## Notes
+- Best paired with: [suggestions]
+- Storage/leftovers info
+- Batch cooking tips
+```
+
 ### Symptom Log Format
 
 ```markdown
