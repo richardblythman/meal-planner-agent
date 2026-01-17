@@ -41,7 +41,7 @@ None - the command is interactive.
 ### Prerequisites
 - `memory/components/` directory structure exists (proteins/, vegetables/, starches/, sauces/)
 - `templates/component.md` template file exists
-- Internet access to fetch product page
+- Puppeteer MCP server available for web scraping
 
 ### Step-by-Step Workflow
 
