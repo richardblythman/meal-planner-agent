@@ -41,7 +41,13 @@ None - the command is interactive.
 ### Prerequisites
 - `memory/components/` directory structure exists (proteins/, vegetables/, starches/, sauces/)
 - `templates/component.md` template file exists
-- Puppeteer MCP server available for web scraping
+- Comet MCP server available for web browsing and data extraction
+
+### Critical Comet Usage Rules
+⚠️ **MUST FOLLOW - Comet will fail if you ignore these:**
+1. **NEVER use `newChat: true`** - This parameter is buggy and causes "Prompt text not found in input - typing may have failed" errors. Always omit it entirely.
+2. **NEVER use question marks `?` in prompts** - Question marks cause typing failures. Write prompts as statements (e.g., "Tell me the weather in Dublin" not "What is the weather in Dublin?").
+3. **NEVER use WebFetch tool** - Grocery sites like Tesco block WebFetch requests. Always use Comet for fetching product pages.
 
 ### Step-by-Step Workflow
 
@@ -62,33 +68,29 @@ None - the command is interactive.
 
 ---
 
-#### Step 2: Fetch Product Information Using Puppeteer
-**Purpose**: Extract product details from the webpage using Puppeteer MCP server.
+#### Step 2: Fetch Product Information Using Comet
+**Purpose**: Extract product details from the webpage using Comet MCP server for autonomous browsing.
 
 **Actions**:
-1. Use `mcp__puppeteer__puppeteer_navigate` to navigate to the product URL
-2. Use `mcp__puppeteer__puppeteer_screenshot` to capture the page for visual reference
-3. Use `mcp__puppeteer__puppeteer_evaluate` to extract product data from the page DOM:
-   - Product name (typically in h1 or product title element)
-   - Unit size (e.g., 2kg, 500g, 4-pack)
-   - Ingredients list (look for "Ingredients" section)
-   - Nutrition information table (per 100g or per serving as available)
+1. Use `mcp__comet-bridge__comet_ask` to navigate to the product URL and extract product information
+   - Provide a detailed extraction prompt that requests:
+     - Product name
+     - Unit size (e.g., 2kg, 500g, 4-pack)
+     - Ingredients list
+     - Nutrition information table (per 100g or per serving as available)
 
-**Example Puppeteer evaluate script**:
-```javascript
-// Extract product information from page
-({
-  name: document.querySelector('h1')?.textContent?.trim(),
-  ingredients: document.querySelector('[class*="ingredient"]')?.textContent?.trim(),
-  nutrition: Array.from(document.querySelectorAll('table tr')).map(row => ({
-    label: row.cells[0]?.textContent?.trim(),
-    per100g: row.cells[1]?.textContent?.trim(),
-    perServing: row.cells[2]?.textContent?.trim()
-  }))
-})
+**Example Comet prompt**:
+```
+Navigate to [URL] and extract the following information:
+1. Product name
+2. Unit size (as packaged, e.g., 2kg, 500g)
+3. Full ingredients list
+4. Nutrition information including: Energy (kJ/kcal), Fat (total and saturates), Carbohydrates (total and sugars), Fiber, Protein, and Salt
+
+Format as structured data if possible.
 ```
 
-**Note**: The exact selectors will vary by grocery website. Adapt the evaluate script based on the page structure observed in the screenshot.
+2. Optionally use `mcp__comet-bridge__comet_screenshot` to capture a visual reference of the product page
 
 **Validation**:
 - Product name found
@@ -97,7 +99,7 @@ None - the command is interactive.
 **Error Handling**:
 - If product name not found: Prompt "What is the product name?"
 - If nutrition data not found: Prompt user to enter manually
-- If Puppeteer fails to load page: Check URL and retry, or fall back to manual entry
+- If Comet extraction is incomplete: Request user clarification on missing fields
 
 ---
 
@@ -141,34 +143,13 @@ None - the command is interactive.
    - Vegetable → `memory/components/vegetables/`
    - Starch → `memory/components/starches/`
    - Sauce → `memory/components/sauces/`
-3. Create markdown file using template structure:
-
-```markdown
-# [Product Name]
-
-**Category**: [Category]
-**Unit Size**: [Xg / Xkg] (as purchased)
-**Serving Size**: [Xg] (cooked)
-**Link**: [Product Name](URL)
-
-## Ingredients
-[Ingredient list from product page]
-
-## Nutrition per Serving
-- Energy: [X]kJ / [X]kcal
-- Fat: [X]g
-- Saturates: [X]g
-- Carbs: [X]g
-- Sugars: [X]g
-- Fiber: [X]g
-- Protein: [X]g
-- Salt: [X]g
-```
-
+3. Create markdown file using `templates/component.md` as the template structure:
+   - Populate all required fields from extracted data
+   - Follow the template format exactly (see `templates/component.md`)
 4. Calculate nutrition per serving if product page shows per 100g:
    - Scale values based on serving size
    - Round to 1 decimal place
-
+   - Formula: (nutrition per 100g) × (serving size ÷ 100)
 5. Write file to disk
 
 **Validation**:
@@ -255,9 +236,11 @@ memory/
 - **Nutrition Tracking**: Agent sums component nutrition to calculate meal totals
 
 ### Notes for Implementation
-- **Use Puppeteer MCP server** for all web scraping operations
-- Take a screenshot first to understand the page layout before writing evaluate scripts
-- Grocery website structure varies; adapt selectors based on what you see in the screenshot
-- If Puppeteer extraction fails, fall back to user input
-- Always preserve the original product link for easy reordering
-- Nutrition is often shown per 100g; scale to user's serving size
+- **Use Comet MCP server** for all web browsing and data extraction operations
+- **Connection**: Call `mcp__comet-bridge__comet_connect` first to establish connection and avoid timeouts
+- **Prompts**: Long prompts with URLs work fine as long as `newChat` and `?` are avoided (see Critical Comet Usage Rules above)
+- **Monitoring**: Use `mcp__comet-bridge__comet_poll` to check extraction progress for long operations instead of waiting blindly
+- **Verification**: Use `mcp__comet-bridge__comet_screenshot` to visually verify page state if extraction seems incomplete or unclear
+- **Fallback**: If Comet extraction is incomplete or unclear, request clarification from user or request manual entry
+- **Link preservation**: Always preserve the original product link for easy reordering
+- **Nutrition scaling**: Nutrition is often shown per 100g; scale to user's serving size using formula: (value per 100g) × (serving size ÷ 100)
