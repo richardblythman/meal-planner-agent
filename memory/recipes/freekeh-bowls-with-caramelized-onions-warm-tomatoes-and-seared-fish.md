@@ -62,7 +62,6 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ## Notes
 
 - **Fish Selection**: Recipe uses Tesco sea bass fillets (3 × 170g packs = 6 fillets). Nutrition calculated from Tesco label (137 kcal per 85g fillet). Other white fish (flounder, tilapia, striped bass) can be substituted with similar searing time, but nutrition will vary slightly.
-- This recipe requires making the Lemon Tahini Sauce (1.5x batch); see Buddha Bowls book page 26 or use your preferred tahini dressing recipe
 - Dukkah is a traditional Egyptian spice blend; find it in international aisle or use za'atar as substitute
 - Fish fillets can be prepped and seared up to 2 hours ahead, refrigerated, and gently reheated
 - The caramelized onions and tomato mixture (Foster Sauce) keeps for 3-4 days refrigerated and reheats well
