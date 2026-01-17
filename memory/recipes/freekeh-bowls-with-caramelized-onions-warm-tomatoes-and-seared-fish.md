@@ -7,7 +7,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 **Scaling**: 1.5x for dinner + lunch leftovers
 **Original Servings**: 4 | **Adjusted Servings**: 6
 **Grain Substitution**: Freekeh → Quinoa (freekeh unavailable at supermarket; quinoa offers similar cooking time and higher protein content)
-**Note**: Ingredient quantities scaled accordingly. Lemon Tahini Sauce recipe should also be made 1.5x. Recipe stores well as leftovers; reheat gently or serve cold.
+**Note**: Ingredient quantities scaled accordingly. Recipe stores well as leftovers; reheat gently or serve cold.
 
 ## Ingredients
 
