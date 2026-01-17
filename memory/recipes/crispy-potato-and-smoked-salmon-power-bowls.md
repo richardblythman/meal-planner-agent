@@ -14,24 +14,35 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 - Eggs changed from poached to hard-boiled for easier meal prep/storage
 - Cooking time increased to 40 minutes to accommodate larger quantities and roasting method
 
-## Meal Tags
-Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
+## Metadata
+
+| Field | Value |
+|-------|-------|
+| **Servings** | 8 (4 dinner + 4 lunch leftovers) |
+| **Prep Time** | 20 minutes |
+| **Cook Time** | 40 minutes |
+| **Total Time** | 60 minutes |
+| **Difficulty** | 2/5 |
+| **Cuisine** | American (New York Brunch) |
+| **Dietary** | Gluten-Free, High-Protein |
+| **Tags** | breakfast, brunch, lunch, dinner, salmon, power bowl, meal prep friendly |
+| **Source** | Cookbook (brunch-focused) |
 
 ## Ingredients
 
 ### Bowl Components
-- 500g baby potatoes (halved, for roasting)
-- 1 large red onion, cut into large pieces
+- 500g [baby potatoes](../components/starches/baby-potatoes.md), halved
+- 1 large [red onion](../components/vegetables/red-onion.md), cut into large pieces
 - 4 tablespoons (60 ml) avocado oil, divided
-- 200g baby spinach (approximately 6-7 packed cups)
-- 6 salmon fillets (660g total at ~110g each), seasoned for baking
-- 8 large eggs, hard-boiled
-- 1 English cucumber, halved and thinly sliced
-- 2 medium avocados, peeled, pitted, and diced
+- 200g [baby spinach](../components/vegetables/spinach.md)
+- 6 [salmon fillets](../components/proteins/salmon-fillets.md) (660g total at ~110g each)
+- 8 [eggs](../components/proteins/free-range-eggs.md), hard-boiled
+- 1 [English cucumber](../components/vegetables/cucumber.md), halved and thinly sliced
+- 2 medium [avocados](../components/fruits/avocado.md), peeled, pitted, and diced
 - Kosher salt and freshly ground black pepper to taste
 
-### Lemon Yogurt Sauce
-- 1 cup (240 g) plain Greek yogurt
+### Lemon Kefir Sauce
+- 1 cup (240g) [natural kefir](../components/dairy/natural-kefir.md)
 - ¼ cup (60 ml) water
 - 1 tablespoon (15 ml) extra-virgin olive oil
 - 1 clove garlic, minced
@@ -40,7 +51,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 ## Instructions
 
 ### Prepare the Sauce (Can be made ahead)
-1. In a small bowl, combine Greek yogurt, water, extra-virgin olive oil, and minced garlic
+1. In a small bowl, combine kefir, water, extra-virgin olive oil, and minced garlic
 2. Whisk until smooth and creamy
 3. Season with salt and pepper to taste
 4. Refrigerate until ready to serve (keeps 3-4 days)
@@ -85,13 +96,13 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 ### Assemble Bowls
 1. Divide roasted potatoes, onions, and wilted spinach among serving bowls
 2. Top with baked salmon fillet, eggs (halved or whole), cucumber slices, and avocado
-3. Drizzle generously with Lemon Yogurt Sauce
+3. Drizzle generously with Lemon Kefir Sauce
 4. Season with additional salt and pepper to taste
 5. *For soft-boiled eggs: serve immediately so the runny yolk is still warm and runny*
 
 ## Nutrition Information (Per Serving)
 
-*Includes all components: potatoes, onion, spinach, baked salmon, egg, cucumber, avocado, and Lemon Yogurt Sauce*
+*Includes all components: potatoes, onion, spinach, baked salmon, egg, cucumber, avocado, and Lemon Kefir Sauce*
 
 | Nutrient | Per Serving |
 |----------|-------------|
@@ -110,7 +121,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 | Vitamin D | 660 IU |
 
 **Nutritional Breakdown Notes:**
-- Sauce contribution: ~60 calories, 8g protein (Greek yogurt), minimal carbs
+- Sauce contribution: ~35 calories, 4g protein per serving (kefir), plus gut-friendly probiotics from live cultures
 - Salmon provides omega-3 fatty acids and high-quality protein
 - Baby potatoes and spinach provide fiber and micronutrients (iron, magnesium, potassium)
 - Avocado adds healthy fats and fiber
@@ -136,7 +147,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 - Hard-boiled eggs (vs. poached) make this significantly more meal-prep friendly for day-ahead serving
 - Baked salmon (vs. smoked) reduces sodium and increases omega-3 content
 - Baby potatoes cook faster than fingerling and have a tender, creamy interior when roasted
-- The Lemon Yogurt Sauce is key to the dish—it ties all components together with brightness and creaminess
+- The Lemon Kefir Sauce is key to the dish—it ties all components together with brightness and creaminess, plus adds beneficial probiotics
 - For 6-serving variation, use 3 salmon fillets and 6 eggs with proportional vegetables
 - **Scaling down**: To make 4 servings (original recipe), halve all ingredient quantities and reduce cooking times by 5-10 minutes
 - Pairs excellently with fresh citrus (grapefruit or orange segments) for additional brightness
