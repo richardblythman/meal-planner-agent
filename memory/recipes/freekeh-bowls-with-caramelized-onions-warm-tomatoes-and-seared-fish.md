@@ -32,7 +32,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 3. Heat the remaining 1.5 tablespoons (23 ml) oil in a wide skillet over medium-high heat until shimmering. Pat the fish completely dry with paper towels and season on both sides with coriander, salt, and pepper. Add the fish to the skillet (work in batches if needed) and sear for 2 to 3 minutes per side.
 
-4. To serve, divide the quinoa among bowls. Top with a fish fillet, caramelized onions and tomatoes, and avocado. Drizzle with Lemon Tahini Sauce and sprinkle with dukkah.
+4. To serve, divide the quinoa among bowls. Top with a fish fillet, caramelized onions and tomatoes, and avocado. Sprinkle with dukkah.
 
 ## Metadata
 
