@@ -34,13 +34,30 @@ Brief story or description of the recipe - what makes it special, where it comes
 ## Ingredients
 
 ### [Section Name] (optional grouping)
-- [Amount] [unit] [ingredient name] ([conversion note if applicable])
-- [Amount] [unit] [ingredient name]
+- [Amount] [ingredient name](../components/[category]/[component-name].md) ([conversion note if applicable])
+- [Amount] [ingredient name](../components/[category]/[component-name].md)
+- [Amount] [ingredient name] *(no component - common pantry item)*
 
 ### [Another Section] (e.g., "For the Sauce")
-- [Amount] [unit] [ingredient name]
+- [Amount] [ingredient name](../components/[category]/[component-name].md)
 
-*Use ingredient sections to group logically (e.g., "Bowl Components", "Sauce", "Garnish"). If recipe is simple, skip section headers.*
+**Example with real components:**
+- 6 [salmon fillets](../components/proteins/salmon-fillets.md) (660g total)
+- 500g [baby potatoes](../components/starches/baby-potatoes.md), halved
+- 200g [baby spinach](../components/vegetables/spinach.md)
+- 1 large [red onion](../components/vegetables/red-onion.md), sliced
+- 8 [eggs](../components/proteins/free-range-eggs.md), hard-boiled
+- 2 tablespoons olive oil *(no component - pantry staple)*
+- Kosher salt and pepper to taste *(no component)*
+
+**Component categories:**
+- `proteins/` - salmon-fillets, chicken-breast, eggs, beef, etc.
+- `vegetables/` - spinach, broccoli, red-onion, etc.
+- `starches/` - baby-potatoes, white-rice, quinoa, etc.
+- `fruits/` - banana, kiwi, etc.
+- `sauces/` - teriyaki, pesto, etc.
+
+*Link to components for nutritional tracking. Common pantry items (oil, salt, spices) don't need components.*
 
 ## Instructions
 
