@@ -39,7 +39,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 - ½ cup (7.5g) chopped fresh cilantro (1.5 × 5g)
 
 ### Fish & Toppings
-- ¾ teaspoon ground coriander (1.5 × ½ tsp) *(no component - pantry staple)*
+- ¾ teaspoon ground coriander (1.5 × ½ tsp)
 - 6 [sea bass fillets](../components/proteins/sea-bass-fillets.md) (510g total, 3 × 170g Tesco packs, 2 fillets per pack)
 - 2 [avocados](../components/fruits/avocado.md), peeled, pitted, and diced (320g)
 - Dukkah *(no component - pantry staple)*
