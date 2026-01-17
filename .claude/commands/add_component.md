@@ -255,7 +255,9 @@ memory/
 - **Nutrition Tracking**: Agent sums component nutrition to calculate meal totals
 
 ### Notes for Implementation
-- Grocery website structure varies; be flexible with HTML parsing
-- If automated extraction fails, fall back to user input
+- **Use Puppeteer MCP server** for all web scraping operations
+- Take a screenshot first to understand the page layout before writing evaluate scripts
+- Grocery website structure varies; adapt selectors based on what you see in the screenshot
+- If Puppeteer extraction fails, fall back to user input
 - Always preserve the original product link for easy reordering
 - Nutrition is often shown per 100g; scale to user's serving size
