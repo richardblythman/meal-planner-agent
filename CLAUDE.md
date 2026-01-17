@@ -65,7 +65,15 @@ meal-planning-agent/
 
 - **`.claude/commands/`**: Natural language instruction files that automate specific workflows (e.g., `/plan_weekly_meals`, `/generate_shopping_list`, `/analyze_symptoms`)
 
-- **`memory/recipes/`**: Your recipe knowledge base organized as individual markdown files. Each recipe includes ingredients, serving size, time estimate, meal tags (breakfast/lunch/dinner), and nutritional info per serving.
+- **`memory/recipes/`**: Full recipes with multiple ingredients and preparation steps. Use for structured meals like stir fries, curries, casseroles, etc.
+
+- **`memory/components/`**: Individual food items you mix-and-match for ad-hoc meals. Organized by type:
+  - **`proteins/`**: Chicken breast, salmon, ground beef, tofu, etc.
+  - **`vegetables/`**: Broccoli, peas, carrots, green beans, etc.
+  - **`starches/`**: Rice, potatoes, pasta, quinoa, etc.
+  - **`sauces/`**: Optional flavor additions (teriyaki, pesto, etc.)
+
+  Use components when you cook "one protein + one veg" style meals that vary week to week.
 
 - **`memory/weeks/`**: Weekly meal planning data organized by week. Each week has its own directory (named by start date in MMDDYY format) containing three separate markdown files:
   - **`meals.md`**: The weekly meal plan with day-by-day breakdown and recipe links
