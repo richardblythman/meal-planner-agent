@@ -28,7 +28,6 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 - 8 large eggs, hard-boiled
 - 1 English cucumber, halved and thinly sliced
 - 2 medium avocados, peeled, pitted, and diced
-- Fresh dill for garnish
 - Kosher salt and freshly ground black pepper to taste
 
 ### Lemon Yogurt Sauce
@@ -87,7 +86,7 @@ Breakfast | Brunch | Lunch | Dinner | Gluten-Free | High-Protein | Power Bowl
 1. Divide roasted potatoes, onions, and wilted spinach among serving bowls
 2. Top with baked salmon fillet, eggs (halved or whole), cucumber slices, and avocado
 3. Drizzle generously with Lemon Yogurt Sauce
-4. Garnish with fresh dill and additional salt and pepper to taste
+4. Season with additional salt and pepper to taste
 5. *For soft-boiled eggs: serve immediately so the runny yolk is still warm and runny*
 
 ## Metadata
