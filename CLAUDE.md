@@ -42,9 +42,14 @@ meal-planning-agent/
 ├── .claude/
 │   └── commands/              # Custom Claude Code commands for meal planning workflows
 ├── memory/
-│   ├── recipes/              # Individual recipe files with nutrition and timing
+│   ├── recipes/              # Full recipes with multiple ingredients and steps
 │   │   ├── [recipe-name].md  # Individual recipe files
 │   │   └── ...
+│   ├── components/           # Mix-and-match building blocks for ad-hoc meals
+│   │   ├── proteins/         # Chicken breast, salmon, ground beef, etc.
+│   │   ├── vegetables/       # Broccoli, peas, carrots, etc.
+│   │   ├── starches/         # Rice, potatoes, pasta, etc.
+│   │   └── sauces/           # Teriyaki, pesto, etc. (optional additions)
 │   ├── weeks/                # Weekly meal planning data organized by week
 │   │   ├── [MMDDYY]/         # Week directory (start date, e.g., 251214 for Dec 14, 2025)
 │   │   │   ├── meals.md      # Weekly meal plan
