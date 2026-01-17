@@ -1,4 +1,4 @@
-# Freekeh Bowls with Caramelized Onions, Warm Tomatoes, and Seared Fish
+# Seabass Bowls with Caramelized Onions and Warm Tomatoes
 
 This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-like tomatoes, and lots of fresh cilantro—a mixture known as "Foster Sauce." It was the result of a game-show-esque moment when someone else did the grocery shopping and I cooked with a basket of surprise ingredients. Over five years of making it, this sauce has become a go-to for topping all types of fish, chicken, and grain bowls. On its own, radicchio can come off as assertive and bitter, but the sweetness of the sauce and richness of the avocado keep it in check.
 
