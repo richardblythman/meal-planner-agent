@@ -34,9 +34,9 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ### Foster Sauce
 - 56 ml avocado or extra-virgin olive oil, divided (1.5 × 37 ml)
 - 1 large [red onion](../components/vegetables/red-onion.md), thinly sliced (450g, 1.5 × 300g)
-- 450g grape tomatoes, halved (1.5 × 300g) *(component not yet created)*
-- 3 cloves garlic, minced (9g, 1.5 × 6g) *(no component - pantry staple)*
-- ½ cup (7.5g) chopped fresh cilantro (1.5 × 5g) *(no component - pantry staple)*
+- 450g grape tomatoes, halved (1.5 × 300g)
+- 3 cloves garlic, minced (9g, 1.5 × 6g)
+- ½ cup (7.5g) chopped fresh cilantro (1.5 × 5g)
 
 ### Fish & Toppings
 - ¾ teaspoon ground coriander (1.5 × ½ tsp) *(no component - pantry staple)*
