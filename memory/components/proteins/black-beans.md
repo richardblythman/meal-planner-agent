@@ -8,25 +8,25 @@
 ## Ingredients
 Black Beans, Water, Salt.
 
-## Nutrition per 100g (drained)
-- Energy: 347kJ / 83kcal
+## Nutrition per 100g
+- Energy: 458kJ / 109kcal
 - Fat: 0.5g
-- Saturates: 0.1g
-- Carbs: 11g
+- Saturates: <0.1g
+- Carbs: 16.6g
 - Sugars: 0.5g
-- Fibre: 7g
-- Protein: 6.5g
-- Salt: 0.6g
+- Fibre: 6.4g
+- Protein: 6.3g
+- Salt: <0.01g
 
 ## Nutrition per Serving (80g)
-- Energy: 278kJ / 66kcal
+- Energy: 366kJ / 87kcal
 - Fat: 0.4g
-- Saturates: 0.1g
-- Carbs: 8.8g
+- Saturates: <0.1g
+- Carbs: 13.3g
 - Sugars: 0.4g
-- Fibre: 5.6g
-- Protein: 5.2g
-- Salt: 0.5g
+- Fibre: 5.1g
+- Protein: 5g
+- Salt: <0.01g
 
 ## Notes
 - Excellent source of plant-based protein and fibre

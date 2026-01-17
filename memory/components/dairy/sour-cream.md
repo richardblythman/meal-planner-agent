@@ -9,24 +9,24 @@
 Soured Cream (Milk).
 
 ## Nutrition per 100g
-- Energy: 812kJ / 196kcal
-- Fat: 19g
-- Saturates: 12g
-- Carbs: 3.5g
-- Sugars: 3.5g
+- Energy: 1023kJ / 248kcal
+- Fat: 24.3g
+- Saturates: 16.5g
+- Carbs: 4.6g
+- Sugars: 2.9g
 - Fibre: 0g
-- Protein: 2.8g
-- Salt: 0.1g
+- Protein: 2.7g
+- Salt: 0.08g
 
 ## Nutrition per Serving (30g)
-- Energy: 244kJ / 59kcal
-- Fat: 5.7g
-- Saturates: 3.6g
-- Carbs: 1.1g
-- Sugars: 1.1g
+- Energy: 307kJ / 74kcal
+- Fat: 7.3g
+- Saturates: 5g
+- Carbs: 1.4g
+- Sugars: 0.9g
 - Fibre: 0g
 - Protein: 0.8g
-- Salt: 0.03g
+- Salt: 0.02g
 
 ## Notes
 - Adds creamy, tangy flavour to dishes
