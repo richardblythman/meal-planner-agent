@@ -57,17 +57,23 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | ~310 |
-| Protein | 28g |
+| Calories | 334 |
+| Protein | 33g |
 | Carbohydrates | 41g |
 | Fat (Total) | 3g |
 | Saturated Fat | <1g |
 | Fiber | 8g |
 | Sodium | ~600mg |
 
-*Note: Nutrition is approximate. Edamame not included in calculation (no linked component).*
+**Per-Serving Component Breakdown:**
+- King prawns: 100g
+- Wholewheat noodles: 50g (dry)
+- Edamame: 25g
+- Cucumber: ~30g
+- Sugar snap peas: 25g
+- Dressing: ~30ml
 
-**Nutritional Breakdown Notes:**
+**Nutritional Highlights:**
 - High protein from prawns (21g per 100g)
 - Good source of fiber from wholewheat noodles
 - Low fat dish overall
