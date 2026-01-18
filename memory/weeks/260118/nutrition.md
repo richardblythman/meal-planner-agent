@@ -56,17 +56,26 @@
 ---
 
 ### Day 3 - Miso & Ginger Prawn Noodle Salad
-*(Equal portions - no split)*
 
+**Your Portion (100g prawns + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 382 |
-| Protein | 35g |
+| Calories | 539 |
+| Protein | 50g |
 | Carbs | 50g |
-| Fat | 3g |
+| Fat | 14g |
 | Fiber | 9g |
 
-**Highlights:** Very low fat, high protein (100g prawns per serving), good fiber from wholewheat noodles (62.5g dry per serving), refreshing cold dish
+**Partner's Portion (100g prawns + 1 egg):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 461 |
+| Protein | 43g |
+| Carbs | 50g |
+| Fat | 8g |
+| Fiber | 9g |
+
+**Highlights:** High protein from prawns and eggs, good fiber from wholewheat noodles (62.5g dry per serving), refreshing cold dish
 
 ---
 
