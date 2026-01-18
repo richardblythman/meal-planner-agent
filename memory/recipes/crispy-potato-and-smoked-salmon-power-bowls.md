@@ -105,7 +105,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 *Includes all components: potatoes, onion, spinach, baked salmon, eggs, cucumber, avocado, oils, and Lemon Kefir Sauce*
 
-### Your Portion (2 salmon fillets)
+### Your Portion (2 salmon fillets + 2 eggs)
 
 | Nutrient | Per Serving |
 |----------|-------------|
@@ -116,20 +116,20 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 | Saturated Fat | 12g |
 | Fiber | 11g |
 
-### Partner's Portion (1 salmon fillet)
+### Partner's Portion (1 salmon fillet + 1 egg)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 872 |
-| Protein | 49g |
+| Calories | 793 |
+| Protein | 42g |
 | Carbohydrates | 38g |
-| Fat (Total) | 60g |
-| Saturated Fat | 9g |
+| Fat (Total) | 54g |
+| Saturated Fat | 8g |
 | Fiber | 11g |
 
-**Per-Serving Component Breakdown (shared equally except salmon):**
+**Per-Serving Component Breakdown (shared equally except salmon and eggs):**
 - Salmon: You 220g (2 fillets), Partner 110g (1 fillet)
-- Eggs: 2 per serving (120g)
+- Eggs: You 2, Partner 1
 - Baby potatoes: 125g
 - Avocado: 80g (half an avocado)
 - Spinach: 50g
