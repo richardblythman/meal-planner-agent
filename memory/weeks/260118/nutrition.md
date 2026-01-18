@@ -8,14 +8,24 @@
 ## Per-Meal Breakdown
 
 ### Day 1 - Crispy Potato and Smoked Salmon Power Bowls
+
+**Your Portion (2 salmon fillets):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 510 |
-| Protein | 42g |
-| Carbs | 32g |
-| Fat | 28g |
-| Fiber | 6.5g |
-| Sodium | ~400mg |
+| Calories | 1,136 |
+| Protein | 73g |
+| Carbs | 38g |
+| Fat | 78g |
+| Fiber | 11g |
+
+**Partner's Portion (1 salmon fillet):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 872 |
+| Protein | 49g |
+| Carbs | 38g |
+| Fat | 60g |
+| Fiber | 11g |
 
 **Highlights:** High protein from salmon and eggs, excellent omega-3 content, probiotics from kefir sauce
 
