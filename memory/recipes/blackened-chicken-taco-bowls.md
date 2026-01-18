@@ -3,11 +3,15 @@
 ## Overview
 A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice crust, served over fluffy basmati rice with homemade pico de gallo, creamy guacamole, black beans, and a tangy cilantro-lime dressing. This gluten-free bowl is a testament to simple tacos done right—straightforward with a tiny twist to keep things interesting.
 
+## Scaling Notes
+**Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: You get 235g chicken per serving (2x), Partner gets 117.5g chicken per serving (1x)
+
 ## Metadata
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 4 |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 20 minutes |
 | **Cook Time** | 25 minutes |
 | **Total Time** | 45 minutes |
