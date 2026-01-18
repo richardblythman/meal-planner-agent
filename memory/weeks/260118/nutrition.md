@@ -140,10 +140,10 @@
 **Partner's Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 577 |
-| **Protein** | 37g |
+| **Calories** | 561 |
+| **Protein** | 36g |
 | **Carbs** | 32g |
-| **Fat** | 31g |
+| **Fat** | 30g |
 | **Fiber** | 9g |
 
 *Note: These are dinner-only values. With lunch leftovers being the same meals, your actual daily intake from these meals would be approximately double if eating both dinner and next-day lunch.*
