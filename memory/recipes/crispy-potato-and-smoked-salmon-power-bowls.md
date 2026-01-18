@@ -37,7 +37,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 - 4 tablespoons (60 ml) avocado oil, divided
 - 200g [baby spinach](../components/vegetables/spinach.md)
 - 6 [salmon fillets](../components/proteins/salmon-fillets.md) (660g total at ~110g each)
-- 8 [eggs](../components/proteins/free-range-eggs.md), hard-boiled
+- 6 [eggs](../components/proteins/free-range-eggs.md), hard-boiled (You: 2 per serving, Partner: 1 per serving)
 - 1 [English cucumber](../components/vegetables/cucumber.md), halved and thinly sliced
 - 2 medium [avocados](../components/fruits/avocado.md), peeled, pitted, and diced
 - Kosher salt and freshly ground black pepper to taste
