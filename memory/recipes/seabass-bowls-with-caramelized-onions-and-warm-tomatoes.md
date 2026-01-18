@@ -6,7 +6,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ## Scaling Notes
 **Scaling Applied**: 1.5x for dinner + lunch leftovers
 **Original Servings**: 4 | **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
-**Portion Split**: You get 2 seabass fillets per serving, Partner gets 1 seabass fillet per serving
+**Portion Split**: You get 2 seabass fillets + 2 eggs per serving, Partner gets 1 seabass fillet + 1 egg per serving
 **Ingredient Adjustments**:
 - Grain Substitution: Freekeh → Quinoa (freekeh unavailable at supermarket; quinoa offers similar cooking time and higher protein content)
 - All ingredient quantities scaled accordingly
