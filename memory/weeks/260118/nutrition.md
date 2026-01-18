@@ -70,14 +70,24 @@
 ---
 
 ### Day 4 - Blackened Chicken Taco Bowls
+
+**Your Portion (235g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 580 |
+| Calories | 825 |
+| Protein | 75g |
+| Carbs | 52g |
+| Fat | 32g |
+| Fiber | 9g |
+
+**Partner's Portion (117.5g chicken):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 645 |
 | Protein | 42g |
 | Carbs | 52g |
-| Fat | 22g |
+| Fat | 24g |
 | Fiber | 9g |
-| Sodium | 520mg |
 
 **Highlights:** High protein from chicken and black beans, excellent fiber, healthy fats from avocado
 
