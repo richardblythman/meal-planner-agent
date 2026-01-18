@@ -3,11 +3,15 @@
 ## Overview
 A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in fat and calories, this refreshing dish takes just 15 minutes to make - perfect for a light dinner or lunch.
 
+## Scaling Notes
+**Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: Equal portions (100g prawns each)
+
 ## Metadata
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 4 |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 10 minutes |
 | **Cook Time** | 5 minutes |
 | **Total Time** | 15 minutes |
