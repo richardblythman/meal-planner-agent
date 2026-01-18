@@ -56,18 +56,31 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 
 ## Nutrition Information (Per Serving)
 
+### Your Portion (100g prawns + 2 eggs)
+
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 382 |
-| Protein | 35g |
+| Calories | 539 |
+| Protein | 50g |
 | Carbohydrates | 50g |
-| Fat (Total) | 3g |
-| Saturated Fat | <1g |
+| Fat (Total) | 14g |
+| Saturated Fat | 3g |
 | Fiber | 9g |
-| Sodium | ~600mg |
 
-**Per-Serving Component Breakdown:**
+### Partner's Portion (100g prawns + 1 egg)
+
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 461 |
+| Protein | 43g |
+| Carbohydrates | 50g |
+| Fat (Total) | 8g |
+| Saturated Fat | 2g |
+| Fiber | 9g |
+
+**Per-Serving Component Breakdown (shared equally except eggs):**
 - King prawns: 100g
+- Eggs: You 2, Partner 1
 - Wholewheat noodles: 62.5g (dry)
 - Edamame: 25g
 - Cucumber: ~30g
@@ -75,7 +88,7 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 - Dressing: ~30ml
 
 **Nutritional Highlights:**
-- High protein from prawns (21g per 100g)
+- High protein from prawns and eggs
 - Good source of fiber from wholewheat noodles
 - Low fat dish overall
 - Sodium content mainly from miso paste, soy sauce, and prawns
