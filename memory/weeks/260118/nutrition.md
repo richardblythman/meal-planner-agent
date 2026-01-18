@@ -33,25 +33,25 @@
 
 ### Day 2 - Seabass Bowls with Caramelized Onions and Warm Tomatoes
 
-**Your Portion (2 seabass fillets):**
+**Your Portion (2 seabass fillets + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 675 |
-| Protein | 41g |
+| Calories | 832 |
+| Protein | 56g |
 | Carbs | 36g |
-| Fat | 42g |
+| Fat | 53g |
 | Fiber | 11g |
 
-**Partner's Portion (1 seabass fillet):**
+**Partner's Portion (1 seabass fillet + 1 egg):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 538 |
-| Protein | 24g |
+| Calories | 617 |
+| Protein | 32g |
 | Carbs | 35g |
-| Fat | 35g |
+| Fat | 40g |
 | Fiber | 11g |
 
-**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats
+**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats, added protein from eggs
 
 ---
 
