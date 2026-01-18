@@ -5,7 +5,7 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 
 ## Scaling Notes
 **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
-**Portion Split**: Equal portions (100g prawns each)
+**Portion Split**: Equal prawns (100g each), eggs 2:1 split (You: 2 eggs, Partner: 1 egg per serving)
 
 ## Metadata
 
