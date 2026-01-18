@@ -8,7 +8,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 ## Scaling Notes
 **Scaling Applied**: 2x for dinner + lunch leftovers
 **Original Servings**: 4 | **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
-**Portion Split**: You get 2 salmon fillets per serving, Partner gets 1 salmon fillet per serving
+**Portion Split**: You get 2 salmon fillets + 2 eggs per serving, Partner gets 1 salmon fillet + 1 egg per serving
 **Ingredient Adjustments**:
 - Fingerling potatoes replaced with 500g baby potatoes
 - Smoked salmon replaced with 660g baked salmon fillets (6 fillets at 110g each)
