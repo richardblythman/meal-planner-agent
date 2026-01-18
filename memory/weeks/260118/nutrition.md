@@ -60,13 +60,13 @@
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 334 |
-| Protein | 33g |
-| Carbs | 41g |
+| Calories | 382 |
+| Protein | 35g |
+| Carbs | 50g |
 | Fat | 3g |
-| Fiber | 8g |
+| Fiber | 9g |
 
-**Highlights:** Very low fat, high protein (100g prawns per serving), good fiber from wholewheat noodles, refreshing cold dish
+**Highlights:** Very low fat, high protein (100g prawns per serving), good fiber from wholewheat noodles (62.5g dry per serving), refreshing cold dish
 
 ---
 
