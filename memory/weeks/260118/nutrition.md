@@ -129,20 +129,20 @@
 **Your Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 3,838 |
-| **Protein** | 289g |
-| **Carbs** | 171g |
-| **Fat** | 206g |
-| **Fiber** | 47g |
+| **Calories** | 4,033 |
+| **Protein** | 292g |
+| **Carbs** | 202g |
+| **Fat** | 214g |
+| **Fiber** | 52g |
 
 **Partner's Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 3,022 |
-| **Protein** | 194g |
-| **Carbs** | 170g |
-| **Fat** | 155g |
-| **Fiber** | 47g |
+| **Calories** | 3,217 |
+| **Protein** | 197g |
+| **Carbs** | 201g |
+| **Fat** | 163g |
+| **Fiber** | 52g |
 
 ---
 
