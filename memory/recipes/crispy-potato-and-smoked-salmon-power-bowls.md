@@ -103,30 +103,48 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 ## Nutrition Information (Per Serving)
 
-*Includes all components: potatoes, onion, spinach, baked salmon, egg, cucumber, avocado, and Lemon Kefir Sauce*
+*Includes all components: potatoes, onion, spinach, baked salmon, eggs, cucumber, avocado, oils, and Lemon Kefir Sauce*
+
+### Your Portion (2 salmon fillets)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 510 |
-| Protein | 42g |
-| Carbohydrates | 32g |
-| Fat (Total) | 28g |
-| Saturated Fat | 6.0g |
-| Fiber | 6.5g |
-| Calcium | 165mg |
-| Iron | 3.2mg |
-| Magnesium | 98mg |
-| Potassium | 1050mg |
-| Vitamin A | 380 IU |
-| Vitamin C | 22mg |
-| Vitamin D | 660 IU |
+| Calories | 1,136 |
+| Protein | 73g |
+| Carbohydrates | 38g |
+| Fat (Total) | 78g |
+| Saturated Fat | 12g |
+| Fiber | 11g |
 
-**Nutritional Breakdown Notes:**
-- Sauce contribution: ~35 calories, 4g protein per serving (kefir), plus gut-friendly probiotics from live cultures
-- Salmon provides omega-3 fatty acids and high-quality protein
+### Partner's Portion (1 salmon fillet)
+
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 872 |
+| Protein | 49g |
+| Carbohydrates | 38g |
+| Fat (Total) | 60g |
+| Saturated Fat | 9g |
+| Fiber | 11g |
+
+**Per-Serving Component Breakdown (shared equally except salmon):**
+- Salmon: You 220g (2 fillets), Partner 110g (1 fillet)
+- Eggs: 2 per serving (120g)
+- Baby potatoes: 125g
+- Avocado: 80g (half an avocado)
+- Spinach: 50g
+- Kefir sauce: 60g
+- Avocado oil: 15ml
+- Olive oil: ~4ml
+- Red onion: ~37g
+- Cucumber: ~75g
+
+**Nutritional Highlights:**
+- High protein from salmon and eggs
+- Salmon provides omega-3 fatty acids (EPA & DHA)
+- Gut-friendly probiotics from kefir sauce
 - Baby potatoes and spinach provide fiber and micronutrients (iron, magnesium, potassium)
-- Avocado adds healthy fats and fiber
-- Hard-boiled eggs provide additional protein and choline for easy meal prep
+- Avocado adds healthy monounsaturated fats and fiber
 
 ## Storage & Meal Prep Notes
 
