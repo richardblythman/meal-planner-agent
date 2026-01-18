@@ -104,20 +104,20 @@
 ---
 
 ### Day 5 - Whole Chicken + Sweet Potato Fries + Tenderstem Broccoli
-*Per serving (1/4 of whole chicken + 125g fries + 100g broccoli):*
+*(Equal portions - no split)*
+*Per serving (1/4 of whole chicken + 250g fries + 100g broccoli):*
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 506 |
-| Protein | 35g |
-| Carbs | 27g |
-| Fat | 29g |
-| Fiber | 7g |
-| Sodium | ~350mg |
+| Calories | 701 |
+| Protein | 38g |
+| Carbs | 58g |
+| Fat | 37g |
+| Fiber | 12g |
 
 **Component Breakdown:**
-- Whole Chicken (500g serving): 1090 kcal, 131.5g protein, 62.5g fat → per 1/4 bird (~125g meat): 273 kcal, 33g protein, 15.6g fat
-- Sweet Potato Fries (125g): 195 kcal, 2.6g protein, 26g carbs, 7.8g fat, 5g fiber
+- Whole Chicken (per 1/4 bird, ~125g meat): 273 kcal, 33g protein, 15.6g fat
+- Sweet Potato Fries (250g): 390 kcal, 5.3g protein, 52.5g carbs, 15.5g fat, 10g fiber
 - Tenderstem Broccoli (100g): 34 kcal, 3.6g protein, 2.4g carbs, 0.4g fat, 3.4g fiber
 
 **Highlights:** High protein from roast chicken, vitamin C and fiber from broccoli, complex carbs from sweet potato
