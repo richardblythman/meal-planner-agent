@@ -142,8 +142,8 @@
 **Your Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 722 |
-| **Protein** | 53g |
+| **Calories** | 727 |
+| **Protein** | 54g |
 | **Carbs** | 32g |
 | **Fat** | 39g |
 | **Fiber** | 9g |
@@ -151,8 +151,8 @@
 **Partner's Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 574 |
-| **Protein** | 36g |
+| **Calories** | 579 |
+| **Protein** | 37g |
 | **Carbs** | 32g |
 | **Fat** | 30g |
 | **Fiber** | 9g |
