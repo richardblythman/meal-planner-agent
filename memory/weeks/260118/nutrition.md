@@ -96,25 +96,45 @@
 
 ## Weekly Totals (All Dinners)
 
+**Your Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 2,445 |
-| **Protein** | 173.6g |
-| **Carbs** | 197.8g |
-| **Fat** | 111.9g |
-| **Fiber** | 41.5g |
+| **Calories** | 3,071 |
+| **Protein** | 204g |
+| **Carbs** | 204g |
+| **Fat** | 162g |
+| **Fiber** | 46g |
+
+**Partner's Totals:**
+| Nutrient | Total (5 Dinners) |
+|----------|-------------------|
+| **Calories** | 2,807 |
+| **Protein** | 180g |
+| **Carbs** | 204g |
+| **Fat** | 144g |
+| **Fiber** | 46g |
 
 ---
 
 ## Daily Averages
 
+**Your Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 489 |
-| **Protein** | 34.7g |
-| **Carbs** | 39.6g |
-| **Fat** | 22.4g |
-| **Fiber** | 8.3g |
+| **Calories** | 614 |
+| **Protein** | 41g |
+| **Carbs** | 41g |
+| **Fat** | 32g |
+| **Fiber** | 9g |
+
+**Partner's Averages:**
+| Nutrient | Daily Average |
+|----------|---------------|
+| **Calories** | 561 |
+| **Protein** | 36g |
+| **Carbs** | 41g |
+| **Fat** | 29g |
+| **Fiber** | 9g |
 
 *Note: These are dinner-only values. With lunch leftovers being the same meals, your actual daily intake from these meals would be approximately double if eating both dinner and next-day lunch.*
 
