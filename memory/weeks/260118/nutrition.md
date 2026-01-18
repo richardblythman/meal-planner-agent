@@ -56,16 +56,17 @@
 ---
 
 ### Day 3 - Miso & Ginger Prawn Noodle Salad
+*(Equal portions - no split)*
+
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 310 |
-| Protein | 28g |
+| Calories | 334 |
+| Protein | 33g |
 | Carbs | 41g |
 | Fat | 3g |
 | Fiber | 8g |
-| Sodium | ~600mg |
 
-**Highlights:** Very low fat, high protein, good fiber from wholewheat noodles, refreshing cold dish
+**Highlights:** Very low fat, high protein (100g prawns per serving), good fiber from wholewheat noodles, refreshing cold dish
 
 ---
 
