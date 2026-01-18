@@ -9,7 +9,7 @@
 
 ### Day 1 - Crispy Potato and Smoked Salmon Power Bowls
 
-**Your Portion (2 salmon fillets):**
+**Your Portion (2 salmon fillets + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
 | Calories | 1,136 |
@@ -18,13 +18,13 @@
 | Fat | 78g |
 | Fiber | 11g |
 
-**Partner's Portion (1 salmon fillet):**
+**Partner's Portion (1 salmon fillet + 1 egg):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 872 |
-| Protein | 49g |
+| Calories | 793 |
+| Protein | 42g |
 | Carbs | 38g |
-| Fat | 60g |
+| Fat | 54g |
 | Fiber | 11g |
 
 **Highlights:** High protein from salmon and eggs, excellent omega-3 content, probiotics from kefir sauce
