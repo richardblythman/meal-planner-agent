@@ -32,6 +32,7 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 - 100g [sugar snap peas](../components/vegetables/sugar-snap-peas.md), halved if you like
 - 1 red chilli, sliced (deseeded if you prefer less heat) *(no component - pantry staple)*
 - 400g [king prawns](../components/proteins/king-prawns.md), peeled and cooked (100g per serving)
+- 6 [eggs](../components/proteins/free-range-eggs.md), hard-boiled (You: 2 per serving, Partner: 1 per serving)
 - 1 tsp sesame seeds *(no component - pantry staple)*
 
 ### For the Dressing
