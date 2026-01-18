@@ -19,7 +19,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 8 (4 dinner + 4 lunch leftovers) |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 20 minutes |
 | **Cook Time** | 40 minutes |
 | **Total Time** | 60 minutes |
