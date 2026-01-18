@@ -24,7 +24,7 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 ## Ingredients
 
 ### For the Salad
-- 200g [wholewheat noodles](../components/starches/wholewheat-noodles.md) (about 3 nests)
+- 250g [wholewheat noodles](../components/starches/wholewheat-noodles.md) (1 pack, 62.5g per serving)
 - 100g frozen edamame *(no component - Asian supermarket)*
 - 1 tsp sesame oil *(no component - pantry staple)*
 - ½ [cucumber](../components/vegetables/cucumber.md), deseeded, halved and thinly sliced into half-moons
