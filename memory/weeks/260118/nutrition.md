@@ -8,76 +8,116 @@
 ## Per-Meal Breakdown
 
 ### Day 1 - Crispy Potato and Smoked Salmon Power Bowls
+
+**Your Portion (2 salmon fillets + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 510 |
+| Calories | 1,136 |
+| Protein | 73g |
+| Carbs | 38g |
+| Fat | 78g |
+| Fiber | 11g |
+
+**Partner's Portion (1 salmon fillet + 1 egg):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 793 |
 | Protein | 42g |
-| Carbs | 32g |
-| Fat | 28g |
-| Fiber | 6.5g |
-| Sodium | ~400mg |
+| Carbs | 38g |
+| Fat | 54g |
+| Fiber | 11g |
 
 **Highlights:** High protein from salmon and eggs, excellent omega-3 content, probiotics from kefir sauce
 
 ---
 
 ### Day 2 - Seabass Bowls with Caramelized Onions and Warm Tomatoes
+
+**Your Portion (2 seabass fillets + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 539 |
-| Protein | 26.6g |
-| Carbs | 45.8g |
-| Fat | 29.9g |
+| Calories | 832 |
+| Protein | 56g |
+| Carbs | 36g |
+| Fat | 53g |
 | Fiber | 11g |
-| Sodium | 207mg |
 
-**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats
+**Partner's Portion (1 seabass fillet + 1 egg):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 617 |
+| Protein | 32g |
+| Carbs | 35g |
+| Fat | 40g |
+| Fiber | 11g |
+
+**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats, added protein from eggs
 
 ---
 
 ### Day 3 - Miso & Ginger Prawn Noodle Salad
+
+**Your Portion (100g prawns + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 310 |
-| Protein | 28g |
-| Carbs | 41g |
-| Fat | 3g |
-| Fiber | 8g |
-| Sodium | ~600mg |
+| Calories | 539 |
+| Protein | 50g |
+| Carbs | 50g |
+| Fat | 14g |
+| Fiber | 9g |
 
-**Highlights:** Very low fat, high protein, good fiber from wholewheat noodles, refreshing cold dish
+**Partner's Portion (100g prawns + 1 egg):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 461 |
+| Protein | 43g |
+| Carbs | 50g |
+| Fat | 8g |
+| Fiber | 9g |
+
+**Highlights:** High protein from prawns and eggs, good fiber from wholewheat noodles (62.5g dry per serving), refreshing cold dish
 
 ---
 
 ### Day 4 - Blackened Chicken Taco Bowls
+
+**Your Portion (235g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 580 |
+| Calories | 825 |
+| Protein | 75g |
+| Carbs | 52g |
+| Fat | 32g |
+| Fiber | 9g |
+
+**Partner's Portion (117.5g chicken):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 645 |
 | Protein | 42g |
 | Carbs | 52g |
-| Fat | 22g |
+| Fat | 24g |
 | Fiber | 9g |
-| Sodium | 520mg |
 
 **Highlights:** High protein from chicken and black beans, excellent fiber, healthy fats from avocado
 
 ---
 
 ### Day 5 - Whole Chicken + Sweet Potato Fries + Tenderstem Broccoli
-*Per serving (1/4 of whole chicken + 125g fries + 100g broccoli):*
+*(Equal portions - no split)*
+*Per serving (1/4 of whole chicken + 250g fries + 100g broccoli):*
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 506 |
-| Protein | 35g |
-| Carbs | 27g |
-| Fat | 29g |
-| Fiber | 7g |
-| Sodium | ~350mg |
+| Calories | 701 |
+| Protein | 38g |
+| Carbs | 58g |
+| Fat | 37g |
+| Fiber | 12g |
 
 **Component Breakdown:**
-- Whole Chicken (500g serving): 1090 kcal, 131.5g protein, 62.5g fat → per 1/4 bird (~125g meat): 273 kcal, 33g protein, 15.6g fat
-- Sweet Potato Fries (125g): 195 kcal, 2.6g protein, 26g carbs, 7.8g fat, 5g fiber
+- Whole Chicken (per 1/4 bird, ~125g meat): 273 kcal, 33g protein, 15.6g fat
+- Sweet Potato Fries (250g): 390 kcal, 5.3g protein, 52.5g carbs, 15.5g fat, 10g fiber
 - Tenderstem Broccoli (100g): 34 kcal, 3.6g protein, 2.4g carbs, 0.4g fat, 3.4g fiber
 
 **Highlights:** High protein from roast chicken, vitamin C and fiber from broccoli, complex carbs from sweet potato
@@ -86,25 +126,45 @@
 
 ## Weekly Totals (All Dinners)
 
+**Your Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 2,445 |
-| **Protein** | 173.6g |
-| **Carbs** | 197.8g |
-| **Fat** | 111.9g |
-| **Fiber** | 41.5g |
+| **Calories** | 4,033 |
+| **Protein** | 292g |
+| **Carbs** | 202g |
+| **Fat** | 214g |
+| **Fiber** | 52g |
+
+**Partner's Totals:**
+| Nutrient | Total (5 Dinners) |
+|----------|-------------------|
+| **Calories** | 3,217 |
+| **Protein** | 197g |
+| **Carbs** | 201g |
+| **Fat** | 163g |
+| **Fiber** | 52g |
 
 ---
 
 ## Daily Averages
 
+**Your Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 489 |
-| **Protein** | 34.7g |
-| **Carbs** | 39.6g |
-| **Fat** | 22.4g |
-| **Fiber** | 8.3g |
+| **Calories** | 807 |
+| **Protein** | 58g |
+| **Carbs** | 40g |
+| **Fat** | 43g |
+| **Fiber** | 10g |
+
+**Partner's Averages:**
+| Nutrient | Daily Average |
+|----------|---------------|
+| **Calories** | 643 |
+| **Protein** | 39g |
+| **Carbs** | 40g |
+| **Fat** | 33g |
+| **Fiber** | 10g |
 
 *Note: These are dinner-only values. With lunch leftovers being the same meals, your actual daily intake from these meals would be approximately double if eating both dinner and next-day lunch.*
 

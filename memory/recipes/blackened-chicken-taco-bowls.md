@@ -3,11 +3,15 @@
 ## Overview
 A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice crust, served over fluffy basmati rice with homemade pico de gallo, creamy guacamole, black beans, and a tangy cilantro-lime dressing. This gluten-free bowl is a testament to simple tacos done right—straightforward with a tiny twist to keep things interesting.
 
+## Scaling Notes
+**Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: You get 235g chicken per serving (2x), Partner gets 117.5g chicken per serving (1x)
+
 ## Metadata
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 4 |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 20 minutes |
 | **Cook Time** | 25 minutes |
 | **Total Time** | 45 minutes |
@@ -28,7 +32,7 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 - Kosher salt and freshly ground black pepper to taste *(pantry staple)*
 
 ### Blackened Chicken
-- 455g (1 lb) [boneless, skinless chicken breast](../components/proteins/chicken-breast.md)
+- 705g [boneless, skinless chicken breast](../components/proteins/chicken-breast.md) (You: 235g per serving, Partner: 117.5g per serving)
 - 1 teaspoon smoked paprika *(pantry staple)*
 - ½ teaspoon cayenne pepper *(pantry staple)*
 - ½ teaspoon dried thyme *(pantry staple)*
@@ -88,17 +92,38 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 
 ## Nutrition Information (Per Serving)
 
+### Your Portion (235g chicken)
+
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 580 |
+| Calories | 825 |
+| Protein | 75g |
+| Carbohydrates | 52g |
+| Fat (Total) | 32g |
+| Saturated Fat | 6g |
+| Fibre | 9g |
+
+### Partner's Portion (117.5g chicken)
+
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 645 |
 | Protein | 42g |
 | Carbohydrates | 52g |
-| Fat (Total) | 22g |
+| Fat (Total) | 24g |
 | Saturated Fat | 5g |
 | Fibre | 9g |
-| Sodium | 520mg |
 
-**Nutritional Breakdown Notes:**
+**Per-Serving Component Breakdown (shared equally except chicken):**
+- Chicken: You 235g, Partner 117.5g
+- Rice (dry): 56g
+- Avocado (guac): 40g
+- Black beans: 50g
+- Sour cream: 30g
+- Dressing oil: ~15ml
+- Pico de gallo: ~50g
+
+**Nutritional Highlights:**
 - High protein from chicken and black beans
 - Good source of fibre from beans and avocado
 - Healthy fats from avocado and olive oil

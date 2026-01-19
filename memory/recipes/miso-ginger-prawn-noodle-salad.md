@@ -3,11 +3,15 @@
 ## Overview
 A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in fat and calories, this refreshing dish takes just 15 minutes to make - perfect for a light dinner or lunch.
 
+## Scaling Notes
+**Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: Equal prawns (100g each), eggs 2:1 split (You: 2 eggs, Partner: 1 egg per serving)
+
 ## Metadata
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 4 |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 10 minutes |
 | **Cook Time** | 5 minutes |
 | **Total Time** | 15 minutes |
@@ -20,14 +24,15 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 ## Ingredients
 
 ### For the Salad
-- 200g [wholewheat noodles](../components/starches/wholewheat-noodles.md) (about 3 nests)
+- 250g [wholewheat noodles](../components/starches/wholewheat-noodles.md) (1 pack, 62.5g per serving)
 - 100g frozen edamame *(no component - Asian supermarket)*
 - 1 tsp sesame oil *(no component - pantry staple)*
 - ½ [cucumber](../components/vegetables/cucumber.md), deseeded, halved and thinly sliced into half-moons
 - 1 spring onion, sliced *(no component - pantry staple)*
 - 100g [sugar snap peas](../components/vegetables/sugar-snap-peas.md), halved if you like
 - 1 red chilli, sliced (deseeded if you prefer less heat) *(no component - pantry staple)*
-- 300g [king prawns](../components/proteins/king-prawns.md), peeled and cooked
+- 400g [king prawns](../components/proteins/king-prawns.md), peeled and cooked (100g per serving)
+- 6 [eggs](../components/proteins/free-range-eggs.md), hard-boiled (You: 2 per serving, Partner: 1 per serving)
 - 1 tsp sesame seeds *(no component - pantry staple)*
 
 ### For the Dressing
@@ -51,20 +56,39 @@ A quick and easy prawn noodle salad with punchy miso and ginger flavours. Low in
 
 ## Nutrition Information (Per Serving)
 
+### Your Portion (100g prawns + 2 eggs)
+
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | ~310 |
-| Protein | 28g |
-| Carbohydrates | 41g |
-| Fat (Total) | 3g |
-| Saturated Fat | <1g |
-| Fiber | 8g |
-| Sodium | ~600mg |
+| Calories | 539 |
+| Protein | 50g |
+| Carbohydrates | 50g |
+| Fat (Total) | 14g |
+| Saturated Fat | 3g |
+| Fiber | 9g |
 
-*Note: Nutrition is approximate. Edamame not included in calculation (no linked component).*
+### Partner's Portion (100g prawns + 1 egg)
 
-**Nutritional Breakdown Notes:**
-- High protein from prawns (21g per 100g)
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 461 |
+| Protein | 43g |
+| Carbohydrates | 50g |
+| Fat (Total) | 8g |
+| Saturated Fat | 2g |
+| Fiber | 9g |
+
+**Per-Serving Component Breakdown (shared equally except eggs):**
+- King prawns: 100g
+- Eggs: You 2, Partner 1
+- Wholewheat noodles: 62.5g (dry)
+- Edamame: 25g
+- Cucumber: ~30g
+- Sugar snap peas: 25g
+- Dressing: ~30ml
+
+**Nutritional Highlights:**
+- High protein from prawns and eggs
 - Good source of fiber from wholewheat noodles
 - Low fat dish overall
 - Sodium content mainly from miso paste, soy sauce, and prawns

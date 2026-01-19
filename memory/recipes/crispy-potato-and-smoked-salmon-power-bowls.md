@@ -7,7 +7,8 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 ## Scaling Notes
 **Scaling Applied**: 2x for dinner + lunch leftovers
-**Original Servings**: 4 | **Adjusted Servings**: 8 (4 dinner + 4 lunch leftovers)
+**Original Servings**: 4 | **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: You get 2 salmon fillets + 2 eggs per serving, Partner gets 1 salmon fillet + 1 egg per serving
 **Ingredient Adjustments**:
 - Fingerling potatoes replaced with 500g baby potatoes
 - Smoked salmon replaced with 660g baked salmon fillets (6 fillets at 110g each)
@@ -18,7 +19,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 8 (4 dinner + 4 lunch leftovers) |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 20 minutes |
 | **Cook Time** | 40 minutes |
 | **Total Time** | 60 minutes |
@@ -36,7 +37,7 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 - 4 tablespoons (60 ml) avocado oil, divided
 - 200g [baby spinach](../components/vegetables/spinach.md)
 - 6 [salmon fillets](../components/proteins/salmon-fillets.md) (660g total at ~110g each)
-- 8 [eggs](../components/proteins/free-range-eggs.md), hard-boiled
+- 6 [eggs](../components/proteins/free-range-eggs.md), hard-boiled (You: 2 per serving, Partner: 1 per serving)
 - 1 [English cucumber](../components/vegetables/cucumber.md), halved and thinly sliced
 - 2 medium [avocados](../components/fruits/avocado.md), peeled, pitted, and diced
 - Kosher salt and freshly ground black pepper to taste
@@ -102,30 +103,48 @@ With smoked salmon and red onion, poached eggs, greens, and crispy potatoes, gil
 
 ## Nutrition Information (Per Serving)
 
-*Includes all components: potatoes, onion, spinach, baked salmon, egg, cucumber, avocado, and Lemon Kefir Sauce*
+*Includes all components: potatoes, onion, spinach, baked salmon, eggs, cucumber, avocado, oils, and Lemon Kefir Sauce*
+
+### Your Portion (2 salmon fillets + 2 eggs)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 510 |
-| Protein | 42g |
-| Carbohydrates | 32g |
-| Fat (Total) | 28g |
-| Saturated Fat | 6.0g |
-| Fiber | 6.5g |
-| Calcium | 165mg |
-| Iron | 3.2mg |
-| Magnesium | 98mg |
-| Potassium | 1050mg |
-| Vitamin A | 380 IU |
-| Vitamin C | 22mg |
-| Vitamin D | 660 IU |
+| Calories | 1,136 |
+| Protein | 73g |
+| Carbohydrates | 38g |
+| Fat (Total) | 78g |
+| Saturated Fat | 12g |
+| Fiber | 11g |
 
-**Nutritional Breakdown Notes:**
-- Sauce contribution: ~35 calories, 4g protein per serving (kefir), plus gut-friendly probiotics from live cultures
-- Salmon provides omega-3 fatty acids and high-quality protein
+### Partner's Portion (1 salmon fillet + 1 egg)
+
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 793 |
+| Protein | 42g |
+| Carbohydrates | 38g |
+| Fat (Total) | 54g |
+| Saturated Fat | 8g |
+| Fiber | 11g |
+
+**Per-Serving Component Breakdown (shared equally except salmon and eggs):**
+- Salmon: You 220g (2 fillets), Partner 110g (1 fillet)
+- Eggs: You 2, Partner 1
+- Baby potatoes: 125g
+- Avocado: 80g (half an avocado)
+- Spinach: 50g
+- Kefir sauce: 60g
+- Avocado oil: 15ml
+- Olive oil: ~4ml
+- Red onion: ~37g
+- Cucumber: ~75g
+
+**Nutritional Highlights:**
+- High protein from salmon and eggs
+- Salmon provides omega-3 fatty acids (EPA & DHA)
+- Gut-friendly probiotics from kefir sauce
 - Baby potatoes and spinach provide fiber and micronutrients (iron, magnesium, potassium)
-- Avocado adds healthy fats and fiber
-- Hard-boiled eggs provide additional protein and choline for easy meal prep
+- Avocado adds healthy monounsaturated fats and fiber
 
 ## Storage & Meal Prep Notes
 

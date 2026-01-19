@@ -5,7 +5,8 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 ## Scaling Notes
 **Scaling Applied**: 1.5x for dinner + lunch leftovers
-**Original Servings**: 4 | **Adjusted Servings**: 6 (3 dinner + 3 lunch leftovers)
+**Original Servings**: 4 | **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
+**Portion Split**: You get 2 seabass fillets + 2 eggs per serving, Partner gets 1 seabass fillet + 1 egg per serving
 **Ingredient Adjustments**:
 - Grain Substitution: Freekeh → Quinoa (freekeh unavailable at supermarket; quinoa offers similar cooking time and higher protein content)
 - All ingredient quantities scaled accordingly
@@ -14,7 +15,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 | Field | Value |
 |-------|-------|
-| **Servings** | 6 (3 dinner + 3 lunch leftovers) |
+| **Servings** | 4 (2 dinner + 2 lunch leftovers) |
 | **Prep Time** | 10 minutes |
 | **Cook Time** | 25 minutes |
 | **Total Time** | 35 minutes |
@@ -41,6 +42,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ### Fish & Toppings
 - ¾ teaspoon ground coriander (1.5 × ½ tsp)
 - 6 [sea bass fillets](../components/proteins/sea-bass-fillets.md) (510g total, 3 × 170g Tesco packs, 2 fillets per pack)
+- 6 [eggs](../components/proteins/free-range-eggs.md), hard-boiled (You: 2 per serving, Partner: 1 per serving)
 - 2 [avocados](../components/fruits/avocado.md), peeled, pitted, and diced (320g)
 - Dukkah
 
@@ -60,18 +62,38 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 ## Nutrition Information (Per Serving)
 
+*Includes all components: quinoa, seabass, Foster Sauce (onion, tomatoes, oil), avocado, and dukkah*
+
+### Your Portion (2 seabass fillets + 2 eggs)
+
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 539 |
-| Protein | 26.6g |
-| Carbohydrates | 45.8g |
-| Fat (Total) | 29.9g |
-| Saturated Fat | 4.5g |
+| Calories | 832 |
+| Protein | 56g |
+| Carbohydrates | 36g |
+| Fat (Total) | 53g |
+| Saturated Fat | 10g |
 | Fiber | 11g |
-| Sodium | 207mg |
-| Calcium | 57mg |
-| Iron | 1.7mg |
-| Vitamin D | 450 IU |
+
+### Partner's Portion (1 seabass fillet + 1 egg)
+
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 617 |
+| Protein | 32g |
+| Carbohydrates | 35g |
+| Fat (Total) | 40g |
+| Saturated Fat | 7g |
+| Fiber | 11g |
+
+**Per-Serving Component Breakdown (shared equally except seabass and eggs):**
+- Seabass: You 170g (2 fillets), Partner 85g (1 fillet)
+- Eggs: You 2, Partner 1
+- Quinoa (dry): 62g
+- Avocado: 80g (half an avocado)
+- Tomatoes: 112g
+- Red onion: 112g
+- Oil: 14ml
 
 ## Storage & Meal Prep Notes
 
