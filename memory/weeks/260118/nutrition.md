@@ -195,10 +195,10 @@
 ## Preparation Notes
 
 ### Prep-Ahead Opportunities
-- **Day 1:** Kefir sauce can be made 3-4 days ahead
-- **Day 2:** Quinoa and Foster Sauce can be prepped 1-2 days ahead
+- **Day 1:** Quinoa and Foster Sauce can be prepped 1-2 days ahead
+- **Day 2:** Cilantro-lime dressing keeps 1 week; spice rub can be pre-mixed
 - **Day 3:** Dressing can be made up to 3 days ahead (store in jar)
-- **Day 4:** Cilantro-lime dressing keeps 1 week; spice rub can be pre-mixed
+- **Day 4:** Kefir sauce can be made 3-4 days ahead
 - **Day 5:** Minimal prep - straightforward roast
 
 ### Time Estimates
