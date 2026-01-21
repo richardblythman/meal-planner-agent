@@ -184,11 +184,11 @@
 - **Carb Sources:** Mix of quinoa, rice, noodles, and potatoes provides variety
 
 ### Micronutrient Highlights
-- **Omega-3s:** Strong week with salmon (Days 1) and seabass (Day 2)
-- **Vitamin D:** Excellent from fish days (salmon, seabass)
+- **Omega-3s:** Strong week with seabass (Day 1) and salmon (Day 4)
+- **Vitamin D:** Excellent from fish days (seabass, salmon)
 - **Iron:** Good sources from chicken and black beans
-- **Vitamin C:** Broccoli (Days 1, 5), tomatoes (Day 2, 4), peppers (Day 4)
-- **Probiotics:** Kefir sauce (Day 1), miso (Day 3)
+- **Vitamin C:** Broccoli (Days 4, 5), tomatoes (Day 1, 2), peppers (Day 2)
+- **Probiotics:** Kefir sauce (Day 4), miso (Day 3)
 
 ---
 
