@@ -204,10 +204,10 @@
 ### Time Estimates
 | Day | Recipe | Active Time | Total Time |
 |-----|--------|-------------|------------|
-| 1 | Crispy Potato & Salmon | 20 min | 60 min |
-| 2 | Seabass Bowls | 10 min | 35 min |
+| 1 | Seabass Bowls | 10 min | 35 min |
+| 2 | Blackened Chicken Tacos | 20 min | 45 min |
 | 3 | Miso Prawn Noodle Salad | 10 min | 15 min |
-| 4 | Blackened Chicken Tacos | 20 min | 45 min |
+| 4 | Crispy Potato & Salmon | 20 min | 60 min |
 | 5 | Whole Chicken & Sides | 15 min | 75 min |
 
 **Busiest Days:** Friday (Day 5) has longest cook time but minimal active prep
