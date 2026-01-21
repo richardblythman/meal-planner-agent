@@ -10,22 +10,22 @@
 ## Meal Plan
 
 ### Day 1 - Monday
-**Dinner:** Crispy Potato and Smoked Salmon Power Bowls
-- Recipe: `memory/recipes/crispy-potato-and-smoked-salmon-power-bowls.md`
-- Servings: 4 (dinner portions)
-
-### Day 1 Lunch (Tuesday)
-**Leftovers:** Crispy Potato and Smoked Salmon Power Bowls from Day 1 Dinner
-
----
-
-### Day 2 - Tuesday
 **Dinner:** Seabass Bowls with Caramelized Onions and Warm Tomatoes
 - Recipe: `memory/recipes/seabass-bowls-with-caramelized-onions-and-warm-tomatoes.md`
 - Servings: 3 (dinner portions)
 
+### Day 1 Lunch (Tuesday)
+**Leftovers:** Seabass Bowls with Caramelized Onions and Warm Tomatoes from Day 1 Dinner
+
+---
+
+### Day 2 - Tuesday
+**Dinner:** Blackened Chicken Taco Bowls with Cilantro-Lime Dressing
+- Recipe: `memory/recipes/blackened-chicken-taco-bowls.md`
+- Servings: 4
+
 ### Day 2 Lunch (Wednesday)
-**Leftovers:** Seabass Bowls with Caramelized Onions and Warm Tomatoes from Day 2 Dinner
+**Leftovers:** Blackened Chicken Taco Bowls from Day 2 Dinner
 
 ---
 
@@ -41,12 +41,12 @@
 ---
 
 ### Day 4 - Thursday
-**Dinner:** Blackened Chicken Taco Bowls with Cilantro-Lime Dressing
-- Recipe: `memory/recipes/blackened-chicken-taco-bowls.md`
-- Servings: 4
+**Dinner:** Crispy Potato and Smoked Salmon Power Bowls
+- Recipe: `memory/recipes/crispy-potato-and-smoked-salmon-power-bowls.md`
+- Servings: 4 (dinner portions)
 
 ### Day 4 Lunch (Friday)
-**Leftovers:** Blackened Chicken Taco Bowls from Day 4 Dinner
+**Leftovers:** Crispy Potato and Smoked Salmon Power Bowls from Day 4 Dinner
 
 ---
 
