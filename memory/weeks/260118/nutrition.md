@@ -7,31 +7,7 @@
 
 ## Per-Meal Breakdown
 
-### Day 1 - Crispy Potato and Smoked Salmon Power Bowls
-
-**Your Portion (2 salmon fillets + 2 eggs):**
-| Nutrient | Per Serving |
-|----------|-------------|
-| Calories | 1,136 |
-| Protein | 73g |
-| Carbs | 38g |
-| Fat | 78g |
-| Fiber | 11g |
-
-**Partner's Portion (1 salmon fillet + 1 egg):**
-| Nutrient | Per Serving |
-|----------|-------------|
-| Calories | 793 |
-| Protein | 42g |
-| Carbs | 38g |
-| Fat | 54g |
-| Fiber | 11g |
-
-**Highlights:** High protein from salmon and eggs, excellent omega-3 content, probiotics from kefir sauce
-
----
-
-### Day 2 - Seabass Bowls with Caramelized Onions and Warm Tomatoes
+### Day 1 - Seabass Bowls with Caramelized Onions and Warm Tomatoes
 
 **Your Portion (2 seabass fillets + 2 eggs):**
 | Nutrient | Per Serving |
@@ -52,6 +28,30 @@
 | Fiber | 11g |
 
 **Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats, added protein from eggs
+
+---
+
+### Day 2 - Blackened Chicken Taco Bowls
+
+**Your Portion (235g chicken):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 825 |
+| Protein | 75g |
+| Carbs | 52g |
+| Fat | 32g |
+| Fiber | 9g |
+
+**Partner's Portion (117.5g chicken):**
+| Nutrient | Per Serving |
+|----------|-------------|
+| Calories | 645 |
+| Protein | 42g |
+| Carbs | 52g |
+| Fat | 24g |
+| Fiber | 9g |
+
+**Highlights:** High protein from chicken and black beans, excellent fiber, healthy fats from avocado
 
 ---
 
@@ -79,27 +79,27 @@
 
 ---
 
-### Day 4 - Blackened Chicken Taco Bowls
+### Day 4 - Crispy Potato and Smoked Salmon Power Bowls
 
-**Your Portion (235g chicken):**
+**Your Portion (2 salmon fillets + 2 eggs):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 825 |
-| Protein | 75g |
-| Carbs | 52g |
-| Fat | 32g |
-| Fiber | 9g |
+| Calories | 1,136 |
+| Protein | 73g |
+| Carbs | 38g |
+| Fat | 78g |
+| Fiber | 11g |
 
-**Partner's Portion (117.5g chicken):**
+**Partner's Portion (1 salmon fillet + 1 egg):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 645 |
+| Calories | 793 |
 | Protein | 42g |
-| Carbs | 52g |
-| Fat | 24g |
-| Fiber | 9g |
+| Carbs | 38g |
+| Fat | 54g |
+| Fiber | 11g |
 
-**Highlights:** High protein from chicken and black beans, excellent fiber, healthy fats from avocado
+**Highlights:** High protein from salmon and eggs, excellent omega-3 content, probiotics from kefir sauce
 
 ---
 
@@ -184,30 +184,30 @@
 - **Carb Sources:** Mix of quinoa, rice, noodles, and potatoes provides variety
 
 ### Micronutrient Highlights
-- **Omega-3s:** Strong week with salmon (Days 1) and seabass (Day 2)
-- **Vitamin D:** Excellent from fish days (salmon, seabass)
+- **Omega-3s:** Strong week with seabass (Day 1) and salmon (Day 4)
+- **Vitamin D:** Excellent from fish days (seabass, salmon)
 - **Iron:** Good sources from chicken and black beans
-- **Vitamin C:** Broccoli (Days 1, 5), tomatoes (Day 2, 4), peppers (Day 4)
-- **Probiotics:** Kefir sauce (Day 1), miso (Day 3)
+- **Vitamin C:** Broccoli (Days 4, 5), tomatoes (Day 1, 2), peppers (Day 2)
+- **Probiotics:** Kefir sauce (Day 4), miso (Day 3)
 
 ---
 
 ## Preparation Notes
 
 ### Prep-Ahead Opportunities
-- **Day 1:** Kefir sauce can be made 3-4 days ahead
-- **Day 2:** Quinoa and Foster Sauce can be prepped 1-2 days ahead
+- **Day 1:** Quinoa and Foster Sauce can be prepped 1-2 days ahead
+- **Day 2:** Cilantro-lime dressing keeps 1 week; spice rub can be pre-mixed
 - **Day 3:** Dressing can be made up to 3 days ahead (store in jar)
-- **Day 4:** Cilantro-lime dressing keeps 1 week; spice rub can be pre-mixed
+- **Day 4:** Kefir sauce can be made 3-4 days ahead
 - **Day 5:** Minimal prep - straightforward roast
 
 ### Time Estimates
 | Day | Recipe | Active Time | Total Time |
 |-----|--------|-------------|------------|
-| 1 | Crispy Potato & Salmon | 20 min | 60 min |
-| 2 | Seabass Bowls | 10 min | 35 min |
+| 1 | Seabass Bowls | 10 min | 35 min |
+| 2 | Blackened Chicken Tacos | 20 min | 45 min |
 | 3 | Miso Prawn Noodle Salad | 10 min | 15 min |
-| 4 | Blackened Chicken Tacos | 20 min | 45 min |
+| 4 | Crispy Potato & Salmon | 20 min | 60 min |
 | 5 | Whole Chicken & Sides | 15 min | 75 min |
 
 **Busiest Days:** Friday (Day 5) has longest cook time but minimal active prep
