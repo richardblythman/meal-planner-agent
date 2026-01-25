@@ -64,16 +64,16 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 *Includes all components: quinoa, seabass, Foster Sauce (onion, tomatoes, oil), avocado, and dukkah*
 
-### Your Portion (2 seabass fillets + 2 eggs + 67g quinoa per serving)
+### Your Portion (2 seabass fillets + 2 eggs + 167g quinoa per serving)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 850 |
-| Protein | 57g |
-| Carbohydrates | 40g |
-| Fat (Total) | 53g |
+| Calories | 992 |
+| Protein | 62g |
+| Carbohydrates | 67g |
+| Fat (Total) | 54g |
 | Saturated Fat | 10g |
-| Fiber | 12g |
+| Fiber | 14g |
 
 ### Partner's Portion (1 seabass fillet + 1 egg + 33g quinoa per serving)
 
