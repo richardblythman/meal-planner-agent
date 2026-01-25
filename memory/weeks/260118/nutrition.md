@@ -33,20 +33,20 @@
 
 ### Day 2 - Blackened Chicken Taco Bowls
 
-**Your Portion (235g chicken):**
+**Your Portion (252.5g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 825 |
-| Protein | 75g |
+| Calories | 850 |
+| Protein | 80g |
 | Carbs | 52g |
-| Fat | 32g |
+| Fat | 33g |
 | Fiber | 9g |
 
-**Partner's Portion (117.5g chicken):**
+**Partner's Portion (100g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 645 |
-| Protein | 42g |
+| Calories | 620 |
+| Protein | 37g |
 | Carbs | 52g |
 | Fat | 24g |
 | Fiber | 9g |
