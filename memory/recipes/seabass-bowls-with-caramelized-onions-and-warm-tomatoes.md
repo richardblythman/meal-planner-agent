@@ -75,16 +75,16 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 | Saturated Fat | 10g |
 | Fiber | 14g |
 
-### Partner's Portion (1 seabass fillet + 1 egg + 33g quinoa per serving)
+### Partner's Portion (1 seabass fillet + 1 egg + 83g quinoa per serving)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 505 |
-| Protein | 30g |
-| Carbohydrates | 15g |
-| Fat (Total) | 40g |
+| Calories | 575 |
+| Protein | 32g |
+| Carbohydrates | 34g |
+| Fat (Total) | 41g |
 | Saturated Fat | 7g |
-| Fiber | 9g |
+| Fiber | 11g |
 
 **Per-Serving Component Breakdown (shared equally except seabass, eggs, and quinoa):**
 - Seabass: You 170g (2 fillets), Partner 85g (1 fillet)
