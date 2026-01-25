@@ -9,25 +9,25 @@
 
 ### Day 1 - Seabass Bowls with Caramelized Onions and Warm Tomatoes
 
-**Your Portion (2 seabass fillets + 2 eggs):**
+**Your Portion (2 seabass fillets + 2 eggs + 67g quinoa):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 832 |
-| Protein | 56g |
-| Carbs | 36g |
+| Calories | 850 |
+| Protein | 57g |
+| Carbs | 40g |
 | Fat | 53g |
-| Fiber | 11g |
+| Fiber | 12g |
 
-**Partner's Portion (1 seabass fillet + 1 egg):**
+**Partner's Portion (1 seabass fillet + 1 egg + 33g quinoa):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 617 |
-| Protein | 32g |
-| Carbs | 35g |
+| Calories | 505 |
+| Protein | 30g |
+| Carbs | 15g |
 | Fat | 40g |
-| Fiber | 11g |
+| Fiber | 9g |
 
-**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats, added protein from eggs
+**Highlights:** High fiber from quinoa and avocado, excellent vitamin D from seabass, heart-healthy fats, added protein from eggs. Quinoa split 2:1 (you get 67g dry, partner gets 33g dry of 200g total).
 
 ---
 
@@ -195,7 +195,7 @@
 ## Preparation Notes
 
 ### Prep-Ahead Opportunities
-- **Day 1:** Quinoa and Foster Sauce can be prepped 1-2 days ahead
+- **Day 1:** Quinoa (200g total, split 2:1) and Foster Sauce can be prepped 1-2 days ahead
 - **Day 2:** Cilantro-lime dressing keeps 1 week; spice rub can be pre-mixed
 - **Day 3:** Dressing can be made up to 3 days ahead (store in jar)
 - **Day 4:** Kefir sauce can be made 3-4 days ahead

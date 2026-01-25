@@ -47,7 +47,7 @@
 
 | Item | Quantity | Notes |
 |------|----------|-------|
-| Quinoa | 247g | Day 2 - Seabass Bowls |
+| Quinoa | 200g | Day 2 - Seabass Bowls |
 | Wholewheat noodles | 200g (3 nests) | Day 3 - Miso Prawn Salad |
 | Long grain rice | 225g | Day 4 - Blackened Chicken Tacos |
 | Sweet potato fries (frozen) | 500g (1 bag) | Day 5 - Strong Roots brand |
@@ -149,7 +149,7 @@
 
 ### Canned & Dry Goods
 - 200g black beans (1 can)
-- 247g quinoa
+- 200g quinoa
 - 200g wholewheat noodles
 - 225g long grain rice
 
