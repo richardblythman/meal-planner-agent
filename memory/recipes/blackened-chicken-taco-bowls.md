@@ -92,30 +92,30 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 
 ## Nutrition Information (Per Serving)
 
-### Your Portion (235g chicken)
+### Your Portion (252.5g chicken)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 825 |
-| Protein | 75g |
+| Calories | 850 |
+| Protein | 80g |
 | Carbohydrates | 52g |
-| Fat (Total) | 32g |
+| Fat (Total) | 33g |
 | Saturated Fat | 6g |
 | Fibre | 9g |
 
-### Partner's Portion (117.5g chicken)
+### Partner's Portion (100g chicken)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 645 |
-| Protein | 42g |
+| Calories | 620 |
+| Protein | 37g |
 | Carbohydrates | 52g |
 | Fat (Total) | 24g |
 | Saturated Fat | 5g |
 | Fibre | 9g |
 
 **Per-Serving Component Breakdown (shared equally except chicken):**
-- Chicken: You 235g, Partner 117.5g
+- Chicken: You 252.5g, Partner 100g
 - Rice (dry): 56g
 - Avocado (guac): 40g
 - Black beans: 50g
