@@ -32,7 +32,7 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 - Kosher salt and freshly ground black pepper to taste *(pantry staple)*
 
 ### Blackened Chicken
-- 705g [boneless, skinless chicken breast](../components/proteins/chicken-breast.md) (You: 235g per serving, Partner: 117.5g per serving)
+- 705g [boneless, skinless chicken breast](../components/proteins/chicken-breast.md) (You: 252.5g per serving, Partner: 100g per serving)
 - 1 teaspoon smoked paprika *(pantry staple)*
 - ½ teaspoon cayenne pepper *(pantry staple)*
 - ½ teaspoon dried thyme *(pantry staple)*
