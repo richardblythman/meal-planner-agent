@@ -5,7 +5,7 @@ A fresh, flavourful taco bowl featuring blackened chicken with a smoky spice cru
 
 ## Scaling Notes
 **Adjusted Servings**: 4 (2 dinner + 2 lunch leftovers)
-**Portion Split**: You get 235g chicken per serving (2x), Partner gets 117.5g chicken per serving (1x)
+**Portion Split**: You get 252.5g chicken per serving (2x), Partner gets 100g chicken per serving (2x)
 
 ## Metadata
 
