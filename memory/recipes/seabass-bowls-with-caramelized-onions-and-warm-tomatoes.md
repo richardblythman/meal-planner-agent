@@ -89,7 +89,7 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 **Per-Serving Component Breakdown (shared equally except seabass, eggs, and quinoa):**
 - Seabass: You 170g (2 fillets), Partner 85g (1 fillet)
 - Eggs: You 2, Partner 1
-- Quinoa (dry): You 67g, Partner 33g (2:1 split of 200g total)
+- Quinoa (dry): You 167g, Partner 83g (2:1 split of 250g total)
 - Avocado: 80g (half an avocado)
 - Tomatoes: 112g
 - Red onion: 112g
