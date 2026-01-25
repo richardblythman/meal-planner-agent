@@ -28,8 +28,8 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ## Ingredients
 
 ### Base
-- 200g [quinoa](../components/starches/quinoa.md) (split 2:1 between servings)
-- 400ml water
+- 250g [quinoa](../components/starches/quinoa.md) (split 2:1 between servings)
+- 500ml water
 - Kosher salt and freshly ground black pepper
 
 ### Foster Sauce
