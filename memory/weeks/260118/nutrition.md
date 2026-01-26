@@ -33,20 +33,20 @@
 
 ### Day 2 - Blackened Chicken Taco Bowls
 
-**Your Portion (235g chicken):**
+**Your Portion (252.5g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 825 |
-| Protein | 75g |
+| Calories | 850 |
+| Protein | 80g |
 | Carbs | 52g |
-| Fat | 32g |
+| Fat | 33g |
 | Fiber | 9g |
 
-**Partner's Portion (117.5g chicken):**
+**Partner's Portion (100g chicken):**
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 645 |
-| Protein | 42g |
+| Calories | 620 |
+| Protein | 37g |
 | Carbs | 52g |
 | Fat | 24g |
 | Fiber | 9g |
@@ -129,17 +129,17 @@
 **Your Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 4,033 |
-| **Protein** | 292g |
+| **Calories** | 4,058 |
+| **Protein** | 297g |
 | **Carbs** | 202g |
-| **Fat** | 214g |
+| **Fat** | 215g |
 | **Fiber** | 52g |
 
 **Partner's Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 3,217 |
-| **Protein** | 197g |
+| **Calories** | 3,192 |
+| **Protein** | 192g |
 | **Carbs** | 201g |
 | **Fat** | 163g |
 | **Fiber** | 52g |
@@ -151,8 +151,8 @@
 **Your Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 807 |
-| **Protein** | 58g |
+| **Calories** | 812 |
+| **Protein** | 59g |
 | **Carbs** | 40g |
 | **Fat** | 43g |
 | **Fiber** | 10g |
@@ -160,8 +160,8 @@
 **Partner's Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 643 |
-| **Protein** | 39g |
+| **Calories** | 638 |
+| **Protein** | 38g |
 | **Carbs** | 40g |
 | **Fat** | 33g |
 | **Fiber** | 10g |
