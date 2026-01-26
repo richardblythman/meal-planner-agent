@@ -129,20 +129,20 @@
 **Your Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 4,058 |
-| **Protein** | 297g |
-| **Carbs** | 202g |
+| **Calories** | 4,076 |
+| **Protein** | 298g |
+| **Carbs** | 206g |
 | **Fat** | 215g |
-| **Fiber** | 52g |
+| **Fiber** | 53g |
 
 **Partner's Totals:**
 | Nutrient | Total (5 Dinners) |
 |----------|-------------------|
-| **Calories** | 3,192 |
-| **Protein** | 192g |
-| **Carbs** | 201g |
+| **Calories** | 3,080 |
+| **Protein** | 190g |
+| **Carbs** | 181g |
 | **Fat** | 163g |
-| **Fiber** | 52g |
+| **Fiber** | 50g |
 
 ---
 
@@ -151,18 +151,18 @@
 **Your Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 812 |
-| **Protein** | 59g |
-| **Carbs** | 40g |
+| **Calories** | 815 |
+| **Protein** | 60g |
+| **Carbs** | 41g |
 | **Fat** | 43g |
-| **Fiber** | 10g |
+| **Fiber** | 11g |
 
 **Partner's Averages:**
 | Nutrient | Daily Average |
 |----------|---------------|
-| **Calories** | 638 |
+| **Calories** | 616 |
 | **Protein** | 38g |
-| **Carbs** | 40g |
+| **Carbs** | 36g |
 | **Fat** | 33g |
 | **Fiber** | 10g |
 
