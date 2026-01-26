@@ -28,8 +28,8 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 ## Ingredients
 
 ### Base
-- 247g [quinoa](../components/starches/quinoa.md) (1.5 × 165g; converted from cracked freekeh)
-- 3.75 cups (885 ml) water
+- 250g [quinoa](../components/starches/quinoa.md) (split 2:1 between servings)
+- 500ml water
 - Kosher salt and freshly ground black pepper
 
 ### Foster Sauce
@@ -64,32 +64,32 @@ This bowl is topped with a mixture of quick-caramelized red onion, warm, jam-lik
 
 *Includes all components: quinoa, seabass, Foster Sauce (onion, tomatoes, oil), avocado, and dukkah*
 
-### Your Portion (2 seabass fillets + 2 eggs)
+### Your Portion (2 seabass fillets + 2 eggs + 167g quinoa per serving)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 832 |
-| Protein | 56g |
-| Carbohydrates | 36g |
-| Fat (Total) | 53g |
+| Calories | 992 |
+| Protein | 62g |
+| Carbohydrates | 67g |
+| Fat (Total) | 54g |
 | Saturated Fat | 10g |
-| Fiber | 11g |
+| Fiber | 14g |
 
-### Partner's Portion (1 seabass fillet + 1 egg)
+### Partner's Portion (1 seabass fillet + 1 egg + 83g quinoa per serving)
 
 | Nutrient | Per Serving |
 |----------|-------------|
-| Calories | 617 |
+| Calories | 575 |
 | Protein | 32g |
-| Carbohydrates | 35g |
-| Fat (Total) | 40g |
+| Carbohydrates | 34g |
+| Fat (Total) | 41g |
 | Saturated Fat | 7g |
 | Fiber | 11g |
 
-**Per-Serving Component Breakdown (shared equally except seabass and eggs):**
+**Per-Serving Component Breakdown (shared equally except seabass, eggs, and quinoa):**
 - Seabass: You 170g (2 fillets), Partner 85g (1 fillet)
 - Eggs: You 2, Partner 1
-- Quinoa (dry): 62g
+- Quinoa (dry): You 167g, Partner 83g (2:1 split of 250g total)
 - Avocado: 80g (half an avocado)
 - Tomatoes: 112g
 - Red onion: 112g

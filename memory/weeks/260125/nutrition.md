@@ -21,8 +21,8 @@
 
 | Portion | Calories | Protein | Carbs | Fat | Fiber |
 |---------|----------|---------|-------|-----|-------|
-| Your Portion (235g chicken) | 825 | 75g | 52g | 32g | 9g |
-| Partner's Portion (117.5g chicken) | 645 | 42g | 52g | 24g | 9g |
+| Your Portion (252.5g chicken) | 850 | 80g | 52g | 33g | 9g |
+| Partner's Portion (100g chicken) | 620 | 37g | 52g | 24g | 9g |
 
 ---
 
@@ -30,8 +30,8 @@
 
 | Portion | Calories | Protein | Carbs | Fat | Fiber |
 |---------|----------|---------|-------|-----|-------|
-| Your Portion (2 seabass + 2 eggs) | 832 | 56g | 36g | 53g | 11g |
-| Partner's Portion (1 seabass + 1 egg) | 617 | 32g | 35g | 40g | 11g |
+| Your Portion (2 seabass + 2 eggs + 167g quinoa) | 992 | 62g | 67g | 54g | 14g |
+| Partner's Portion (1 seabass + 1 egg + 83g quinoa) | 575 | 32g | 34g | 41g | 11g |
 
 ---
 
@@ -62,20 +62,20 @@
 
 | Nutrient | Day 1 | Day 2 | Day 3 | Day 4 | **Weekly Total** |
 |----------|-------|-------|-------|-------|------------------|
-| Calories | 1,136 | 825 | 832 | 958 | **3,751** |
-| Protein | 73g | 75g | 56g | 72g | **276g** |
-| Carbs | 38g | 52g | 36g | 69g | **195g** |
-| Fat | 78g | 32g | 53g | 45.5g | **208.5g** |
-| Fiber | 11g | 9g | 11g | 8g | **39g** |
+| Calories | 1,136 | 850 | 992 | 958 | **3,936** |
+| Protein | 73g | 80g | 62g | 72g | **287g** |
+| Carbs | 38g | 52g | 67g | 69g | **226g** |
+| Fat | 78g | 33g | 54g | 45.5g | **210.5g** |
+| Fiber | 11g | 9g | 14g | 8g | **42g** |
 
 ### Partner's Weekly Totals
 
 | Nutrient | Day 1 | Day 2 | Day 3 | Day 4 | **Weekly Total** |
 |----------|-------|-------|-------|-------|------------------|
-| Calories | 793 | 645 | 617 | 958 | **3,013** |
-| Protein | 42g | 42g | 32g | 72g | **188g** |
-| Carbs | 38g | 52g | 35g | 69g | **194g** |
-| Fat | 54g | 24g | 40g | 45.5g | **163.5g** |
+| Calories | 793 | 620 | 575 | 958 | **2,946** |
+| Protein | 42g | 37g | 32g | 72g | **183g** |
+| Carbs | 38g | 52g | 34g | 69g | **193g** |
+| Fat | 54g | 24g | 41g | 45.5g | **164.5g** |
 | Fiber | 11g | 9g | 11g | 8g | **39g** |
 
 ---
@@ -86,19 +86,19 @@
 
 | Nutrient | Average |
 |----------|---------|
-| Calories | 938 |
-| Protein | 69g |
-| Carbs | 49g |
-| Fat | 52g |
-| Fiber | 10g |
+| Calories | 984 |
+| Protein | 72g |
+| Carbs | 57g |
+| Fat | 53g |
+| Fiber | 11g |
 
 ### Partner's Daily Average (4 dinners)
 
 | Nutrient | Average |
 |----------|---------|
-| Calories | 753 |
-| Protein | 47g |
-| Carbs | 49g |
+| Calories | 737 |
+| Protein | 46g |
+| Carbs | 48g |
 | Fat | 41g |
 | Fiber | 10g |
 
@@ -143,7 +143,7 @@
 - Dressing can be made ahead
 
 **Day 3 (Wednesday) - Seabass Bowls:**
-- Cook quinoa (15 min + 5 min steam)
+- Cook quinoa (250g total, split 2:1 - you get 167g dry, partner gets 83g dry) (15 min + 5 min steam)
 - Make Foster Sauce while quinoa cooks
 - Sear seabass last (4-6 min total)
 - Hard-boiled eggs can be prepped with Day 1 batch

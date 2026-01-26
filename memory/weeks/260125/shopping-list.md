@@ -37,7 +37,7 @@
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Long grain rice | 225g | Day 2: Taco Bowls |
-| Quinoa | 247g | Day 3: Seabass Bowls |
+| Quinoa | 200g | Day 3: Seabass Bowls |
 | Sweet potatoes (fresh) | 800g (~200g x 4 servings) | Day 4: Roast Chicken |
 
 ---
