@@ -105,10 +105,8 @@ All plain proteins are naturally FODMAP-free:
 - Oranges, grapes, strawberries
 - Blueberries (40g limit)
 
-#### Dairy Alternatives
-- Lactose-free milk
-- Hard cheeses (cheddar, parmesan)
-- Almond/oat milk (check for additives)
+#### Dairy
+- All dairy is fine (lactose tolerated)
 
 ### Current Recipe Review
 
