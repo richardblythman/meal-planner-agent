@@ -139,7 +139,6 @@ All plain proteins are naturally FODMAP-free:
 | Garlic | Garlic-infused olive oil (FODMAPs don't dissolve in oil) |
 | Onion | Green part of spring onions, chives, asafoetida |
 | Onion (bulk) | Fennel bulb, celery |
-| Honey | Maple syrup (pure) |
 
 ### End of Phase 1: Evaluating Success
 
