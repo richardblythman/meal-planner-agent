@@ -27,6 +27,10 @@ A structured approach to identifying FODMAP triggers, specifically designed for 
 - IBS-D patients have the **highest response rate** (86%) to low-FODMAP elimination
 - Most common triggers for IBS-D: Fructans (56%), Mannitol (54%), GOS (35%)
 
+### Personal Notes
+
+- **Lactose**: Tolerated - dairy is not a trigger
+
 ---
 
 ## Phase 1: Elimination (2-6 weeks)
