@@ -263,6 +263,8 @@ GOS: MODERATE - 1/2 cup beans max
 | **Bell pepper** | ≤75g | 75-250g | >250g |
 | **Asparagus** | ≤42g | - | >42g |
 | **Snow peas** | ≤16g (5 pods) | - | >16g |
+| **Peas (frozen)** | ≤15g (1 tbsp) | - | >15g (GOS) |
+| **Peas (canned, drained)** | ≤53g (¼ cup) | - | >53g (GOS) |
 | **Cabbage** | ≤75g | - | >75g |
 | **Carrots (orange, mature)** | ≤500g | - | - |
 | **Baby carrots** | ≤120g (5 small) | - | >120g (contain sorbitol, mannitol, fructans, GOS) |
