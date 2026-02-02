@@ -285,6 +285,15 @@ GOS: MODERATE - 1/2 cup beans max
 
 ---
 
+## Daily Serving Guidelines
+
+**Monash recommendations:**
+- **Vegetables**: 5 servings per day (1 serving = ½ cup cooked or 1 cup raw)
+- **Fruit**: 2 servings per day, spaced 3-4 hours apart
+- **Max 2 vegetable servings per meal** to avoid stacking
+
+---
+
 ## FODMAP Stacking Warning
 
 Even low-FODMAP foods can trigger symptoms when combined in one meal.
