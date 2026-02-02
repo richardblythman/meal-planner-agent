@@ -278,7 +278,7 @@ Check these carefully - often contain polyols:
 
 - [ ] Protein bars/powders (often contain inulin, chicory root)
 - [ ] Sugar-free gum, mints, candy (sorbitol, mannitol, xylitol)
-- [ ] Medications/supplements (lactose, sorbitol as fillers)
+- [ ] Medications/supplements (sorbitol as fillers)
 - [ ] Sauces, marinades (onion, garlic powder)
 - [ ] Stock cubes/broth (often contain onion)
 - [ ] Pre-made spice blends
