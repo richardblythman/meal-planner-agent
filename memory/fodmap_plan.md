@@ -139,6 +139,29 @@ All plain proteins are naturally FODMAP-free:
 | Onion (bulk) | Fennel bulb, celery |
 | Honey | Maple syrup (pure) |
 
+### End of Phase 1: Evaluating Success
+
+**When to evaluate**: After 2-6 weeks of strict elimination.
+
+**Signs it's working (proceed to Phase 2):**
+- [ ] Reduced diarrhea frequency
+- [ ] Improved stool consistency (Bristol scale moving toward 3-4)
+- [ ] Less urgency
+- [ ] Reduced bloating/gas
+- [ ] Less abdominal pain
+
+**How much improvement?** Aim for ~50-75% symptom reduction. You don't need to be 100% symptom-free.
+
+**Signs it's NOT working (after 6 weeks):**
+- No meaningful change in symptoms
+- FODMAPs may not be your main trigger
+- Consider: stress, other food intolerances, SIBO, etc.
+
+**Before moving to Phase 2, confirm:**
+- [ ] Strict elimination for at least 2 weeks
+- [ ] Symptoms have noticeably improved
+- [ ] You have a clear baseline to compare against during reintroduction
+
 ---
 
 ## Phase 2: Reintroduction (8-12 weeks)
