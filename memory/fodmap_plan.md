@@ -118,8 +118,6 @@ All plain proteins are naturally FODMAP-free:
 | Seabass Bowls | Caramelized onions | Replace with garlic-infused oil + chives |
 | All recipes with onion | Fructans | See substitutions below |
 | Sugar snap peas | Limit to 16g/5 pods | Swap for green beans |
-| Sour cream | Check lactose content | Use lactose-free version |
-| Natural kefir | Lactose | May be OK (fermented) - test in reintro |
 
 **Safe Recipes/Components:**
 - Salmon (plain protein) ✓
