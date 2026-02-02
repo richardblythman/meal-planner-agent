@@ -104,6 +104,7 @@ All plain proteins are naturally FODMAP-free:
 - Kiwi ✓
 - Oranges, grapes, strawberries
 - Blueberries (40g limit)
+- Raspberries (60g / ⅓ cup limit)
 
 #### Dairy
 - All dairy is fine (lactose tolerated)
