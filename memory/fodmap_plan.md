@@ -176,9 +176,10 @@ Test polyols first (most common IBS-D triggers), then fructans:
 | 3 | Fructans (veg) | Garlic | 1/4 clove | 1/2 clove | 1 clove |
 | 4 | Fructans (veg) | Onion | 1 tbsp | 2 tbsp | 1/4 onion |
 | 5 | Fructans (grain) | Wheat bread | 1/2 slice | 1 slice | 2 slices |
-| 6 | Lactose | Milk | 60ml | 130ml | 250ml |
-| 7 | Fructose | Mango | 9g | 20g | 30g |
-| 8 | GOS | Canned beans | 45g | 65g | 100g |
+| 6 | Fructose | Mango | 9g | 20g | 30g |
+| 7 | GOS | Canned beans | 45g | 65g | 100g |
+
+*Lactose skipped - already known to be tolerated.*
 
 ### Symptom Tracking During Reintroduction
 
