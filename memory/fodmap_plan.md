@@ -57,11 +57,6 @@ A structured approach to identifying FODMAP triggers, specifically designed for 
 - Stone fruits: peaches, plums, nectarines, apricots (sorbitol)
 - Dried fruits
 
-#### Dairy
-- Milk (cow, goat, sheep)
-- Soft cheeses, ice cream, custard
-- Regular yogurt
-
 #### Grains
 - Wheat, rye, barley (in large amounts)
 
