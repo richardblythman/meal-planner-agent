@@ -73,7 +73,8 @@ A structured approach to identifying FODMAP triggers, specifically designed for 
 
 | Vegetable | Safe Serving | Notes |
 |-----------|--------------|-------|
-| Carrots | Unlimited | No FODMAPs |
+| Carrots (orange, mature) | 500g (~5 medium) | Low FODMAP |
+| Baby carrots | 120g (~5 small) | >120g contains sorbitol, mannitol, fructans, GOS |
 | Spinach | 75g | ✓ Currently in your rotation |
 | Broccoli florets | 75g (3/4 cup) | ✓ Currently in your rotation |
 | Zucchini/Courgette | 50-65g | Above 85g = high fructans |
