@@ -163,6 +163,13 @@ All plain proteins are naturally FODMAP-free:
 - [ ] Symptoms have noticeably improved
 - [ ] You have a clear baseline to compare against during reintroduction
 
+**If symptoms persist after 2 weeks on standard limits:**
+1. Check for hidden FODMAPs (stock cubes, sauces, spice blends)
+2. Reduce portions to 50% of limits (e.g. 35-40g spinach instead of 75g)
+3. Reduce variety per meal (one low-FODMAP veg instead of two)
+4. If that works, your personal limits are lower than Monash averages
+5. Use Phase 2 to find your exact thresholds
+
 ---
 
 ## Phase 2: Reintroduction (8-12 weeks)
