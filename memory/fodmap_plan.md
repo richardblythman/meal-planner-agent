@@ -103,7 +103,7 @@ All plain proteins are naturally FODMAP-free:
 
 #### Fruits (Low-FODMAP)
 - Bananas (unripe/slightly green) ✓
-- Kiwi ✓
+- Kiwi (2 small / 150g limit)
 - Oranges, grapes, strawberries
 - Blueberries (40g limit)
 - Raspberries (60g / ⅓ cup limit)
