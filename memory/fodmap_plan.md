@@ -244,7 +244,10 @@ GOS: MODERATE - 1/2 cup beans max
 | **Asparagus** | ≤42g | - | >42g |
 | **Snow peas** | ≤16g (5 pods) | - | >16g |
 | **Cabbage** | ≤75g | - | >75g |
-| **Carrots** | Unlimited | - | - |
+| **Carrots (orange, mature)** | ≤500g | - | - |
+| **Baby carrots** | ≤120g (5 small) | - | >120g (contain sorbitol, mannitol, fructans, GOS) |
+| **Purple carrots** | ≤31.5g | - | >31.5g (fructose) |
+| **White carrots** | ≤100g | - | >100g (fructose) |
 | **Cucumber** | Unlimited | - | - |
 | **Spinach** | ≤75g | - | Check |
 | **Tomatoes** | ≤75g | - | Check |
