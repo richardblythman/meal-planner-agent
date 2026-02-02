@@ -65,7 +65,7 @@ A structured approach to identifying FODMAP triggers, specifically designed for 
 - Beans, lentils, chickpeas (GOS)
 
 #### Other
-- Honey, agave, high-fructose corn syrup
+- Agave, high-fructose corn syrup
 - Sugar-free products (contain polyols)
 
 ### Foods that are SAFE
