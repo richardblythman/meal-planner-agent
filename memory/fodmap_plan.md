@@ -30,6 +30,7 @@ A structured approach to identifying FODMAP triggers, specifically designed for 
 ### Personal Notes
 
 - **Lactose**: Tolerated - dairy is not a trigger
+- **Fructose (honey)**: Tolerated - can keep using honey
 
 ---
 
