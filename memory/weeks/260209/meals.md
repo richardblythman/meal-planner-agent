@@ -8,8 +8,8 @@
 ## Meal Plan
 
 ### Monday - February 9
-**Dinner:** Salmon Dish
-- Salmon (likely Almond Quinoa and Salmon Bowls or similar)
+**Dinner:** [Almond Quinoa and Salmon Bowls](../../recipes/almond-quinoa-and-salmon-bowls-scaled.md)
+- Baked salmon with quinoa, almonds, and vegetables
 
 ---
 
