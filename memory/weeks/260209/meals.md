@@ -8,8 +8,8 @@
 ## Meal Plan
 
 ### Monday - February 9
-**Dinner:** [Almond Quinoa and Salmon Bowls](../../recipes/almond-quinoa-and-salmon-bowls-scaled.md)
-- Baked salmon with quinoa, almonds, and vegetables
+**Dinner:** [Crispy Potato and Smoked Salmon Power Bowls](../../recipes/crispy-potato-and-smoked-salmon-power-bowls.md)
+- Baked salmon with roasted baby potatoes, wilted spinach, hard-boiled eggs, avocado, cucumber, and lemon kefir sauce
 
 ---
 
