@@ -14,7 +14,7 @@
 ---
 
 ### Tuesday - February 10
-**Lunch:** Salmon Dish (leftovers from Monday dinner)
+**Lunch:** Almond Quinoa and Salmon Bowls (leftovers from Monday dinner)
 
 **Dinner:** Chicken Taco Bowl
 - Blackened chicken taco bowl with rice, beans, and toppings
